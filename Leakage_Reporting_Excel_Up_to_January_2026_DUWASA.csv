@@ -1,0 +1,883 @@
+﻿👷🏾Reporter Name,🗓️ Reporting Date,📍 Location,📍 Area Name,💧 Leakage Type,🚫 Leakage severity,Pipe Material,Pipe size,🗓️ Fixed Date,🧑‍🔧Plumber Name,🚧 Leakage Status,Remarks,Leak ID,OBJECTID,GlobalID,x,y
+Paschal Innocent,11/30/2023 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-614,614,5f297de4-297c-4240-8992-6aef4043147a,35.83723068,-6.124340272
+Paschal Innocent,11/30/2023 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-615,615,9906cb62-e913-4af4-831e-b167e3855f85,35.835342,-6.1249176
+Paschal Innocent,1/11/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-01-11-PI-1,616,d413ca7d-4132-43ac-b029-ac029dad33fa,35.84841,-6.1152204
+Paschal Innocent,1/16/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-617,617,017a5e37-172e-405e-a806-9736ccd5bfad,35.8201915,-6.1343376
+Paschal Innocent,1/16/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-618,618,70aed3fb-53be-4609-bb52-9da458d0be19,35.8203297,-6.1347653
+Kelvin Swai,4/26/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-619,619,acd0008a-88bb-4cd6-bd65-1d19ab749d47,35.8337348,-6.1312547
+Paschal Innocent,3/7/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-620,620,9360614d-ba3a-40a1-a64d-cfc0aed55f84,35.8491035,-6.125292
+Paschal Innocent,3/4/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-621,621,edc4b9f4-5233-4cb9-9e06-2c487e07e5b4,35.8252661,-6.1375231
+Paschal Innocent,3/7/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-622,622,940dd222-e0b2-4386-a87e-457a194cbe15,35.8344179,-6.1311207
+Paschal Innocent,3/7/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-623,623,7f5706ee-07d9-48e0-9572-85ffdf65fc78,35.848316,-6.124306
+Paschal Innocent,3/4/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-03-04-PI-1,624,c90b6c67-dade-47f7-afda-781a9ffc275d,35.8318909,-6.13238
+Paschal Innocent,3/11/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-03-11-PI-1,625,8d7aa724-e97e-4c1d-b7ea-5a30dd70a1c9,35.8259881,-6.1369289
+Paschal Innocent,3/4/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Temporal Fix,,2024-03-04-PI-1,626,6ab21118-7efd-4c18-a882-557fab1c9fb2,35.8322096,-6.1322083
+Masasa Makubi,2/18/2024 0:00,Nzuguni DMA,Nzuguni Kwa masister,,,HDPE,"3/4""""",,Masasa Makubi,Fixed,,Leak-627,627,ff1ca7ea-d697-48d1-986c-15cc88f29076,35.840777,-6.1181324
+Paschal Innocent,3/30/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-628,628,95859f91-912f-4506-a489-e8483f39d8a8,35.8326037,-6.1320936
+Paschal Innocent,3/14/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-629,629,e8a379c9-9c37-498d-8fcd-74018b623b1b,35.8327482,-6.1327738
+Paschal Innocent,3/15/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,2024-03-15-PI-1,630,8370d940-7f1d-4d27-8990-974a36cc36de,35.8241624,-6.1266242
+Paschal Innocent,3/9/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-03-09-PI-1,631,7cb1a72a-cd50-4e09-b5b2-195211901265,35.8306156,-6.1333285
+Paschal Innocent,2/12/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-632,632,86e7d4cf-2512-4b7d-9775-97b1b8985790,35.8365716,-6.1231222
+Paschal Innocent,2/12/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-633,633,36aa6b2c-42c5-4dd4-88c5-f46af831ce34,35.8365875,-6.1230865
+Paschal Innocent,2/12/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-634,634,1cd392a1-ef68-40b6-bb17-32bf2f07d10a,35.8252258,-6.1296748
+Paschal Innocent,4/23/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-635,635,0540bd3d-2ef4-4148-9480-f5d7f497b8e6,35.832329,-6.1256065
+Paschal Innocent,3/20/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-636,636,e5293fb1-0a75-43e3-b492-74f418a5e037,35.8195493,-6.1309748
+Paschal Innocent,1/28/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-637,637,38ce9015-efa5-4b06-9de4-003f5fe9f82d,35.8462393,-6.126123
+Paschal Innocent,3/22/2024 0:00,Nzuguni DMA,Nzugun,,,uPVC,"4""""",,Paschal Innocent,Fixed,,Leak-638,638,2e80ef27-b7bc-4241-8d03-85d67cc89f53,35.813011,-6.1243474
+Paschal Innocent,1/30/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-639,639,81f595a5-0438-453d-81f9-e3bcb04da478,35.8202342,-6.1347986
+Paschal Innocent,1/30/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-640,640,2841cf67-3400-4a1b-860d-46889339dc11,35.84671,-6.1277538
+Paschal Innocent,1/3/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-641,641,e3a9cf89-4e1f-4ad3-99d8-5f3741c1feb6,35.8453356,-6.1236643
+Paschal Innocent,1/3/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-01-03-PI-1,642,331b1336-c420-4c02-b98d-b469ea7ac070,35.815613,-6.1374604
+Paschal Innocent,1/7/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-01-07-PI-1,643,d3790263-f590-4108-ac05-accc96a4d79a,35.8403595,-6.1294322
+Paschal Innocent,1/7/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-01-07-PI-2,644,a7c334e1-fed3-426b-99c9-a17169eef076,35.8354375,-6.1193753
+Paschal Innocent,1/9/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-645,645,2be45de0-00e8-4fb2-8f96-1e1d278668a4,35.8132821,-6.1215431
+Masasa Makubi,1/10/2024 0:00,Nzuguni DMA,Kisasa,,,HDPE,"2""""",,Masasa Makubi,Fixed,,2024-01-10-PI-1,646,58e2abbf-20d5-484a-98e4-3cdfb5a990f0,35.8274845,-6.1404111
+Paschal Innocent,1/10/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-647,647,29986d7f-3556-4bd2-b5fa-76564cfe742e,35.819142,-6.1413931
+Paschal Innocent,1/11/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-648,648,8c39867a-a198-4f92-849b-9b04af90d239,35.8483783,-6.1152915
+Paschal Innocent,2/1/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-02-01-PI-1,649,1686d210-c376-4e9f-a6c9-49656a4e72f5,35.8207671,-6.1279529
+Paschal Innocent,2/1/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-02-01-PI-2,650,027c0f66-e238-48bc-a69b-f2a94a2e4402,35.8207697,-6.1279426
+Paschal Innocent,2/1/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-02-01-PI-3,651,0797b8f7-f2dd-4db8-b80a-5f0cb2202dff,35.8367516,-6.1292769
+Paschal Innocent,2/6/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,224-02-06-PI-1,652,e65be3cf-4a4a-4128-a344-5be33ad35281,35.8267624,-6.1332397
+Masasa Makubi,1/14/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1""""",,Masasa Makubi,Fixed,,Leak-653,653,d59f7285-5a62-41a8-b7ab-22a4f18a950d,35.8138489,-6.1458777
+Paschal Innocent,2/12/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-654,654,88ecd50f-824f-452c-8ad2-8f65634495e3,35.8266054,-6.1304013
+Paschal Innocent,2/12/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-655,655,9d466c28-d73b-4c92-8b6a-148f1c88fba8,35.8266658,-6.1303776
+Paschal Innocent,3/26/2024 0:00,Nzuguni DMA,,,,uPVC,"4""""",,Paschal Innocent,Fixed,,Leak-656,656,93a4f50c-e044-4e4c-b75d-1c4cb5779527,35.8320479,-6.1238289
+Paschal Innocent,3/26/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-657,657,17ed69b9-6b31-4497-bd09-51ca87354cea,35.8367043,-6.1293704
+Paschal Innocent,3/27/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-658,658,6bafe12d-97ea-4d2c-ad03-3f6ce6fec927,35.8447074,-6.1235067
+Kelvin Swai,3/31/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,2024-03-31-KS-1,659,8ad243e5-ff9e-4d71-9188-54ef62e8e791,35.8358392,-6.1196017
+Pinno Shauri,4/10/2024 0:00,Nzuguni DMA,Nzuguni ,,,uPVC,"4""""",,Pinno Shauri,Fixed,,2024-04-10-PS-1,660,4f9a1cd3-0e4a-4e07-a8a4-14752a4c39f7,35.81316305,-6.124417554
+Kelvin Swai,3/31/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Temporal Fix,,2024-03-31-KS-2,661,6ab3dbba-8efb-4329-bf1a-00992a89f516,35.8249308,-6.1378296
+Kelvin Swai,4/10/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Kelvin Swai,Fixed,,Leak-662,662,faa384ae-061f-4200-b32e-0f6d0a088e29,35.824889,-6.1378393
+Paschal Innocent,4/8/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-04-08-PI-1,663,b630466c-72af-4cec-aeef-0e373503d24e,35.823641,-6.1267397
+Kelvin Swai,6/22/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-664,664,e1dea13a-7e8a-40ff-bade-1b90e9c2ec4f,35.8414783,-6.1255133
+Paschal Innocent,7/12/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-665,665,3691779d-c3c9-4205-8320-6096f377ca5a,35.8234276,-6.1429711
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni A Kwa yusuf,,,HDPE, ,,Edward Massawe,Fixed,,Leak-666,666,0397876d-2e02-4d98-93fe-448b78588b4b,35.8485474,-6.1137597
+Kelvin Swai,7/19/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-667,667,16ea4618-9a42-4731-b0f4-6cef27990c15,35.8262535,-6.1438145
+Paschal Innocent,5/2/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-668,668,f26a0724-48ea-4776-83e5-0bc172bc760d,35.8482164,-6.1163128
+Kelvin Swai,6/16/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Kelvin Swai,Fixed,,Leak-669,669,8cde673e-7686-44ed-8e56-19154eb40bfc,35.8306524,-6.1422906
+Paschal Innocent,7/23/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-670,670,5e0bab36-9046-458d-9413-be064bda9b48,35.8326173,-6.131997
+Paschal Innocent,7/23/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-671,671,cecc7914-d070-4586-a402-8575eaf33b76,35.8325342,-6.1320933
+Paschal Innocent,7/23/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-672,672,ed579c67-e9d3-4d12-9ef2-d3dfeb3123a4,35.8365277,-6.1229289
+Paschal Innocent,6/10/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-06-10-PI-1,673,8119a2ac-647e-4633-bb27-af2f2f9bda14,35.8361726,-6.1332047
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun Kwa makelemo jilan ,,,HDPE,"1""""",,Mussa Lusake,Fixed,,Leak-674,674,1c9329b3-d004-443a-b27f-2e9635915119,35.8312251,-6.1326748
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun,,,HDPE, ,,Mussa Lusake,Fixed,,Leak-675,675,69993352-6d08-4c01-86da-3c47899ea838,35.8291361,-6.1350526
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun Kwa zed library,,,HDPE, ,,Mussa Lusake,Fixed,,Leak-676,676,8d8b71c4-a557-4742-aa2c-f8c4fa7fae9b,35.8337129,-6.1241374
+Paschal Innocent,7/26/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-677,677,a350df13-b7ca-451b-bf7b-2a743b9e254b,35.8286306,-6.1347536
+Kelvin Swai,5/9/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Temporal Fix,,2024-05-09-KS-1,678,78d339e8-ab4f-44b6-8ab1-907ea9dc8938,35.8329435,-6.1317501
+Kelvin Swai,5/9/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-679,679,b0aec07c-85c1-4cd5-823c-ed2f4a8e59d3,35.8381782,-6.1282141
+Paschal Innocent,5/13/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-05-13-PI-1,680,cb89ecf9-ba32-4374-ae77-c2dd7c04a7f5,35.8332951,-6.127473
+Paschal Innocent,5/13/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-05-13-PI-2,681,bc396561-f11f-40fe-bd2e-efd6cb7c3ae1,35.8340945,-6.1241365
+Paschal Innocent,5/17/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-682,682,9be2c209-c54d-4411-bd27-7e0dd0794e38,35.828608,-6.1351069
+Kelvin Swai,6/15/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-683,683,bdb13583-1237-40e0-b88b-c2b10a37f8d1,35.8318017,-6.1397882
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni secondar ,,,HDPE,"3/4""""",,Edward Massawe,Fixed,,Leak-684,684,a7ad4b31-0c2c-452c-ba90-7d6cbbf3d1b1,35.8392799,-6.1312224
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA, Nzuguni. B karibu na secondary ,,,HDPE,"3/4""""",,Edward Massawe,Fixed,,Leak-685,685,932ea45f-71eb-46e6-8202-919b86800c63,35.8392744,-6.131276
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni kwa mjeshi,,,HDPE,"2""""",,Jilala Majebele,Fixed,,Leak-686,686,711cd158-a90b-4ce0-9299-7380ef86d4cc,35.8460114,-6.1249317
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni secondar ,,,HDPE,"2""""",,Edward Massawe,Fixed,,Leak-687,687,af908e2b-eabc-4860-a1b0-129f3589aadc,35.8390523,-6.1313459
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni ,,,HDPE, ,,Jilala Majebele,Fixed,,Leak-688,688,92a04005-e6c4-41d7-9896-52e7582a0e27,35.8459741,-6.1249502
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni secondar ,,,HDPE,"2""""",,Edward Massawe,Fixed,,Leak-689,689,b5a3cd81-a8cd-4451-bf08-d74b07bf641b,35.8390424,-6.1313227
+Paschal Innocent,5/31/2024 0:00,Nzuguni DMA,Nzuguni A kwa mjeshi,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-690,690,168dbeef-3c43-4681-8ffd-6b1b204ae25b,35.8457575,-6.1242773
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni mjeshi road,,,HDPE,"2""""",,Jilala Majebele,Fixed,,Leak-691,691,d7a4c721-1cb7-49ae-8426-ee01c74c654e,35.846002,-6.124979
+Paschal Innocent,5/31/2024 0:00,Nzuguni DMA,Nzungu A,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-692,692,c6474f77-3386-411e-a48e-b948495e1de9,35.8467945,-6.1226284
+Peter Mwagike,5/31/2024 0:00,Nzuguni DMA,Nzuguni stop over ,,,HDPE,"1""""",,Peter Mwagike,Fixed,,Leak-693,693,bbe7765d-d540-40eb-b467-1ddff99b47a4,35.8471778,-6.1203718
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni stop over,,,HDPE,"3/4""""",,Jilala Majebele,Fixed,,Leak-694,694,fd6a39f7-a013-4f7e-844e-292e96d0a4de,35.84735,-6.1207182
+Peter Mwagike,5/31/2024 0:00,Nzuguni DMA,Lydas stop over,,,HDPE,"1.5""""",,Peter Mwagike,Fixed,,Leak-695,695,cd80ef83-3d17-4db4-afe7-a370b5776e8b,35.8470403,-6.120519
+Paschal Innocent,5/31/2024 0:00,Nzuguni DMA,Nzuguni karibu na stop over,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-696,696,f59ffb4b-0e5b-4dec-b06d-1ded6deb087d,35.8468758,-6.1206567
+Pinno Shauri,5/31/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1.5""""",,Pinno Shauri,Fixed,,Leak-697,697,eb975fdf-4402-4389-9ae8-d4be27f78645,35.8469747,-6.1205362
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni A shule ya msingi ,,,HDPE, ,,Edward Massawe,Fixed,,2024-05-31-PI-1,698,22b3f5b6-3216-4e60-9e37-a148cc941129,35.848025,-6.1178103
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Jilala Majebele,Fixed,,Leak-699,699,789255e5-e12f-4662-9ef1-ef84d90743b0,35.8435674,-6.1214259
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni A,,,HDPE,"3/4""""",,Jilala Majebele,Fixed,,Leak-700,700,fd00aed1-8f69-4b0b-ac42-eb54070b2a53,35.8377185,-6.1228249
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni sec,,,HDPE,"1.5""""",,Jilala Majebele,Fixed,,Leak-701,701,af3f85c8-35a4-416e-868a-9ce4a39a7479,35.8367358,-6.1292077
+Peter Mwagike,5/31/2024 0:00,Nzuguni DMA,Nzuguni fire ,,,HDPE,"2""""",,Peter Mwagike,Fixed,,Leak-702,702,86dccda2-233b-4af0-8e89-56c84f322409,35.8419508,-6.1264899
+Laurence Lenjila,5/31/2024 0:00,Nzuguni DMA,Zuguni,,,uPVC,"4""""",,Laurence Lenjila,Fixed,,Leak-703,703,e4b150fa-5adb-43f4-822d-4bda02d07af8,35.8326845,-6.1310228
+Edward Massawe,5/31/2024 0:00,Nzuguni DMA,Nzuguni A Ndani ya shule,,,HDPE,"1.5""""",,Edward Massawe,Fixed,,Leak-704,704,48c58209-3be6-4efc-be49-5e2e9beb9026,35.8491698,-6.1178546
+Jilala Majebele,5/31/2024 0:00,Nzuguni DMA,Nzuguni sekondary oppste,,,HDPE,"1.5""""",,Jilala Majebele,Fixed,,Leak-705,705,41b41cb2-d753-4a8b-9400-49396c45e084,35.8366035,-6.1303912
+Paschal Innocent,6/3/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-706,706,8f2b7413-2d12-48fc-8aaa-187aa9b0e02a,35.8203987,-6.1410267
+Paschal Innocent,6/4/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-707,707,176d6441-143b-4691-8781-f6057b38409f,35.8511845,-6.1094201
+Paschal Innocent,7/6/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-708,708,cce272f5-0d4f-40fc-a5df-26785568c35e,35.8481783,-6.1180745
+Paschal Innocent,6/6/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-06-06-PI-1,709,9388d591-1ade-402f-a63c-984c57fa7326,35.8419439,-6.1251781
+Kelvin Swai,6/8/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-710,710,46fd1ecb-c4e4-4ef9-aa06-c18ab0eb70f1,35.8318701,-6.1397847
+Paschal Innocent,6/10/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-711,711,c6bc43cf-075d-402d-8439-9c9fc263ee34,35.8233729,-6.1431341
+Paschal Innocent,6/10/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-712,712,03c5e0e6-b080-411e-a6d9-b86eceec6fc6,35.8298656,-6.1415022
+Paschal Innocent,6/11/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-713,713,681c60d5-2ee8-4fe6-8c83-6e9a9c24fa3c,35.8356363,-6.1297285
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun ,,,HDPE,"1.5""""",,Mussa Lusake,Fixed,,Leak-714,714,424f1c82-9b3c-4cd7-b5d4-df69e6161da9,35.8312318,-6.1326994
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun ,,,HDPE, ,,Mussa Lusake,Fixed,,Leak-715,715,bfb2b2e9-9371-45d6-8cd4-6d70212103f9,35.8321022,-6.1242244
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun Kwa makelemo,,,HDPE, ,,Mussa Lusake,Fixed,,Leak-716,716,5984bca5-7d34-4381-b2a4-aab7b0b203dd,35.8307059,-6.1334346
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun Kwa makelemo jilan kweny matofar,,,HDPE,"1""""",,Mussa Lusake,Fixed,,Leak-717,717,9d49b1d6-3eac-418a-b0f2-7e3d97706c56,35.8304358,-6.1328431
+Mussa Lusake,5/31/2024 0:00,Nzuguni DMA,Uzungun  Kwa batman weldn,,,HDPE,"2""""",,Mussa Lusake,Fixed,,Leak-718,718,a276aa24-c40f-42ca-98bf-4174e7b88603,35.8297881,-6.1353256
+Kelvin Swai,6/19/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-719,719,d3881c8e-567a-418e-9d7a-b63508c3a0e3,35.8306822,-6.1429374
+Kelvin Swai,6/21/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-720,720,b7841866-e76e-4228-bb6e-901e1e36f584,35.8142436,-6.1355034
+Kelvin Swai,7/9/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Kelvin Swai,Fixed,,Leak-721,721,c88cdb14-7ed9-46a0-85d5-2813335b98a4,35.8343533,-6.1243983
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,Nanenane,,,HDPE, ,,Paschal Innocent,Fixed,,2024-10-31-PI-1,722,b0a05c8a-93d2-4dd4-a1c0-c4bdfdd9644b,35.8262645,-6.1437229
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-723,723,6d6ca1b9-9d1d-4092-956a-51ee8c30fedf,35.8198022,-6.1333035
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,Nanenane,,,HDPE, ,,Paschal Innocent,Fixed,,2024-10-31-PI-2,724,6ea2b2f2-bfe9-490f-bda1-987de8ece6ee,35.8267724,-6.1437475
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-725,725,54351db6-6aa7-4f75-acad-7d400d051793,35.8199051,-6.1332702
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,Manenane,,,HDPE, ,,Paschal Innocent,Fixed,,2024-10-31-PI-3,726,a26f3335-60ac-48c1-ae4c-92acf4a1ff1c,35.8375623,-6.1369441
+Paschal Innocent,10/30/2024 0:00,Nzuguni DMA,Mzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-10-30-PI-1,727,896cab87-69dd-43a1-8838-892c994989dc,35.8475426,-6.1210347
+Paschal Innocent,10/31/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-728,728,66740214-82b8-4794-82cd-8b906e3da1e0,35.837467,-6.136932
+Paschal Innocent,10/30/2024 0:00,Nzuguni DMA,Nzuguni A,,,HDPE, ,,Paschal Innocent,Fixed,,2024-10-30-PI-2,729,8c822089-cb03-44dd-a088-6c1a22f799d7,35.8472685,-6.1202258
+Paschal Innocent,10/30/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-730,730,1abc6807-652a-455f-81d9-3d56eb9ae0a2,35.8472764,-6.1207811
+Paschal Innocent,10/28/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-731,731,1358e005-35c3-4c17-ba37-d09d1fd357b5,35.8458609,-6.1253114
+Paschal Innocent,11/5/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-11-05-PI-1,732,53c67fdd-b698-419b-808c-b67d6fff631b,35.8131573,-6.1323304
+Paschal Innocent,11/6/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-733,733,923e9b61-4e74-42e6-bc77-a0bac6859773,35.8206241,-6.1225464
+Paschal Innocent,10/7/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-734,734,8a5aecf3-eb2a-47b1-93a1-56122fb9d626,35.8349741,-6.1260544
+Paschal Innocent,11/8/2024 0:00,Nzuguni DMA,Nanenane,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-735,735,376697c1-006f-4f7b-8dd8-7bebdbaffc10,35.8327152,-6.1447624
+Paschal Innocent,9/4/2024 0:00,Nzuguni DMA,Nzugun ,,,uPVC,"4""""",,Paschal Innocent,Fixed,,Leak-736,736,2c879b07-97b2-4c53-8aa2-68c0a22c3cfb,35.8131739,-6.1247757
+Paschal Innocent,9/3/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-737,737,cc3b37ea-5d25-407e-8621-ba004ac9bef3,35.8397719,-6.1219286
+Paschal Innocent,8/27/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-738,738,0a49e6b5-0cab-4813-af0e-92fa6df14884,35.8455637,-6.1242221
+Paschal Innocent,8/30/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-739,739,21dbaa9c-55dc-4cb7-83fe-1826530c91cc,35.8243078,-6.1385792
+Paschal Innocent,9/3/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-740,740,89bea21c-37d4-462b-8274-fea9442e5c7b,35.8396999,-6.1218126
+Paschal Innocent,10/19/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-741,741,e7e1ec30-2ba1-4a78-a3cd-546ebab1493c,35.839975,-6.1226118
+Paschal Innocent,9/24/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-09-24-PI-1,742,6b56f588-380e-4521-b262-16c4c72d4c6e,35.8353182,-6.1364276
+Paschal Innocent,9/19/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-743,743,7fc10db0-0446-4944-beb3-aa6dc34276cf,35.8430377,-6.1243618
+Paschal Innocent,9/24/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-09-24-PI-1,744,b84604b5-62f5-4b6f-afac-6170cf30fe9d,35.8332074,-6.1305121
+Paschal Innocent,9/24/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-745,745,01a90268-a3bd-4f02-b147-b1e461efcb6d,35.8520604,-6.1084747
+Paschal Innocent,9/24/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-746,746,1c23b163-77b8-40ca-a74b-14524c8260f2,35.8540764,-6.1075533
+Paschal Innocent,9/24/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-09-24-PI-2,747,ea3777ee-414e-4e71-b5cc-5d17819a3f94,35.8370729,-6.1373404
+Paschal Innocent,10/1/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-748,748,4a3e793f-6237-4de9-a799-ad331d4a81c0,35.8497831,-6.1253803
+Paschal Innocent,10/1/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-749,749,789e4351-b708-416a-a024-181f11642032,35.84852,-6.1246242
+Paschal Innocent,11/15/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-750,750,c8ddaedf-fc59-453e-9b39-a0cd8bb2e120,35.8302218,-6.1447351
+Paschal Innocent,11/15/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-751,751,ba0be618-f430-4444-b692-2dc73c04431b,35.8309464,-6.1432057
+Paschal Innocent,11/19/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-752,752,e562496f-39a2-402f-ac01-8d2f495fd860,35.8128861,-6.1433263
+Paschal Innocent,11/20/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-753,753,583bc2bb-4438-42f1-9b87-b34d7a63fc9b,35.8308842,-6.1317071
+Paschal Innocent,11/20/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-754,754,3eebff92-28ff-4d27-b5c5-09f645a8534e,35.8307318,-6.1316877
+Paschal Innocent,11/20/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-755,755,f3136560-5aac-4759-87c5-061436e44325,35.8308278,-6.1317491
+Paschal Innocent,11/20/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-756,756,ac3c2c3e-29e4-449d-9efc-1d08c93c2789,35.830871,-6.1317788
+Paschal Innocent,11/21/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-757,757,38584699-5ca5-4551-be0c-9024aaf6cf33,35.8328158,-6.1314519
+Paschal Innocent,11/21/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-758,758,10bc5461-26ac-4eb4-bba9-40a46836fe9d,35.833549,-6.1343195
+Paschal Innocent,11/21/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-759,759,0905a897-a98d-4c08-be87-e0bab9ca543a,35.8330369,-6.1342261
+Paschal Innocent,11/21/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-11-21-PI-1,760,a0e12964-ea4d-4b5e-86c2-fef83d07d831,35.8338042,-6.1241354
+Kelvin Swai,11/21/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Kelvin Swai,Fixed,,Leak-761,761,19653441-c4c8-4143-9e55-f1a0e23c9d28,35.8365505,-6.1227148
+Paschal Innocent,8/22/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-762,762,3d055326-7bbe-4604-9a9c-53942aeb8843,35.8197081,-6.1314299
+Kelvin Swai,8/21/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-763,763,27977616-d2c1-4514-8393-831a5c784458,35.8496262,-6.1109512
+Kelvin Swai,8/24/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Kelvin Swai,Fixed,,Leak-764,764,ef73df0f-695a-48aa-ae4e-9ddf6f86c6e7,35.8339677,-6.124131
+Paschal Innocent,8/28/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-765,765,a4821503-2562-424e-af71-f150a8fc7051,35.8194718,-6.1305356
+Paschal Innocent,8/28/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-08-28-PI-1,766,fa6feef8-c4b5-4756-a8a0-273a48d610ab,35.8152447,-6.1375393
+Paschal Innocent,8/29/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-767,767,78029559-732d-47d4-be8d-cb0b8198d48e,35.8156094,-6.1373991
+Paschal Innocent,8/22/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-768,768,7475e2fb-0496-4529-853f-f1873b3359f7,35.8259446,-6.1369566
+Paschal Innocent,8/29/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-769,769,d57b6777-a242-46a1-8b82-e7d492716873,35.8156305,-6.137222
+Paschal Innocent,8/29/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-770,770,e800d5b2-b79e-4a4f-bcc4-fb0e64d4624d,35.8156062,-6.1371785
+Paschal Innocent,8/30/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-771,771,aa84a24a-dc4b-43dd-9c08-d957d65e36fc,35.8240305,-6.1384201
+Paschal Innocent,9/3/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-772,772,ab328cd6-1d59-4a9f-b3fe-c43b94ea6783,35.8420045,-6.1187927
+Paschal Innocent,9/5/2024 0:00,Nzuguni DMA,,,,uPVC,"3""""",,Paschal Innocent,Fixed,,Leak-773,773,54888283-d9af-4d1c-9e2f-a8c7087bb9e5,35.815613,-6.1371539
+Paschal Innocent,9/5/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-774,774,4cc9d14f-9acc-44d6-951c-f91fab38896a,35.8146812,-6.1308886
+Paschal Innocent,9/5/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-775,775,9dc03dcb-11c7-425f-a382-5953306c28b7,35.8130326,-6.1196751
+Paschal Innocent,9/6/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-776,776,29e7908d-f606-4dfa-bdd0-87823efc7fd5,35.8198928,-6.1317131
+Kelvin Swai,12/2/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Kelvin Swai,Fixed,,Leak-777,777,0cfcf8bb-9a50-45b3-b236-54af329fcb47,35.8465759,-6.1223174
+Kelvin Swai,9/9/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Kelvin Swai,Fixed,,Leak-778,778,38832cd9-73ef-498a-838b-da36c0f006d0,35.8386133,-6.1304217
+Kelvin Swai,9/10/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Kelvin Swai,Fixed,,Leak-779,779,07626355-e5f5-402d-9eba-7477f057c24d,35.8306817,-6.1333665
+Kelvin Swai,10/13/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Kelvin Swai,Fixed,,Leak-780,780,595d841c-eb25-4d79-a609-cbe541de6011,35.85096,-6.109855
+Kelvin Swai,9/11/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Kelvin Swai,Fixed,,Leak-781,781,27a321f3-f002-43dd-8a2c-9a734dd27293,35.8273117,-6.1359885
+Paschal Innocent,9/17/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-782,782,ac760788-f519-4b91-9a21-e291ec995f02,35.8378925,-6.1340169
+Paschal Innocent,9/18/2024 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-783,783,3fbd85c0-d6b7-48ce-b7f3-b3c90d58a081,35.8144349,-6.1189027
+Paschal Innocent,9/18/2024 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-784,784,bdf22f3d-f589-444b-a14a-69aa7561a264,35.8136323,-6.1187803
+Paschal Innocent,10/2/2024 0:00,Nzuguni DMA,Nzuguni,,,HDPE,"2""""",,Paschal Innocent,Fixed,,2024-10-02-PI-1,785,d7067149-b854-47da-8cee-9b2ae5b28010,35.8416961,-6.1292181
+Paschal Innocent,10/15/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-786,786,c4fa8e41-414b-41ca-a754-151fcdd956cb,35.8493083,-6.1113593
+Paschal Innocent,10/22/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2024-10-22-PI-1,787,c1cea376-c88b-417c-a279-bf20271c6240,35.8346408,-6.1308877
+Paschal Innocent,10/28/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-788,788,046a1f7d-7096-4919-bd9b-ad790afc2c2b,35.8347017,-6.1308398
+Paschal Innocent,10/22/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-789,789,862c71eb-3323-460d-bcdd-114cef9a09ec,35.8491838,-6.1178955
+Paschal Innocent,11/28/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-11-28-PI-1,790,5f6a3c1b-086e-49c9-8b29-48fd0fa0a258,35.8569005,-6.1061738
+Paschal Innocent,11/21/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-791,791,19378319-39dc-46f1-bb3a-994a721337a3,35.8312574,-6.1327716
+Paschal Innocent,11/28/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2024-11-28-PI-2,792,7776fbb4-0f80-4b1c-8748-10332756c063,35.8569436,-6.1058652
+Paschal Innocent,11/23/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-793,793,7c96517f-86a1-4167-9b28-2f1217715faf,35.832165,-6.1203092
+Paschal Innocent,11/22/2024 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-794,794,67096bb7-f885-4d73-83f2-661fdf2d6101,35.8206356,-6.1225753
+Paschal Innocent,11/26/2024 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-795,795,6e133ded-5ac9-4b09-9931-66bf87c2a4fd,35.842757,-6.1233176
+Paschal Innocent,11/25/2024 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-796,796,161d09b1-be99-4e2f-b36c-4f46c52ade12,35.8352208,-6.1299164
+Paschal Innocent,11/28/2024 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2024-11-28-PI-3,797,a3adb9e9-9269-4d14-a897-d156c2ca116c,35.8571813,-6.1059371
+Paschal Innocent,11/28/2024 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-798,798,760c4929-e1c3-45e4-ab46-4a9590d09085,35.8385299,-6.1200348
+Paschal Innocent,1/15/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-799,799,4b4cbbef-2609-4ac5-85d3-eaffc983d2b0,35.8330609,-6.1222803
+Paschal Innocent,1/15/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-800,800,396f6ce3-430a-4466-aa1f-bba1112cd766,35.8506114,-6.1216294
+Paschal Innocent,1/16/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-801,801,710c74d8-7e14-4e23-a36d-a928ce9432a5,35.8345692,-6.1288992
+Paschal Innocent,1/16/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-802,802,014099ba-ea19-4eb7-b8ae-3bb00fc4f62d,35.8316058,-6.1193929
+Paschal Innocent,1/16/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-803,803,6f847919-4574-4610-a705-29a2652907e5,35.8352378,-6.1343935
+Paschal Innocent,1/16/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-804,804,e35df4b0-deec-4d94-bf96-6f21e2338a7f,35.8324907,-6.1304065
+Paschal Innocent,1/17/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-805,805,b12cb54e-932e-49d9-9e6c-63c227de8afa,35.8294326,-6.1342993
+Paschal Innocent,1/19/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-806,806,61196db1-1efe-44b7-a502-6b760e013c9f,35.8465326,-6.1241099
+Paschal Innocent,1/20/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2025-01-20-PI-1,807,54c57607-f669-4695-b1c8-6b7e8b0bb7fd,35.8317578,-6.1206162
+Paschal Innocent,1/20/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-808,808,aef201f5-ccbf-4cd3-be56-12cf3a066541,35.8247057,-6.1379743
+Paschal Innocent,1/20/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-809,809,b1f8601f-4c22-41d5-a31f-12e81a13bc2f,35.8324511,-6.1234414
+Paschal Innocent,1/20/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-810,810,b46aa907-0e5f-4744-807d-4b6864697c1d,35.8334438,-6.1312504
+Paschal Innocent,1/21/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-811,811,6c6bfcea-460c-4b86-b63f-11b5918b1d96,35.8288637,-6.1304599
+Paschal Innocent,1/21/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-812,812,d7494f1e-d240-46f9-8526-5d7997025047,35.8483114,-6.1213075
+Paschal Innocent,1/22/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-813,813,d7b9d6ac-17a2-475d-9ba2-fcb62c4fc944,35.8293746,-6.1342542
+Paschal Innocent,1/22/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-814,814,2cabe3c2-c616-4093-a5bd-c1e994efc14a,35.8419363,-6.1213946
+Paschal Innocent,1/23/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-815,815,3a1e01cf-ae31-42a9-be8e-eaab21bc1ac5,35.8290848,-6.1158262
+Paschal Innocent,1/23/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-816,816,9eabd278-f6f8-401d-9b3c-d2d7d7d5b701,35.8290535,-6.1158207
+Paschal Innocent,1/23/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-817,817,0fb5b77d-93e9-4226-b124-291a798009b6,35.8289853,-6.1157989
+Paschal Innocent,1/23/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-818,818,dad40139-4488-4311-a4c1-b770e66b7b58,35.8202016,-6.13421
+Paschal Innocent,1/24/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-819,819,52b3512c-eba6-4514-acb0-750def5aa8d5,35.8139729,-6.1294071
+Paschal Innocent,1/28/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-820,820,384ffd47-01a8-4a46-a494-56082e113251,35.8477293,-6.115989
+Paschal Innocent,1/28/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-821,821,89160bb3-f9e3-4c68-b968-bbef278bdfd4,35.8409189,-6.1297442
+Paschal Innocent,1/29/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-822,822,33c354ba-9a03-41e6-807b-58105895b630,35.8360818,-6.1225532
+Paschal Innocent,1/29/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Temporal Fix,,2025-01-29-PI-1,823,2641c453-a244-4369-b499-a619c7c3584d,35.8318948,-6.120582
+Paschal Innocent,1/29/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-824,824,059d6cf8-c96e-4928-8c8e-0aa811815d5e,35.8318361,-6.1218239
+Paschal Innocent,1/29/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-01-29-PI-2,825,dab50d8b-9007-40da-884d-50d2d30c1cdb,35.8366385,-6.1281422
+Paschal Innocent,1/30/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-01-30-PI-1,826,22e24b8a-fdc8-4cb9-8200-34bd34e8ee44,35.8480058,-6.1201162
+Paschal Innocent,1/30/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-01-30-PI-2,827,a14ee1d4-1f1f-41d9-a32f-04f672e7c202,35.8375688,-6.1268717
+Paschal Innocent,1/31/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-828,828,07e8be93-5b56-4610-ba0c-84646f7206e3,35.8317883,-6.1206054
+Paschal Innocent,1/31/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-829,829,414903b3-dc7a-4d93-b9c9-5fb21065d619,35.8513628,-6.109122
+Paschal Innocent,2/1/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-830,830,7d7e5807-0e15-4b96-adeb-daae1f0dae01,35.8354625,-6.1343871
+Paschal Innocent,2/2/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-831,831,5954e41a-f6bb-426a-bc3c-79a598e65fd7,35.8333487,-6.1313131
+Paschal Innocent,2/3/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-832,832,1b825bc9-6e6c-4836-8609-c16114b467bb,35.8294547,-6.1341812
+Paschal Innocent,2/3/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-833,833,ee2e4edb-c159-418c-906f-74c6a2f3dd82,35.8287841,-6.1346199
+Paschal Innocent,2/3/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-834,834,f0bc84aa-62ea-4941-88f1-c73fc0e99238,35.8378499,-6.1339498
+Paschal Innocent,2/3/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-835,835,ad41d126-35e8-4994-b8c2-1ea2134e0ba8,35.837391,-6.1238355
+Paschal Innocent,2/4/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-836,836,b46c8b9b-99e5-420d-bc35-3c482a9e5119,35.8546167,-6.1068894
+Paschal Innocent,2/5/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-02-05-PI-1,837,1870e24f-3eec-4eb8-b1db-9917168975df,35.8318828,-6.1217822
+Paschal Innocent,2/5/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-838,838,b7fb976d-a84d-460a-9164-fb818b4da975,35.8547652,-6.1069609
+Paschal Innocent,3/5/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-839,839,916ffb96-7e97-4428-a57d-fd18049c962c,35.8384343,-6.1212211
+Paschal Innocent,3/4/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-840,840,00191079-63e5-4384-acf1-ee60cee9c6e5,35.8247545,-6.1379412
+Paschal Innocent,2/3/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-841,841,dd43cdab-9de8-4c85-af27-0a00c47241e6,35.8378636,-6.1339961
+Paschal Innocent,2/12/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,2025-02-12-PI-1,842,772dc096-b4fe-44b0-8e22-e5a6ff307fc9,35.8352844,-6.1189296
+Paschal Innocent,2/12/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,2025-02-12-PI-1,843,f028ea65-ebc3-45c6-95d2-e59fe20761ec,35.8380502,-6.1339159
+Paschal Innocent,2/15/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-844,844,f0702d2e-350c-413a-a45c-2276f4be1397,35.8379542,-6.1340512
+Paschal Innocent,2/15/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-845,845,55fe01c1-521b-4cf7-9918-b5d60b7eeb96,35.8379755,-6.1339127
+Paschal Innocent,2/15/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-846,846,898b46cc-a994-4d9d-8f2e-08a89c813eb1,35.8485222,-6.1246179
+Paschal Innocent,2/15/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-847,847,06f7f03f-f395-47b5-9cee-512411a481e4,35.845863,-6.1215477
+Paschal Innocent,2/15/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-02-15-PI-1,848,6bcd2221-25fb-43ad-a088-441063ee2190,35.8480837,-6.1200895
+Pinno Shauri,2/19/2025 0:00,Nzuguni DMA,Nzuguni ,,,HDPE, ,,Pinno Shauri,Fixed,,Leak-849,849,6fc387aa-13a0-4988-8362-37afe09ac2d9,35.8750188,-6.1153706
+Paschal Innocent,2/20/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-850,850,c5a59140-3b77-431b-b7e6-e70a1ee3b550,35.8486027,-6.1224216
+Paschal Innocent,2/20/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,2025-02-20-PI-1,851,4b8ec591-d82e-4921-8f2c-72f6946fc559,35.8393989,-6.1312448
+Paschal Innocent,2/21/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-852,852,6db3e815-dd21-4fd2-bef3-8bad0056f0a5,35.8371195,-6.1268132
+Faustine Manyama,2/22/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Faustine Manyama,Fixed,,Leak-853,853,03490787-e29a-4f81-9622-52f30d67e4e7,35.8505463,-6.1101336
+Faustine Manyama,2/22/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Faustine Manyama,Fixed,,Leak-854,854,f4d6d50a-02a7-44af-8ce1-3c5915f8df05,35.8481386,-6.1173136
+Paschal Innocent,3/8/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-08-PI-1,855,3c65b67d-36a4-4427-b78e-27416fdd5217,35.8261295,-6.1349472
+Paschal Innocent,3/1/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-856,856,dd264020-da40-40be-b63f-fa7211f863a9,35.8323482,-6.1258469
+Paschal Innocent,2/24/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-04-24-PI-1,857,51df98e8-5315-412e-a6cc-1be395636566,35.8237478,-6.1385514
+Paschal Innocent,2/24/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-858,858,5f40345b-76cc-4c36-ba33-bc29065fc80a,35.8360934,-6.1152611
+Paschal Innocent,2/25/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-859,859,0b27c79d-4279-45af-b993-eab3d0f66254,35.8325327,-6.128887
+Paschal Innocent,2/25/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-860,860,e76e4284-c43c-4932-abed-d8e7c6851390,35.8228888,-6.1369947
+Paschal Innocent,2/27/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-02-27-PI-1,861,289cbd9f-f676-491b-af27-83075e967664,35.8329626,-6.1277834
+Paschal Innocent,2/27/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-02-27-PI-2,862,139844bd-1858-4e37-9e40-37f4869596b8,35.835263,-6.1347041
+Paschal Innocent,2/27/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-02-27-PI-3,863,8b979a9d-83d6-4367-8e63-defe48c443b0,35.8353074,-6.1348462
+Paschal Innocent,1/14/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-864,864,c37c1a56-d842-4bd2-9feb-65f8d8f40ef7,35.8347841,-6.1267631
+Paschal Innocent,1/15/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-865,865,8420605f-caa1-4c6b-9bb7-009cacd2735b,35.832199,-6.1258863
+Paschal Innocent,1/14/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-01-14-PI-1,866,6bbf2158-e5f9-4656-871b-950c51b60ce4,35.8315516,-6.1217582
+Paschal Innocent,1/15/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-867,867,5e10e214-4da0-46b7-b90c-52d39073d24d,35.8324549,-6.1251442
+Paschal Innocent,2/28/2025 0:00,Nzuguni DMA,,,,HDPE,2-Jan,6/12/2025 9:52,Paschal Innocent,Fixed,,2025-02-28-PI-1,868,9e0918c0-8e0f-4dd2-95ed-f62fa4c76862,35.8351476,-6.1351875
+Paschal Innocent,3/4/2025 0:00,Nzuguni DMA,,,,HDPE,2,,Paschal Innocent,Fixed,,Leak-869,869,5596e98f-2b17-4e39-8f9d-039c75bdd96f,35.8425034,-6.1231432
+Paschal Innocent,3/3/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-870,870,652b5b81-97c3-4b10-81c8-3b440d75293f,35.8316989,-6.1126073
+Paschal Innocent,3/4/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-871,871,478ec277-0ed9-4a76-a9de-d687f729aa8b,35.8506424,-6.113847
+Paschal Innocent,3/4/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-04-PI-1,872,76958808-aed6-43c6-8509-e6695cd98355,35.8256612,-6.1359785
+Paschal Innocent,3/4/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-04-PI-1,873,125c0bc4-80bf-4329-aed8-3a6f005386fa,35.8244655,-6.1381218
+Paschal Innocent,3/9/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-874,874,d26f4386-6897-42ae-9390-809f8ef9573a,35.8530909,-6.1213518
+Paschal Innocent,3/11/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-11-PI-1,875,426285cf-dd51-461d-9412-1967899f6745,35.8261049,-6.1349908
+Paschal Innocent,3/11/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-876,876,2328b5f3-d16a-4c3e-9aea-341c63c3f6d9,35.8284335,-6.1348622
+Paschal Innocent,3/12/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-877,877,6d2e5c1e-79b7-4c54-b6a6-1e0eb31fa49b,35.8241291,-6.1378212
+Paschal Innocent,3/12/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-878,878,08d0c680-7143-418d-9408-bd3e6dfe967e,35.8244321,-6.137682
+Paschal Innocent,3/12/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-12-PI-1,879,4d0a7959-d321-49b3-9dc3-9ae35ea3cfda,35.8394068,-6.129288
+Paschal Innocent,3/13/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2025-03-13-PI-1,880,599bf960-2864-4dde-bf7c-9da4023744ac,35.8334896,-6.1310007
+Paschal Innocent,3/13/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-881,881,b489824b-dcd4-4a57-9751-96303036152c,35.8343248,-6.1317468
+Paschal Innocent,3/13/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-13-PI-1,882,ac534bb7-3e03-4ebb-92e3-4d70ce1a2a2c,35.8354292,-6.1345312
+Paschal Innocent,3/14/2025 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-883,883,7172e55c-456d-41ce-b000-8a79b89d7579,35.8496209,-6.1105846
+Faustine Manyama,3/17/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Faustine Manyama,Fixed,,Leak-884,884,7599eba0-7bc5-4058-9e6d-9f37b2dac52d,35.8599526,-6.1013274
+Paschal Innocent,3/21/2025 0:00,Nzuguni DMA,,,,HDPE,"2""""",,Paschal Innocent,Fixed,,Leak-885,885,f838c67d-6f8a-45f6-90dc-75efdf207ace,35.8460143,-6.1256825
+Paschal Innocent,3/25/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-886,886,c993d82c-ebf7-483c-a924-d92387f37e3f,35.8374892,-6.1255537
+Paschal Innocent,3/25/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-03-25-PI-1,887,e5a87a61-b1b6-4576-afff-aa811e5e0078,35.8358801,-6.1201741
+Paschal Innocent,3/26/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-888,888,e34e8b97-f904-48a7-ad2f-7af74afb149b,35.8271795,-6.1420077
+Paschal Innocent,3/26/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-889,889,6c4671ac-a99c-41ee-950e-91d0ce26c595,35.8359077,-6.1201252
+Faustine Manyama,4/2/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Faustine Manyama,Fixed,,Leak-890,890,8f7fb184-3ee0-4c29-89ae-d51a4fe1105c,35.8481853,-6.1163184
+Paschal Innocent,3/27/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-891,891,02b5a461-f17b-4884-a07c-dd8c0ca54072,35.8364605,-6.1269165
+Paschal Innocent,3/27/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-03-27-PI-1,892,c36eb44c-2471-4a57-addb-02ba2a737112,35.8365471,-6.1272493
+Paschal Innocent,3/27/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-893,893,2537d864-c3b9-4fb7-9378-5e4d3a322b71,35.8384396,-6.1170458
+Paschal Innocent,3/27/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,2025-03-27-PI-1,894,c40abe68-91e4-4d23-9c88-ab13bdbddff6,35.8421398,-6.1303778
+Paschal Innocent,4/10/2025 0:00,Nzuguni DMA,,,,HDPE,1,,Paschal Innocent,Fixed,,Leak-895,895,5b6c2122-1047-4570-a4fb-610f40af88ed,35.8495974,-6.1107597
+Paschal Innocent,4/10/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-896,896,de1393c4-ea01-4865-9635-e3350268ee93,35.8377881,-6.1211603
+Paschal Innocent,4/12/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-04-12-PI-1,897,6baddb8a-8742-4707-b319-9d19ca371043,35.8487083,-6.1274859
+Paschal Innocent,4/12/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Fixed,,2025-04-12-PI-1,898,a6d1fbc4-9e93-41a4-9b7d-331ce71e0fa7,35.8470513,-6.1282266
+Paschal Innocent,4/12/2025 0:00,Nzuguni DMA,,,,HDPE, ,,Paschal Innocent,Temporal Fix,,2025-04-12-PI-2,899,4633b1ef-bc23-42dc-9d19-c0b76bc00bf9,35.8461391,-6.1268234
+Paschal Innocent,4/21/2025 0:00,Nzuguni DMA,,,,HDPE,"3/4""""",,Paschal Innocent,Fixed,,Leak-900,900,d2d0cf68-706a-4b98-aace-2de698703404,35.8473812,-6.1202714
+Paschal Innocent,4/21/2025 0:00,Nzuguni DMA,,,,HDPE,"1.5""""",,Paschal Innocent,Fixed,,Leak-901,901,0c0c9a72-0730-446a-81e2-951f85522602,35.8474493,-6.1198521
+Paschal Innocent,4/21/2025 0:00,Nzuguni DMA,,,,HDPE,"1""""",,Paschal Innocent,Fixed,,Leak-902,902,5dfe9d39-5d3a-421f-a9ba-dab9f70498f7,35.8472919,-6.1203485
+Paschal Innocent,5/19/2025 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,Leak-903,903,433f6fa2-8ba2-4d14-81c0-e70a5e2a307c,35.813693,-6.1347111
+Paschal Innocent,5/21/2025 0:00,Nzuguni DMA,Nzugun,,,HDPE, ,,Paschal Innocent,Fixed,,2025-05-21-PI-1,904,5687ceeb-ba23-4cc6-97a5-8f24042e3e0b,35.8351574,-6.1347447
+Mbaraka Mchome,5/26/2025 0:00,Nzuguni DMA,Nzuguni,,,HDPE, ,,Mbaraka Mchome,Fixed,,Leak-905,905,73fc77e3-00e5-4b92-a405-4be4878335e4,35.8492353,-6.1121262
+Faustine Manyama,5/30/2025 0:00,Nzuguni DMA,Nzuguni c,,,HDPE, ,,Faustine Manyama,Fixed,,Leak-906,906,c08e103b-b9db-4efc-88e0-c7ee95c6841d,35.813725,-6.14318
+Irene,6/5/2025 6:30,Nzuguni,seshas schools ,Meter point,High,HDPE,1.5,6/11/2025 6:34,Edwin,Fixed,,Leak-911,911,6f793d0c-0711-4001-a27d-9344d444c5a1,35.8516029,-6.109287533
+Erica,6/13/2025 6:55,Nzuguni,khemaronge junior school,Underground Leak,High,HDPE,2,6/19/2025 11:54,Eliya,Fixed,,2025-06-13-EG-1,912,dfa21188-f062-44c8-aed3-add16f2bcaac,35.85957972,-6.102207333
+Mwiza,6/13/2025 7:04,Nzuguni,mvwaga darajani,Meter point,Critical,HDPE,2,6/19/2025 12:33,Eliya,Fixed,,2025-06-13-MB-1,913,b457e73b-2193-4306-9828-dfac3659a809,35.85987757,-6.10141335
+Irene,6/5/2025 7:28,Nzuguni,Kwa yusufu ,Surface LEak,High,HDPE,1.5,6/6/2025 7:29,Edwin,Fixed,,Leak-914,914,1f501946-d1c8-454c-80c5-a97c9bbe1f2b,35.84846968,-6.112901366
+Irene,6/13/2025 7:31,Nzuguni,Kanisa jekunde,Meter point,Critical,HDPE,1.5,6/13/2025 13:09,Edwin,Fixed,,2025-06-13-IL-1,915,9cf3e1ab-1d3e-4c98-b7ff-fbbd74f6523e,35.84541346,-6.120571483
+Mwiza,6/13/2025 7:52,Nzuguni,"shule ya msingi nzuguni A """"darajani""""",Burst Leak,High,HDPE,4-Mar,6/16/2025 11:32,Edwin,Fixed,,2025-06-13-MB-2,916,18e80dd3-927c-4fa6-b22e-1b04dc3bdf25,35.84790748,-6.118991234
+Erica,6/13/2025 8:04,Nzuguni,shule ya msingi nzuguni A near Me and L shoppers,Meter point,Critical,HDPE,4-Mar,6/16/2025 6:35,Edwin,Fixed,,2025-06-13-EG-2,917,f541a81d-8267-4844-9f22-9641cce0d583,35.84805953,-6.119998866
+Irene,6/13/2025 8:13,Nzuguni,RACHAL FOOD POINT,Underground Leak,High,HDPE,1.5,,Edwin,Fixed,,2025-06-13-IL-2,918,0a30541b-8c3a-40bc-81bd-2052da449003,35.84728645,-6.120283283
+Irene,6/13/2025 8:27,Nzuguni,nzunguni A kwa msabato,Underground Leak,High,HDPE,2,7/3/2025 7:45,Edwin,Fixed,,2025-06-13-IL-3,919,9ae5ca06-5637-4fd2-aab0-1c4997c82c4c,35.84239903,-6.1198493
+Irene,6/13/2025 8:30,Nzuguni,nzunguni A kwa msabato ,Meter point,Critical,HDPE,2,6/13/2025 8:35,Edwin,Fixed,nashaur ifanyiwe kazi kwa haraka ikiwezekana hii line ibadilishwe 1.ni ya Muda mrefu sana  Ina mivujo mingi 2. imepita sebulen kwa mtu,2025-06-13-IL-1,921,b54688e4-9183-424f-9e40-b56b557157c8,35.84233135,-6.119725716
+Mwiza,6/13/2025 8:49,Nzuguni,nzuguni A kona ya kanisa la TAG,Underground Leak,High,HDPE,1.5,7/15/2025 13:01,Edwin,Fixed,,2025-06-13-MB-3,922,c38cfed2-fd7f-4937-a495-87a7ef887a4c,35.84607752,-6.121699483
+Mwiza,6/13/2025 8:55,Nzuguni,kwa mjeshi,Underground Leak,High,HDPE,2,6/14/2025 10:17,Edwin,Fixed,,2025-06-13-MB-4,923,62fea04c-04b5-4d2f-b5d4-9b4d9a3340d0,35.84567253,-6.124328533
+Irene,6/13/2025 9:02,Nzuguni, mtaa wa mjeshi,Meter point,Low,Steel,4-Mar,6/14/2025 9:03,Edwin,Fixed,,2025-06-13-IL-4,924,f213c828-1dc4-4662-8726-7163b5784506,35.84589073,-6.124545966
+Erica,6/3/2025 9:07,Nzuguni,Nzuguni A Kwa mjeshi,Surface LEak,High,HDPE,2,6/4/2025 9:10,Edwin,Fixed,,Leak-925,925,69925bff-36ee-43c7-b66a-b339a8e712bf,35.84579398,-6.124876196
+Erica,6/4/2025 9:14,Nzuguni,Kwa mjeshi,Underground Leak,High,HDPE,2,8/21/2025 8:01,Edwin,Fixed,,2025-06-04-EG-1,926,d2d3dc02-f954-4eeb-859c-c94e421f7b54,35.84591191,-6.125487109
+Irene,6/13/2025 9:22,Nzuguni,mtaa wa mjeshi ,Surface LEak,Critical,HDPE,1,6/13/2025 13:20,M'baraka,Fixed,very critical ifanyiwe kazi kwa haraka ,Leak-927,927,83523ead-580d-4530-a312-01ccc4e59db2,35.84628735,-6.125638266
+Irene,6/13/2025 9:44,Nzuguni,kilimahewa,Underground Leak,High,HDPE,1,12/22/2025 10:44,Edwin,Fixed,,2025-06-13-IL-5,928,7bbdf6e0-6b0e-4c8a-bb45-0829fad1002b,35.84975518,-6.125443317
+Irene,6/13/2025 9:57,Nzuguni,kwa mjeshi ,Underground Leak,Low,HDPE,2,7/1/2025 11:34,Edwin,Fixed,,2025-06-13-IL-5,930,84a24c15-0912-4557-a2f6-7084cb64bd9d,35.84850665,-6.124540317
+Erica,6/4/2025 11:06,Nzuguni,Kwa mjeshi ,Underground Leak,Low,HDPE,2,6/10/2025 11:08,Edwin,Fixed,,Leak-931,931,6706ad1e-40ad-458d-a739-9b63efd1dd70,35.84783109,-6.12382798
+Mwiza,6/13/2025 11:38,Nzuguni,kilimahewa,Underground Leak,High,HDPE,3,,Edwin,Temporal Fix,,2025-06-13-MB-7,932,83794f90-f991-486d-befb-9f655e1c7c38,35.85290212,-6.12219645
+Mwiza,6/13/2025 11:42,Nzuguni,kilimahewa,Surface LEak,High,HDPE,1.5,6/16/2025 10:53,Edwin,Temporal Fix,,2025-06-13-MB-8,933,dfd6bbb2-84aa-426c-ae21-3a6cfc100181,35.85301778,-6.121271
+Erica,6/13/2025 12:10,Nzuguni,kilimahewa ,Burst Leak,Critical,HDPE,2,6/13/2025 10:44,Edwin,Fixed,,2025-06-13-EG-4,934,a6977c12-272a-47f3-910f-79c7dc33578f,35.85492708,-6.124247759
+Irene,6/13/2025 12:30,Nzuguni,kilima hewa,Underground Leak,Low,HDPE,4-Mar,6/14/2025 10:45,Edwin,Fixed,,2025-06-13-IL-6,935,e7a7682e-4e43-4c25-b786-a50336b26a63,35.85439932,-6.12392615
+Irene,6/4/2025 12:51,Nzuguni,mtaa wa bibi chichi,Valve,High,Steel,10,6/6/2025 12:53,Edwin,Fixed,,Leak-936,936,441c8aff-c8e3-4019-8124-a354c95bdd00,35.84867685,-6.1224408
+Mwiza,6/16/2025 7:04,Nzuguni,nzuguni red stone lodge,Meter point,Low,HDPE,4-Mar,,Emily,Fixed,,2025-06-16-MB-1,938,4564297a-6dfe-4d23-adc1-25f81e13e71a,35.82679252,-6.137925933
+Mwiza,6/16/2025 7:25,Nzuguni,Nzuguni B darajani,Meter point,High,HDPE,2,6/16/2025 9:14,Emily,Fixed,"Tee coppling 2"""" ililegea na ikafungwa vizuri",2025-06-16-MB-2,939,36527675-bec3-44c7-b007-198e96b8cd80,35.82205338,-6.134894183
+Irene,6/16/2025 7:34,Nzuguni,kwa masister stand,Underground Leak,High,uPVC,1,6/16/2025 7:35,Edwin,Temporal Fix,,2025/06/16-IL-1,940,563edee9-1485-4b6a-a25d-647bdce178a8,35.83644117,-6.122711717
+Irene,6/16/2025 7:43,Nzuguni,kwa masister ,Underground Leak,Low,HDPE,1,6/16/2025 7:44,Edwin,Fixed,,2025/06/16-IL-2,942,e272ee66-8f04-4333-9807-74de56824b46,35.83625588,-6.121528567
+Erica,6/16/2025 7:52,Nzuguni,Kwa masister ,Underground Leak,Critical,HDPE,1,,Edwin,Fixed,,2025/06/16-EG-2,943,27936f92-62be-441e-801a-b41ba4c4b771,35.83559249,-6.119407754
+Irene,6/16/2025 8:26,Nzuguni,Mt.chinolo,Underground Leak,Low,HDPE,4-Mar,7/15/2025 12:28,Sadiki,Fixed,,2025/06/16-IL-3,944,2ce177fd-fb24-445d-a0f0-19856fc2d952,35.83464438,-6.12302865
+Erica,6/16/2025 8:48,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,1.5,7/3/2025 12:50,Edwin,Fixed,,2025/06/16_EG_3,945,5e7de14f-af23-4ce0-8f9b-ef6a68803558,35.83500052,-6.125937562
+Irene,6/16/2025 8:55,Nzuguni,kwa masister ,Underground Leak,Low,uPVC,3,,Edwin,Fixed,,2025/06/16-IL-4,946,b6effaa9-e806-4bba-8f69-349eeccaec41,35.834778,-6.127504
+Erica,6/16/2025 8:57,Nzuguni,Kwa masister ,Underground Leak,Low,HDPE,4-Mar,7/3/2025 13:04,Edwin,Fixed,,2025/06/16_EG_4,947,7cb910c2-b47e-490c-a802-7eeb529276f1,35.83469699,-6.127443656
+Irene,6/16/2025 9:13,Nzuguni,NZUGUNI A MNARANI,Surface LEak,,uPVC,4,7/14/2025 11:09,Emily,Fixed,,2025-06-16-IL-01,948,b3a5cf14-853b-4485-8a28-60250bed619b,35.83210477,-6.124321405
+Irene,6/9/2025 9:19,Nzuguni,Mt wa chandika,Underground Leak,Low,HDPE,1.5,6/11/2025 9:10,Sadiki,Fixed,,2025/06/16-IL-5,949,484511e2-796c-4a5c-80d7-c1127d074834,35.83643025,-6.1332606
+Erica,6/13/2025 9:33,Nzuguni,Kwa Mzungu,Household,High,HDPE,4-Mar,6/16/2025 9:37,Edwin,Fixed,,2025/06/16_EG_5,950,30c97879-9dcc-41bf-9b1a-279b5c18132f,35.8386652,-6.132486506
+Irene,6/16/2025 9:46,Nzuguni,mtaa wa kwa Mzungu ,Underground Leak,Low,HDPE,4-Mar,6/18/2025 9:04,Sadiki,Fixed,,2025/06/16-IL-6,951,4e419deb-8866-4bf1-b9c7-14358a753456,35.83859948,-6.131509717
+Irene,6/16/2025 9:53,Nzuguni,shule ya sec nzunguni A ,Underground Leak,High,HDPE,1,,Sadiki,Fixed,,2025/06/16-IL-7,952,240b4878-e900-4e5d-b60e-d3e7da27ce79,35.8394123,-6.130918467
+Erica,6/16/2025 9:52,Nzuguni,Mtaa wa Wambura,Underground Leak,High,HDPE,1,6/18/2025 8:59,Sadiki,Fixed,,2025/06/16_EG_6,953,be376153-37c9-42c6-b0a3-0b3de1d6ceb9,35.83922173,-6.13125765
+Erica,6/16/2025 9:57,Nzuguni,mtaa wa Wambura,Underground Leak,Critical,HDPE,1,6/26/2025 11:10,Sadiki,Fixed,Bomba linahitaji kubadilishwa ,2025/06/2025-EG-7,954,aa25422a-79d9-4db2-a054-d00985bf2f3c,35.83944894,-6.131004562
+Mwiza,6/12/2025 10:05,Nzuguni,Nzuguni B kona ya roma,Underground Leak,Critical,uPVC,3,6/12/2025 10:06,Emily,Fixed,,2025-06-12-MB-03,955,4b6ea105-5c31-4ec8-9c62-ada4a3937f33,35.82670633,-6.1317119
+Erica,6/16/2025 10:07,Nzuguni,Shule ya secondary Nzuguni A,Underground Leak,High,HDPE,2,6/18/2025 9:05,Sadiki,Fixed,,2025/06/16_EG_8,956,815dca53-5b92-427e-a89f-c4dcd8ed35e9,35.83816415,-6.12971682
+Irene,6/10/2025 10:16,Nzuguni,uwanjani nzunguni A secondary ,Underground Leak,High,HDPE,1.5,6/16/2025 10:32,Edwin,Fixed,,2025/06/16-IL-8,957,9b0700c4-8e6c-4f15-a9a2-6e9b399237fa,35.83748044,-6.128666094
+Mwiza,6/6/2025 10:21,Nzuguni,Nzuguni B ,Meter point,High,HDPE,1.5,6/8/2025 10:22,Emily,Fixed,,2025-06-06-MB-03,958,4ee36c9f-3198-4013-8893-78fd781a77d8,35.82687263,-6.128636017
+ ,,Nzuguni,Nzuguni,,, , ,, ,Fixed,,,959,4c042ad7-2809-4ece-91ef-2094e1145ede,35.82839384,-6.126044185
+Mwiza,6/6/2025 10:40,Nzuguni,Nzuguni B msikitini lwambo,Meter point,High,HDPE,4-Mar,6/16/2025 10:41,Emily,Fixed,,2025-06-06-MB-06,960,f26dd5b5-01d6-409f-96ea-126b6a81490a,35.82839488,-6.126040383
+Mwiza,6/6/2025 11:06,Nzuguni,Nzuguni B mnarani,Surface LEak,High,HDPE,4-Mar,6/6/2025 11:07,Emily,Fixed,,2025-06-06-MB-05,961,708a1baa-3882-4f7a-96ef-37b0909df853,35.83077843,-6.124711483
+Mwiza,6/16/2025 11:19,Nzuguni,Nzuguni B kwa madege,Surface LEak,High,HDPE,4-Mar,,Emily,Temporal Fix,,2025-06-16-MB-03,962,df0996b1-9d47-4613-a824-5ec7e6a279e2,35.82773483,-6.123530067
+Irene,6/17/2025 9:04,Nzuguni,karibu na booster ,Surface LEak,Critical,HDPE,2,6/18/2025 7:38,Edwin,Fixed,ifanyiwe kazi kwa haraka Ina mwaya maji mengi,2025/06/17-IL-1,963,05c80b82-0545-4ac1-b666-8de0a828d1f0,35.86462738,-6.105342533
+Mwiza,6/12/2025 8:11,Nzuguni,Nzuguni B elen white,Surface LEak,High,uPVC,4,6/13/2025 8:13,Emily,Fixed,,2025-06-12-MB-02,964,4a1d617e-ca58-47f7-a0e9-7310d36a52e1,35.81329785,-6.119764234
+Erica,6/18/2025 8:28,Nzuguni,secondary Nzuguni A ,Underground Leak,High,HDPE,2,6/18/2025 8:29,Sadiki,Fixed,,2025/06/18_EG_1,965,84cff446-f6cd-4af4-8105-11ccd3a8f640,35.83840877,-6.129973874
+Mwiza,6/5/2025 9:09,Nzuguni,Nzuguni B kwa mchungaji,Meter point,High,HDPE,4-Mar,6/12/2025 9:12,Emily,Fixed,,2025-06-05-MB-09,966,aee76777-499b-4c6e-9553-6ec2c19ed559,35.82416002,-6.126528167
+Erica,6/18/2025 9:16,Nzuguni,Nanenane,Underground Leak,High,HDPE,1.5,6/18/2025 9:17,Sadiki,Fixed,,2025/06/18_EG_2,967,16471d64-a70b-4005-a5f5-522019d7c185,35.83612443,-6.133273321
+Irene,6/18/2025 9:23,Nzuguni,nanenane ,Underground Leak,High,HDPE,1.5,6/18/2025 9:25,Sadiki,Fixed,,2025/06/18_IL_1,968,313eeb6d-d61b-4115-9bd1-b59e7303f6f9,35.83512122,-6.133578
+Irene,6/18/2025 9:48,Nzuguni,kwa masister ,Underground Leak,Low,uPVC,3,6/18/2025 9:49,Edwin,Fixed,,2025/06/18-IL-2,969,695424a3-f936-4a54-8315-ce79e3e0d73b,35.83801467,-6.12691325
+Mwiza,6/11/2025 9:52,Nzuguni,Nzuguni B Maweni,Underground Leak,,HDPE,1.5,6/19/2025 12:34,Emily,Fixed,,2025-06-11-MB-02,971,3783569c-2a53-4233-b609-c07695966f7f,35.82632753,-6.130278383
+Erica,6/18/2025 9:55,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,3,6/18/2025 9:56,Edwin,Fixed,,2025/06/18_EG_3,972,f45d07cf-bfec-4816-906d-e86825772b66,35.83799416,-6.126741917
+Mwiza,6/11/2025 9:57,Nzuguni,Nzuguni B maweni,Underground Leak,High,HDPE,1,6/19/2025 12:19,Emily,Fixed,,2025-06-11-MB-03,973,ea862292-f487-4932-9f58-61bbde7af9b6,35.82660762,-6.130330916
+Mwiza,6/12/2025 10:05,Nzuguni,Nzuguni B Maweni,Underground Leak,High,HDPE,1.5,6/22/2025 7:53,Emily,Fixed,,2025-06-12-MB-04,974,8e76b22c-d919-4adb-8a54-240b41d0d19b,35.82723242,-6.1319694
+Irene,6/18/2025 10:03,Nzuguni,secondary nzunguni A ,,High,uPVC,3,,Edwin,Fixed,,2025/06/18-IL-3,975,56608b51-df8f-423b-b6de-9018520fecea,35.83815522,-6.128167588
+Erica,6/18/2025 10:23,Nzuguni,kilimahewa ,Underground Leak,Low,HDPE,2,6/18/2025 10:24,Edwin,Fixed,,2025/06/18_EG_4,976,e5db643b-8682-4d94-a8d0-6a7d3d943e32,35.84599454,-6.125621028
+Irene,6/19/2025 6:43,Nzuguni,shule ya msingi,Underground Leak,Critical,HDPE,1,6/19/2025 6:44,Edwin,Fixed,,2025/06/19-IL-01,978,d8547f8b-5034-4f74-b6ed-55e43c9befe9,35.84886686,-6.1197236
+Irene,6/4/2025 7:07,Nzuguni,shule ya msingi ,Underground Leak,Low,HDPE,1,6/9/2025 7:08,Edwin,Fixed,,2025/06/19-IL-02,979,a8c778f9-3133-4f97-949b-e4cf45abb911,35.84953601,-6.121092921
+Erica,6/4/2025 7:09,Nzuguni,kilimahewa ,Underground Leak,Low,HDPE,2,6/9/2025 7:07,Edwin,Fixed,,2025/06/19_EG_1,980,8eefb108-dfb7-4cde-b62d-a60560a2d2aa,35.84949019,-6.121117087
+Irene,6/19/2025 7:22,Nzuguni,shule ya msingi ,Underground Leak,High,HDPE,4-Mar,6/19/2025 7:23,Edwin,Fixed,Bomba imesha hamishwa,2025/06/19-IL-03,981,2f5cc039-9604-4b56-ace8-0fe627bb8443,35.84944738,-6.121209297
+Erica,6/19/2025 7:46,Nzuguni,kilimahewa ,Underground Leak,Low,HDPE,1,6/26/2025 9:31,Edwin,Fixed,the pipe needs to be changed ,2025/06/19_EG_2,982,676af34b-d4c9-4e3d-9b30-9e45d6054cd9,35.84950657,-6.121316434
+Mwiza,6/19/2025 7:49,Nzuguni,Nzuguni B,Meter point,High,HDPE,4-Mar,6/19/2025 7:49,Emily,Fixed,"cooplin ¾"""" ililegea ikakazwa vizuri",2025-06-19-MB-01,983,84ba9e6d-1af2-4265-9f61-03cb24bb6d73,35.82628388,-6.130283866
+Mwiza,6/19/2025 8:44,Nzuguni,nzuguni kwa madega,Burst Leak,Critical,uPVC,3,6/22/2025 8:35,Emily,Fixed,,2025-06-19-MB-02,984,fd3ff4ce-357e-40ed-b42e-754935464c4a,35.82288608,-6.124966434
+Erica,6/19/2025 10:41,Nzuguni,Kona kwenye flame za mjeshi,Underground Leak,High,uPVC,7,,Edwin,Fixed,,2025/06/19_EG_3,985,664524be-d47f-4732-ac94-491a90e90bd0,35.84544691,-6.123292051
+Mwiza,6/19/2025 11:28,Nzuguni,nzuguni,Meter point,High,HDPE,2,,Emily,Temporal Fix,,2025-06-19-MB-03,986,c8d44330-9626-425d-a064-a50f5c6c8c76,35.8240542,-6.126598116
+Mwiza,6/19/2025 11:43,Nzuguni,Nzuguni vegas,Meter point,High,HDPE,3,6/24/2025 13:08,Emily,Fixed,bolt ya seddle ilikazwa,2025-06-19-MB-04,987,304ca2a6-6b61-46c4-8364-41a34648398d,35.82541143,-6.126377434
+Mwiza,6/19/2025 11:57,Nzuguni,Nzuguni B ofisi za serikali za mitaa,Underground Leak,,uPVC,3,6/24/2025 11:44,Emily,Fixed,,2025-06-19-MB-04,988,7677308b-cf71-45c6-bc83-406d7e97e603,35.82659757,-6.126215983
+Irene,6/19/2025 13:02,Nzuguni,seshas school ,Surface LEak,High,HDPE,1.5,,Eliya,Fixed,,2025/06/19-IL-05,989,1581935c-9ed6-46e1-b102-74d051c5b4a4,35.85051299,-6.110198376
+Erica,6/19/2025 13:24,Nzuguni,seshas school ,Underground Leak,Low,HDPE,4-Mar,6/19/2025 13:28,Eliya,Fixed,,2025/06/19-EG-04,990,29dfb9ea-d791-4be4-a501-8a0859f6a860,35.85066653,-6.110617567
+Erica,6/6/2025 7:41,Nzuguni,pembeni ya JB lodge ,Underground Leak,High,HDPE,1,6/8/2025 8:53,Emily,Fixed,,2025/06/23_EG_1,991,fa87dd77-fcf9-4ee6-9876-662d80973a85,35.81666935,-6.141704948
+Irene,6/23/2025 7:57,Nzuguni,,Underground Leak,Low,HDPE,1.5,6/23/2025 9:24,Emily,Temporal Fix,,2025/06/23-IL-03,995,d2652137-c582-4be5-8c7c-1812baa2cf45,35.81722028,-6.140040367
+Mwiza,6/23/2025 8:30,Nzuguni,Nzuguni,Underground Leak,Critical,HDPE,1,6/24/2025 9:07,Emily,Fixed,kufungwa kipande cha mpira,2025-06-23-MB-01,998,4d9f73d8-c7a6-477e-aedb-d692b987f009,35.8237403,-6.125388033
+Irene,6/9/2025 8:35,Nzuguni,Nzuguni,Underground Leak,High,uPVC,4-Mar,10/15/2025 8:30,Emily,Fixed,,2025/06/23/-IL-04,999,8593d987-49d1-445c-9f40-29792ad8ad94,35.81621489,-6.13868685
+Erica,6/6/2025 8:36,Nzuguni,njia ya CBE ,Underground Leak,Critical,HDPE,4-Mar,6/6/2025 8:36, ,Fixed,,2026/06/23_EG_4,1000,b01730d0-fe67-42f9-90eb-c885d06bd532,35.81632836,-6.138932067
+Irene,6/6/2025 8:38,Nzuguni,,Underground Leak,Low,HDPE,1.5,6/23/2025 9:25,Emily,Temporal Fix,,2025/06/23-IL-02,1001,9dee4b4c-6e92-4945-a7da-1f277794533e,35.81732787,-6.140087405
+Erica,6/23/2025 8:42,Nzuguni,njia ya CBE ,Underground Leak,Low,HDPE,1.5,,Emily,Temporal Fix,,2025/06/23_EG_3,1002,b7ceef6f-9b9f-4166-a496-c30ab8f181bf,35.8174022,-6.140124531
+Erica,6/6/2025 8:46,Nzuguni,Nzuguni boda ,Underground Leak,High,HDPE,1.5,6/6/2025 8:46,Emily,Fixed,,2025/06/23_EG_2,1003,d6c94fdf-1603-4b5c-bec8-77b070fce965,35.81805183,-6.140416656
+Irene,,Nzuguni,Njia ya CBE,Underground Leak,Low,HDPE,1.5,6/6/2025 8:50,Emily,Fixed,,2025/06/23-IL-01,1004,2b7f2ad2-93a1-42ae-90ee-90d5b87dfd04,35.81795039,-6.140383902
+Mwiza,6/23/2025 8:54,Nzuguni,Nzuguni B,Underground Leak,High,uPVC,3,6/24/2025 8:47,Emily,Fixed,"seddle 3"""" x 1"""" ililegea ikawa inasababisha uvujaji imekazwa uvujaji umeisha",2025-06-23-MB-02,1005,282a49b6-08fe-4344-9834-4bbcdcae6100,35.82169092,-6.123950617
+Mwiza,6/23/2025 9:02,Nzuguni,nzuguni b manguto park ,Underground Leak,High,HDPE,2,6/25/2025 11:39,Emily,Fixed,,2025-06-23-MB-03,1006,edfd6939-36fc-44ee-ba3c-70eebad3e0a1,35.82011785,-6.122602367
+Mwiza,6/23/2025 9:13,Nzuguni,Njia ya kwenda Ellen white (MASAI SHOP),Surface LEak,High,HDPE,1.5,,Emily,Temporal Fix,,2025-06-23-MB-04,1007,fe3dd09c-8bce-4e6a-b5e7-cd13ab9b4e32,35.81726473,-6.121783983
+Irene,6/23/2025 9:44,Nzuguni,kwa ngoi,Underground Leak,Low,HDPE,1.5,6/23/2025 11:01,Emily,Temporal Fix,,2025/06/23-IL-05,1008,921379b2-c3c4-473e-a3e1-22e9951763cc,35.81797992,-6.135117171
+Mwiza,6/23/2025 10:35,Nzuguni,nzuguni B chule ya msingi ,Underground Leak,Low,HDPE,1.5,6/23/2025 10:36,Emily,Fixed,,2025/06/23-MB-05,1009,33b72fcd-3563-4ba4-9583-c45628466f69,35.81939933,-6.129452617
+Mwiza,6/23/2025 10:49,Nzuguni,Nzuguni B upendo,Underground Leak,,HDPE,1.5,6/23/2025 10:50,Eliya,Fixed,,2025/06/23_MB_6,1010,21ed2603-036d-4a64-ba03-3b8274d39a1e,35.81949832,-6.127016167
+Mwiza,6/23/2025 11:30,Nzuguni,nzuguni B,Meter point,High,HDPE,1,,Emily,Fixed,,2025-06-23-MB-07,1011,ef226da7-36ba-4670-82e3-8016f7e73d76,35.81917743,-6.122610984
+Mwiza,6/23/2025 12:12,Nzuguni,Njia ya chuo,Underground Leak,High,HDPE,1,,Emily,Temporal Fix,Kipande cha mpira kimefungwa,2025-06-23-MB-08,1012,73564fb7-b7f3-4447-af87-0542682b9c49,35.81976127,-6.11958625
+Irene,6/24/2025 7:57,Nzuguni,nane nane,Underground Leak,High,uPVC,4,9/1/2025 10:46,Sadiki,Fixed,"inahitaji saddle 4""×1"",plug 1""na tape ",2025/06/24-IL-01,1014,59b7b788-6f90-4ab5-a147-4935d3b4a3f8,35.83440325,-6.144059201
+Irene,6/24/2025 8:00,Nzuguni,nane nane ,Surface LEak,High,HDPE,1,7/10/2025 9:11,Sadiki,Fixed,,2025/06/24-IL-02,1015,19b8aef6-86be-4edd-ad06-f25dd9e2881c,35.83540011,-6.14428744
+Erica,6/24/2025 8:01,Nzuguni,nane nane ,Underground Leak,Low,uPVC,4,9/1/2025 13:07,Sadiki,Fixed,,2025/06/24-EG-01,1016,c610f9b6-5a88-47bc-856e-4ac27aa7b127,35.83527088,-6.144321836
+Erica,6/24/2025 8:08,Nzuguni,nane nane ,Surface LEak,Critical,HDPE,2,,Sadiki,Fixed,,2025/06/24-EG-02,1017,1e0f5a88-9289-4e1d-9cb9-e0f5f7b387c8,35.82935014,-6.138409321
+Erica,6/24/2025 9:26,Nzuguni,kibao Cha fire,Underground Leak,Low,HDPE,2,7/9/2025 11:25,Edwin,Fixed,,2025/06/24-EG-03,1018,47e641f4-cf59-470a-9046-5b464594fe9e,35.84182568,-6.126396562
+Irene,6/24/2025 9:30,Nzuguni,kibao Cha fire ,Surface LEak,High,HDPE,1,6/25/2025 10:59,Edwin,Fixed,,2025/06/24-IL-03,1019,7d0d815c-22f7-4f95-9b88-b5b8be12020d,35.84250242,-6.127121865
+Erica,6/24/2025 9:37,Nzuguni,fire,Underground Leak,Low,HDPE,1,7/9/2025 11:11,Edwin,Fixed,,2025/06/24_EG_4,1020,4c9b744a-613a-4333-99d2-2b2d9d19e6d4,35.84309995,-6.127965679
+Irene,6/24/2025 9:39,Nzuguni,fire,Underground Leak,Low,HDPE,1.5,7/9/2025 11:29,Edwin,Temporal Fix,,2025/06/24-IL-04,1021,2ab1830e-66e3-4e45-897e-5534a5bea031,35.8437876,-6.12775995
+Erica,6/24/2025 10:17,Nzuguni,ukumbi wa labela,Underground Leak,High,HDPE,4-Mar,6/24/2025 10:22,Edwin,Fixed,,2026/06/24_EG_5,1022,c6a3399d-af5c-4fff-9fbc-07def25c1399,35.8398256,-6.126787062
+Irene,6/24/2025 10:19,Nzuguni,Pinacle lodge ,Underground Leak,High,HDPE,4-Mar,6/24/2025 11:43,Edwin,Fixed,,2025/06/24-IL-05,1023,1e8f31aa-ea98-4e1c-a541-329c8fd3ad4b,35.83957896,-6.125945119
+Irene,6/25/2025 7:06,Nzuguni,mwisho wa lami ,Surface LEak,High,HDPE,4-Mar,6/25/2025 7:07,Edwin,Fixed,,2025/06/25-IL-01,1024,1a57cd25-c65e-407a-a38a-aacf214bb636,35.85597246,-6.105405263
+Erica,6/25/2025 7:10,Nzuguni,mwisho wa lami ,Underground Leak,Low,HDPE,2,6/25/2025 9:29,Edwin,Fixed,,2025/06/25-EG-1,1025,3a9f309a-7773-4ddf-8c97-a643da4400ab,35.85647086,-6.105849968
+Irene,6/25/2025 8:24,Nzuguni,kwa Yusufu ,Underground Leak,Critical,uPVC,6,6/25/2025 8:27,Edwin,Fixed,,2025/06/25-IL-02,1026,b35b89ce-7ed7-4b81-b0b5-90b12746b9a9,35.84850898,-6.113992616
+Erica,6/25/2025 8:43,Nzuguni,shule ya msingi Nzuguni A,Burst Leak,High,HDPE,2,6/25/2025 8:44,Edwin,Fixed,,2025/06/25_EG_2,1027,c631d5d7-6bea-4c5e-b879-20a82fefacbc,35.8482626,-6.11772458
+Mwiza,6/25/2025 9:18,Nzuguni,upendo hardware,Underground Leak,High,HDPE,1.5,6/25/2025 6:46,Emily,Fixed,,2025-06-25-MB-01,1028,833008ec-2ff1-43fc-a95a-9638620505b1,35.81953498,-6.126520633
+Mwiza,6/25/2025 9:38,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1.5,,Emily,Temporal Fix,imefungwa na kipande cha mpira,2025-06-25-MB-02,1029,8cff1553-e780-44b0-accc-4ac26ef5ab58,35.81962955,-6.126289617
+Mwiza,6/25/2025 10:20,Nzuguni,nzugun b,Underground Leak,High,HDPE,2,6/25/2025 11:42,Eliya,Fixed,,2025-06-25-MB-03,1030,19903562-aa6e-4932-9a28-3fa789476bfc,35.81984417,-6.124752067
+Irene,6/25/2025 10:53,Nzuguni,mjeshi ,Underground Leak,Low,HDPE,1,7/8/2025 11:03,Edwin,Fixed,,2025/06/25-IL-03,1031,63338d6f-9bfb-4195-84ce-7f40d4d3c796,35.84542348,-6.12360025
+Erica,6/25/2025 11:04,Nzuguni,msikitini,Underground Leak,High,HDPE,4-Mar,7/3/2025 11:17,Edwin,Fixed,,2025/06/25_EG_3,1032,d14e29df-dd2c-4533-be08-34dbf1c75b52,35.84182405,-6.127821302
+Irene,6/25/2025 11:14,Nzuguni,mjeshi ,Underground Leak,High,HDPE,4-Mar,7/1/2025 13:12,Edwin,Fixed,,2025/06/25-IL-04,1033,25757049-8e7e-416b-80a5-4ccef739acee,35.84434248,-6.123509601
+Mwiza,6/25/2025 12:58,Nzuguni,Nzuguni Darajani,Underground Leak,High,HDPE,1.5,6/26/2025 8:40,Emily,Fixed,,2025-06-25-MB-05,1034,b6f765ba-3b0a-44d2-8fe9-bb5bef23bc79,35.82069035,-6.135771366
+Erica,6/26/2025 6:58,Nzuguni,shule ya secondary Nzuguni A ,Underground Leak,High,HDPE,1.5,7/3/2025 9:52,Sadiki,Fixed,inahitaji gate valve ,2025/06/26_EG_1,1035,ac4f6f4c-2aae-4abd-b7b8-70eb26860355,35.83838615,-6.129997695
+Irene,6/26/2025 6:58,Nzuguni,shule ya secondary nzunguni A ,Underground Leak,High,HDPE,2,7/3/2025 10:06,Sadiki,Fixed,,2025/06/26-IL-01,1036,ce887cd6-4a4a-4bbf-8afb-c0bf1479475b,35.83816113,-6.129731072
+Irene,6/26/2025 7:07,Nzuguni,masister ,Underground Leak,,uPVC,3,7/16/2025 12:36,Edwin,Fixed,,2025/06/26-IL-02,1037,6dd8ed21-5054-41f1-bb57-9271fd7a4e12,35.83802307,-6.126928761
+Erica,6/26/2025 7:12,Nzuguni,Kwa masister ,Underground Leak,Low,HDPE,1,6/28/2025 10:41,Edwin,Fixed,,2025/06/26_EG_2,1038,88c23eda-9f28-4042-b806-40a3fa617af9,35.83713519,-6.126817264
+Irene,6/26/2025 7:16,Nzuguni,masister ,Underground Leak,,uPVC,3,7/10/2025 12:04,Edwin,Fixed,,2025/06/26-IL-03,1039,a003af67-8ad2-4011-9208-938db03e8515,35.83777759,-6.125980951
+Erica,6/26/2025 7:38,Nzuguni,nzuguni,Meter point,High,HDPE,4-Mar,6/26/2025 8:13,Emily,Fixed,,2025-06-26-EG-01,1040,1effda97-7079-417f-bd1d-a059df74ad31,35.81966658,-6.137505
+Mwiza,6/26/2025 8:18,Nzuguni,Nzuguni B ,Underground Leak,High,HDPE,4-Mar,6/26/2025 8:44,Eliya,Fixed,,2025-06-26-MB-01,1041,5ad0e858-b93b-4e28-bd92-57f89e1d1197,35.82054585,-6.136140734
+Erica,6/26/2025 8:32,Nzuguni,jagwani ,Burst Leak,Critical,HDPE,1,7/11/2025 12:47,Edwin,Fixed,Bomba bovu linahitaji kubadilishwa,2025/06/26_EG_3,1042,49d54912-f5cc-489b-bca6-ed219af6cc61,35.83775521,-6.117537393
+Irene,6/26/2025 9:05,Nzuguni,mafrem ya mjeshi kwa juu,Underground Leak,Low,HDPE,4-Mar,6/26/2025 9:11,Edwin,Fixed,,2025/06/26-IL-04,1043,e450268e-097a-41aa-bdb1-8fd7b25c7325,35.85015696,-6.125725941
+Erica,6/26/2025 9:30,Nzuguni,shule ya msingi nzuguni A,Underground Leak,Critical,HDPE,1,,Edwin,Fixed,,2025/06/26_EG_4,1044,e648c560-6187-453e-abb1-c70cb21850e6,35.85123358,-6.117924042
+Mwiza,6/26/2025 9:42,Nzuguni,Nzuguni B Kesa pharmacy,Underground Leak,High,HDPE,1,6/26/2025 10:19,Emily,Fixed,,2025-06-26-MB-02,1045,f157f918-77f9-48bd-a017-97d4eee5ad91,35.81968523,-6.131386983
+Mwiza,,Nzuguni,Nzuguni B golden trust lodge,Underground Leak,High,HDPE,2,,Emily,Temporal Fix,,2025-06-26-MB-03,1046,e42cc0a4-24f4-4a9f-9274-17a04addb4f5,35.81977053,-6.131654116
+Mwiza,6/26/2025 11:55,Nzuguni,Nzuguni B njia ya elen white,Surface LEak,Critical,HDPE,4-Mar,,Emily,Temporal Fix,,2025-06-26-MB-04,1047,c8820b4b-c81d-428b-ad2b-57eacdae686d,35.81327042,-6.126387367
+Irene,6/27/2025 8:13,Nzuguni,Jangwani,Underground Leak,High,HDPE,1.5,6/30/2025 12:55,Edwin,Fixed,,6/27/2025,1048,a8fe255f-1028-481b-bb70-63ea21730b48,35.83801227,-6.115012086
+Erica,6/27/2025 8:42,Nzuguni,jagwani ,Underground Leak,Low,HDPE,4-Mar,8/19/2025 8:16,Edwin,Fixed,,2025/06/27_EG_1,1049,7833ebe7-2af6-4ff0-b406-5fe5767f8bfe,35.83821903,-6.117106283
+Mwiza,6/27/2025 8:58,Nzuguni,,Underground Leak,Low,HDPE,4-Mar,,Edwin,Fixed,,2025/06/27-MB-01,1050,6c988ac7-d033-40ac-a82c-775ccaea10b3,35.83846669,-6.120050575
+Erica,6/27/2025 9:06,Nzuguni,Nzuguni A ,Underground Leak,High,HDPE,4-Mar,6/27/2025 9:11,Edwin,Fixed,,2025-06-27-EG-02,1051,b490de57-2673-4a05-a6d9-16014e47ec5f,35.83780149,-6.121191354
+Irene,6/27/2025 9:15,Nzuguni,masister ,Underground Leak,High,uPVC,3,,Edwin,Fixed,,2025/06/27/-IL-02,1052,303faf0e-ad0e-4635-b1c2-5a2a4334fde3,35.83774984,-6.122033754
+Erica,6/30/2025 9:07,Nzuguni,nzuguni B,Underground Leak,High,HDPE,4-Mar,,Edwin,Fixed,,2025/06/30_EG_1,1053,6f955110-cfff-458c-b876-426d2c228aec,35.84362203,-6.121957466
+Irene,6/30/2025 9:18,Nzuguni,mission ,Surface LEak,Critical,HDPE,4-Mar,,Edwin,Fixed,,2025/06/30-IL-01,1055,0d495f8b-0bef-46f3-9e8e-ec9e08820d36,35.84293867,-6.122532043
+Erica,6/30/2025 9:36,Nzuguni,Nzuguni A,Surface LEak,Low,HDPE,4-Mar,7/3/2025 8:43,Edwin,Fixed,,2025/06/30_EG_2,1056,b802a25d-ffa2-4649-a9e8-e4c61c6e0cb3,35.84248893,-6.123334233
+Mwiza,6/30/2025 10:23,Nzuguni,Nzuguni A kwa masister,Surface LEak,Low,HDPE,1,,Edwin,Fixed,,2025-06-30-MB-02,1057,6b42e491-3fbd-4d39-b5d1-80f37d10adff,35.83839208,-6.122311117
+Irene,6/30/2025 10:24,Nzuguni,,Underground Leak,High,HDPE,4-Mar,,Edwin,Fixed,,2015/06/30-IL-02,1058,1f4c3b84-047b-4ca9-b5b2-a8d2f1d7a580,35.83759756,-6.119356046
+Erica,6/30/2025 10:30,Nzuguni,kwa masister,Underground Leak,Low,HDPE,4-Mar,,Edwin,Fixed,,2025/06/30_EG_3,1059,da824c6c-5ad2-4db3-a6e3-773a917979b5,35.83856452,-6.121322433
+Erica,7/1/2025 6:51,Nzuguni,Kwa Yusuf ,Underground Leak,High,HDPE,1.5,7/1/2025 7:58,Edwin,Fixed,,2025/06/30_EG_1,1060,4772772a-b2bc-4d3a-bb55-b6080095b27d,35.84851538,-6.112907263
+Mwiza,7/1/2025 7:56,Nzuguni,Nzuguni B,Underground Leak,Low,HDPE,2,,Emily,Temporal Fix,,2025-07-01-MB-01,1061,2101eaa8-abad-4424-81d6-f436e4fc94cd,35.81983343,-6.125357783
+Mwiza,7/1/2025 8:01,Nzuguni,Nzuguni,Underground Leak,Critical,HDPE,2,9/25/2025 10:40,Eliya,Fixed,,2026-07-01-MB-02,1062,070edf78-f8c1-461d-9dd0-5d372dd29d54,35.81982038,-6.125169884
+Mwiza,7/1/2025 8:17,Nzuguni,Nzuguni B.,Underground Leak,High,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-01-MB-03,1063,2c093631-5a7f-463d-84e0-fe33168636d1,35.81987828,-6.124521883
+Mwiza,7/1/2025 8:24,Nzuguni,Manguto park,Meter point,High,HDPE,4-Mar,7/1/2025 11:11,Emily,Fixed,"coupline ¾"""" ilikazwa kuzuia uvujaji",2025-07-01-MB-04,1064,87849f25-022a-4522-9240-bb141683a2b0,35.82001177,-6.123228733
+Irene,7/1/2025 9:06,Nzuguni,kanisa Jekundu ,Underground Leak,High,HDPE,1.5,,Edwin,Fixed,,2025/07/1-IL-01,1065,e07280a9-e7cb-4941-aada-e429c0cce698,35.84625399,-6.118172611
+Mwiza,7/1/2025 10:11,Nzuguni,chuo,Meter point,High,HDPE,2,7/10/2025 8:10,Emily,Fixed,,2025-07-01-MB-05,1066,44c46b51-6ea8-47da-bf01-65653aee9c78,35.81798228,-6.11394485
+Mwiza,7/1/2025 10:46,Nzuguni,njia ya chuo,Underground Leak,Low,HDPE,4-Mar,,Emily,Temporal Fix,Bomba imekunjwa,2025-07-01-MB-06,1067,d08e4672-95c8-42b4-8273-cd0ebdfcbf63,35.81921898,-6.117294034
+Erica,7/1/2025 11:19,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,4-Mar,7/1/2025 11:20,Edwin,Fixed,,2025/07/1_EG_2,1068,ce52dd9f-8304-42d3-9733-4e855315049d,35.84880879,-6.126151864
+Mwiza,7/1/2025 12:08,Nzuguni,Nzuguni B,Meter point,,HDPE,2,7/1/2025 12:55,Emily,Fixed,,2025-07-01-MB-07,1069,c6a80e6f-2ac6-43d0-acf3-5af3166c4097,35.82079512,-6.112256767
+Erica,7/2/2025 8:22,Nzuguni,kanisa Jekundu ,Surface LEak,High,HDPE,1.5,7/2/2025 8:35,Edwin,Fixed,,2025/07/02_EG_1,1070,97183d34-998c-4129-8e8f-edd7ca37ed29,35.84539971,-6.120614689
+Mwiza,7/2/2025 8:54,Nzuguni,Nzuguni A,Underground Leak,High,HDPE,4-Mar,10/1/2025 9:06,Edwin,Fixed,,2025-07-02-MB-01,1071,d74cc657-508a-4fa2-b995-a047d7026a0a,35.84701328,-6.120598033
+Erica,7/2/2025 8:59,Nzuguni,Barabara ya shule ya msingi ,Underground Leak,High,HDPE,1.5,7/2/2025 9:33,Edwin,Fixed,,2025/07/02_EG_2,1072,e251db47-c719-4183-853a-480c1add2ecc,35.84727111,-6.120339728
+Irene,7/2/2025 9:16,Nzuguni,kilima hewa makaburin,Underground Leak,Low,HDPE,1.5,7/17/2025 9:57,Edwin,Fixed,,2025/07/02-IL-01,1073,9dbf9102-6d87-495e-9b0d-cf295117c4b1,35.84425712,-6.132797297
+Mwiza,7/2/2025 10:57,Nzuguni,Nane nane,Surface LEak,Critical,HDPE,1.5,7/9/2025 11:56,Edwin,Temporal Fix,,2025-07-02-MB-02,1074,b9aa9bc2-cbd4-4543-acba-54a92ac7473a,35.82364024,-6.141311323
+Irene,7/2/2025 12:48,Nzuguni,kilima hewa makaburin ,Underground Leak,,HDPE,2,7/17/2025 10:09,Sadiki,Temporal Fix,,2025/07/02-IL-02,1075,7ca7503f-e0f4-4bb8-892a-9137a4f6dc42,35.84272355,-6.129663795
+Irene,7/2/2025 13:21,Nzuguni,kilima hewa ,Underground Leak,,HDPE,1.5,7/17/2025 9:58,Edwin,Temporal Fix,,2025/07/02-IL-03,1076,b1d308cc-bfa5-48a7-bfec-1accf682fd71,35.84618034,-6.135150054
+Irene,7/2/2025 13:25,Nzuguni,kilima hewa ,Underground Leak,Low,HDPE,1.5,8/29/2025 9:04,Edwin,Nothing Done,,2025/07/02-IL-04,1077,b5a45af0-aa4d-4318-8982-d3cd5a275a5f,35.84655118,-6.134213431
+Mwiza,8/6/2025 6:03,Nzuguni,MBUYUNI,Surface LEak,High,HDPE,1.5,,Emily,Temporal Fix,,2025-08-06-MB-01,1078,4df38abd-3950-4a0b-90fb-73e48a67435f,35.82530833,-6.136066667
+Erica,7/3/2025 8:47,Nzuguni,mayai point,Underground Leak,Low,HDPE,4-Mar,7/3/2025 8:50,Edwin,Fixed,,2025/07/03_EG_1,1079,55d6f767-8231-4fc8-9ae4-71d4cc8baa95,35.84260016,-6.123387238
+Mwiza,7/3/2025 9:36,Nzuguni,Nzuguni B mbuyuni,Underground Leak,High,HDPE,1,,Emily,Temporal Fix,pamefungwa kipande cha mpira,2025-07-03-MB-02,1080,13b097cb-5862-499b-a4b2-ad8e6598d39c,35.82313043,-6.136633633
+Mwiza,7/3/2025 9:58,Nzuguni,mbuyu,Meter point,,HDPE,1,7/3/2025 10:23,Emily,Fixed,"T coupline 1"""" ilibadilishwa rava",2025-07-03-MB-03,1081,0d8e3d2e-4ad3-4243-9f80-afdc0b338d4b,35.82324132,-6.136358167
+Mwiza,7/3/2025 11:39,Nzuguni,nzuguni b gym,Underground Leak,High,HDPE,2,7/4/2025 8:07,Emily,Fixed,T Connector kuifunga vizuri,2025-07-03-MB-04,1082,1f9fc809-ac9a-4081-b0ac-9fdd6c41f7e9,35.82666783,-6.120261367
+Mwiza,7/3/2025 12:49,Nzuguni,nzuguni b korongoni,Surface LEak,Critical,HDPE,4-Mar,7/14/2025 10:21,Emily,Fixed,mpira umekatwa na ukakunjwa,2025-07-03-MB-05,1085,cc506e89-4736-4b27-b211-9702d56e0ec3,35.82910428,-6.13338903
+Mwiza,7/3/2025 12:52,Nzuguni,Nzuguni B Darajani msikitini,Burst Leak,High,HDPE,4-Mar,7/3/2025 13:16,Emily,Fixed,,2025-07-03-MB-06,1086,94b33a74-14d0-4e93-97dc-33f4e174b915,35.82887182,-6.133696184
+Irene,7/4/2025 8:32,Nzuguni,masister ,Underground Leak,High,HDPE,1,,Edwin,Fixed,,2025/07/04-IL-01,1087,2265206a-1814-4c52-99a1-1550636b5412,35.83421875,-6.118143896
+Erica,7/4/2025 10:39,Nzuguni,jagwani,Underground Leak,Critical,HDPE,4-Mar,7/28/2025 11:47,Edwin,Fixed,,2025/07/04_EG_1,1088,83aecc68-b27a-461e-88ee-f6277a6530d3,35.83584819,-6.113989414
+Irene,7/4/2025 11:00,Nzuguni,jagwani ,Underground Leak,Low,HDPE,1,7/15/2025 12:43,Sadiki,Fixed,,2025/07/04-IL-02,1089,6778add0-01a8-4a66-b2f2-449781ca2394,35.83573488,-6.11499692
+Mwiza,7/4/2025 11:32,Nzuguni,Nzuguni b shule ya msingi,Surface LEak,Critical,HDPE,1,7/4/2025 11:58,Emily,Fixed,,2025-07-04-MB-01,1090,4aa6df3e-10a2-4ce9-82ab-39a6ecc3598e,35.81959758,-6.128399433
+Irene,7/4/2025 12:48,Nzuguni,masister ,Surface LEak,Low,HDPE,4-Mar,,Edwin,Fixed,,2025/07/04-Il-03,1091,1e774b23-98ef-450c-87af-cf2eb2b78398,35.83441797,-6.121569751
+Irene,7/8/2025 6:42,Nzuguni,shule ya msingi ,Underground Leak,Critical,uPVC,6,8/6/2025 9:28,Edwin,Fixed,,2015/07/08-IL-01,1092,2e92d227-00ea-4e03-a6ad-59d25cd77866,35.84814464,-6.117428371
+Erica,7/8/2025 7:05,Nzuguni,shule ya msingi ,Underground Leak,High,HDPE,1,7/12/2025 8:14,Edwin,Fixed,,2025/07/08-EG-01,1093,9035bd18-0dcd-45c8-97c9-562a2192534c,35.85234822,-6.119059817
+Mwiza,7/8/2025 7:41,Nzuguni,mama b hardware,Underground Leak,High,HDPE,4-Mar,7/15/2025 9:30,Emily,Fixed,,2025-07-08-MB-01,1094,ea4a0096-e7d0-4072-bdf9-506d90949ca4,35.81955527,-6.117004833
+Irene,7/8/2025 7:54,Nzuguni,sunshine daycare ,Underground Leak,High,HDPE,1.5,,Edwin,Fixed,,2025/07/08-IL-02,1096,6ef6696e-d0fb-4a8d-81b5-0655a614c699,35.85202227,-6.108532785
+Mwiza,7/8/2025 8:14,Nzuguni,Nzuguni B,Surface LEak,High,HDPE,4-Mar,7/12/2025 8:00,Emily,Fixed,,2025-07-08-MB-02,1097,959c6c25-a783-4321-a683-00379e885c35,35.82509247,-6.124073933
+Erica,7/8/2025 8:29,Nzuguni,mwisho wa lami,Underground Leak,Low,uPVC,6,7/14/2025 10:56,Edwin,Fixed,,2025/07/08_EG_2,1098,133cd0bb-c556-4024-9f01-2c5d942aa8ab,35.85643338,-6.106108381
+Irene,7/8/2025 8:41,Nzuguni,mwisho wa lami ,Underground Leak,Low,HDPE,4-Mar,, ,Nothing Done,,2025/07/08-IL-03,1099,c73a8f53-6a1a-4c6f-ba43-1a57d2007e32,35.85774668,-6.107229733
+Erica,7/8/2025 8:43,Nzuguni,mvagamale mwisho wa lami ,Surface LEak,High,HDPE,1,7/8/2025 8:57,Edwin,Fixed,,2025/07/08_EG_3,1100,fa2fee6a-2e3e-4838-a9f2-275fc7fa6251,35.85782181,-6.107753812
+Mwiza,7/8/2025 8:45,Nzuguni,nzuguni b,Surface LEak,High,HDPE,1,7/12/2025 7:47,Emily,Fixed,,2025-07-08-MB-03,1101,ae8114d0-fd3b-44a1-84fb-a439f5a9b44e,35.82499537,-6.125093
+Irene,7/8/2025 8:54,Nzuguni,mwisho wa lami ,Underground Leak,Low,HDPE,1,7/8/2025 8:57,Edwin,Fixed,,2025/07/08-IL-04,1102,15cf71aa-c3c8-45fa-bde5-c05a199419a7,35.85785942,-6.107681439
+Erica,7/8/2025 9:33,Nzuguni,mwisho wa lami ,Surface LEak,High,HDPE,1.5,7/8/2025 9:49,Edwin,Fixed,,2025/07/08_EG_4,1103,60edf3c4-3274-4308-aaab-62a3308f1ae4,35.85678372,-6.105975709
+Irene,7/8/2025 9:55,Nzuguni,mwisho wa lami ,Surface LEak,High,HDPE,1.5,7/8/2025 9:56,Edwin,Fixed,,2025/07/08-IL-05,1104,2354b042-5832-4ac2-95cb-5605d9117574,35.85686237,-6.105919217
+Erica,7/8/2025 10:47,Nzuguni,Kwa Yusuf ,Underground Leak,High,HDPE,4-Mar,7/8/2025 10:50,Edwin,Fixed,,2025/07/08_EG_5,1105,4ba046b7-5a77-427a-bbdf-bb4f340f6ae2,35.84813253,-6.111078785
+Irene,7/8/2025 12:55,Nzuguni,booster ,Underground Leak,High,HDPE,3,,Edwin,Nothing Done,,2025/08/07-IL-06,1106,6ddcc5d9-8f72-4207-8234-0332ae85673e,35.85671247,-6.120059098
+Erica,7/9/2025 9:41,Nzuguni,Kwa mjeshi nanenane ,Underground Leak,High,HDPE,4-Mar,7/31/2025 8:58,Sadiki,Fixed,,2025/07/09_EG_1,1107,3d94f64d-08cb-4144-9278-5d722e8aa068,35.83313009,-6.135051391
+Irene,7/10/2025 8:12,Nzuguni,kanisa la wasabato,Surface LEak,High,uPVC,3,7/23/2025 12:50,Edwin,Fixed,,2025/07/10-IL-01,1108,494e64bc-e40b-4e28-aee9-b48f438d1201,35.84217297,-6.1190008
+Erica,7/10/2025 8:46,Nzuguni,nanenane,Underground Leak,Critical,HDPE,4-Mar,,Sadiki,Temporal Fix,,2025/07/10_EG_1,1109,ed8a53d8-9f43-44af-aa46-a992f47bcf53,35.83471381,-6.137883229
+Erica,7/10/2025 8:58,Nzuguni,nanenane ,Underground Leak,High,HDPE,4-Mar,7/10/2025 8:58,Sadiki,Fixed,,2025/07/10_EG_2,1110,c59d78b8-ac7e-4590-95f4-4ae5645e381f,35.83459109,-6.138331396
+Mwiza,7/10/2025 12:29,Nzuguni,Shule ya msingi nzuguni A,Burst Leak,Critical,uPVC,6,7/11/2025 11:02,Edwin,Fixed,,2025-07-10-MB-01,1111,eb64a2f6-e68d-491c-9377-ec4716ad8613,35.84841653,-6.115196067
+Mwiza,7/11/2025 12:33,Nzuguni,Kwa Masister,Surface LEak,High,HDPE,2,7/11/2025 13:07,Eliya,Fixed,,2025-07-11-MB-01,1112,a3c114aa-01ca-4e0e-bc03-bb3aaa39532c,35.83439278,-6.124173434
+Irene,7/11/2025 12:42,Nzuguni,jangwani ,Underground Leak,High,HDPE,1,7/15/2025 12:49,Sadiki,Fixed,,2025/07/11-IL-01,1113,17a64a75-89a7-4c15-98f8-02b566527cd0,35.83824151,-6.117506872
+Irene,7/11/2025 13:01,Nzuguni,jangwani ,Underground Leak,Low,HDPE,1,7/15/2025 12:51,Sadiki,Fixed,,2025/07/11-IL-02,1114,9cebec48-e781-49da-aaa5-65d6e814e02e,35.83881198,-6.117477884
+Mwiza,7/14/2025 7:26,Nzuguni,Nzuguni B,Meter point,High,HDPE,4-Mar,,Emily,Fixed,T connector ya ¾ haikufungwa vizuri imefungwa na kuzuia uvujaji,2025-07-14-MB-01,1115,42bd13cd-6678-4431-b8a7-3b617cc94af5,35.82431928,-6.124509816
+Erica,7/14/2025 8:18,Nzuguni,shule ya Monica de Jacob ,Burst Leak,Critical,uPVC,6,7/14/2025 9:12,Edwin,Fixed,,2025/07/14_EG_1,1116,50b50456-108b-4a9a-b84f-0256c7e37d34,35.84996146,-6.110569521
+Mwiza,7/14/2025 9:36,Nzuguni,Nzuguni B kanisa la roma,Underground Leak,High,HDPE,4-Mar,7/14/2025 9:54,Emily,Fixed,,2025-07-14-MB-02,1117,ea53b546-1d4a-434c-95f2-ab1349771bc9,35.82850503,-6.129273033
+Mwiza,7/14/2025 11:16,Nzuguni,Nzuguni A mnarani,Underground Leak,,HDPE,2,7/14/2025 11:16, ,Temporal Fix,,2025-07-14-MB-03,1118,74735211-b168-4be7-ab2c-71386b643e06,35.83200345,-6.122897734
+Mwiza,7/14/2025 11:21,Nzuguni,Nzuguni A transformer,Underground Leak,Critical,HDPE,4-Mar,7/14/2025 11:23,Eliya,Fixed,,2025-07-14-MB-04,1119,e0999765-77ce-4908-a1dc-be78980b01df,35.83180147,-6.121592683
+Mwiza,7/14/2025 12:07,Nzuguni,Nzuguni B ,Underground Leak,High,HDPE,3,7/17/2025 10:08,Emily,Fixed,,2025-07-14-MB-05,1120,7885b855-ddda-40fb-a7d8-78f760c2d4f6,35.82674122,-6.128630116
+Irene,7/15/2025 7:19,Nzuguni,shuleni,Burst Leak,Critical,HDPE,1,,Edwin,Temporal Fix,,2025/07/15-IL-01,1122,f4c8e44a-71ca-47a1-a62e-e8fce7421ace,35.84728328,-6.120285167
+Mwiza,7/15/2025 7:38,Nzuguni,Nzuguni B lwambo,Underground Leak,High,HDPE,4-Mar,7/15/2025 8:01,Emily,Fixed,,2025-07-15-MB-01,1123,872a940d-dae2-482b-81c0-3af70f9f01e8,35.82844515,-6.120763033
+Irene,7/15/2025 7:58,Nzuguni,kilima hewa ,Burst Leak,High,HDPE,4-Mar,8/28/2025 8:16,Edwin,Fixed,,2025/07/15/-02,1124,7ef4ec90-91ce-44f3-ac40-41b023a1c013,35.84940402,-6.12173215
+Mwiza,7/15/2025 10:22,Nzuguni,Nzuguni B ellen white,Underground Leak,,HDPE,4-Mar,8/6/2025 9:23,Emily,Fixed,,2025-07-15-MB-03,1125,9d6be104-054d-4c72-9b69-0b2eb18ae307,35.81524828,-6.11836615
+Mwiza,7/15/2025 11:40,Nzuguni,Nzuguni B Kona ya elen white,Underground Leak,High,HDPE,1,7/16/2025 10:19,Emily,Fixed,,2025-07-15-MB-04,1126,4f49abc5-54ab-43c2-ae93-d99837f8650e,35.81910692,-6.122911216
+Erica,7/16/2025 7:53,Nzuguni,hope day care,Underground Leak,High,HDPE,4-Mar,7/16/2025 9:32,Edwin,Fixed,,2025/07/16_EG_1,1127,86a04349-5712-41ab-ad1e-cd3b213f82f2,35.84424798,-6.1235618
+Irene,7/16/2025 8:01,Nzuguni,kwa mjeshi kwenye mambao,Underground Leak,Critical,HDPE,1.5,7/16/2025 10:26,Edwin,Fixed,,2025/07/16-IL-01,1128,d03360c5-2c99-42cd-bbd9-9a6f49356817,35.84336205,-6.12352001
+Erica,7/16/2025 8:07,Nzuguni,mnyakatali ,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/07/16_EG_2,1129,b6a30714-7e70-4316-9790-f3e26cfb8984,35.84373736,-6.12242142
+Erica,7/15/2025 9:05,Nzuguni,mbugani ,Underground Leak,High,HDPE,1.5,9/18/2025 13:58,Edwin,Fixed,,2025/07/15_EG_1,1130,a1c64c98-2696-4fa4-bd02-bbf409fb68fe,35.85401436,-6.103678438
+Irene,7/16/2025 9:46,Nzuguni,mwisho wa lami ,Underground Leak,High,HDPE,1,7/16/2025 9:58,Sadiki,Fixed,,2025/07/16-IL-02,1131,4362b91b-deba-4a22-a16c-933609346310,35.85354248,-6.107566761
+Mwiza,7/16/2025 11:06,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,4-Mar,7/16/2025 11:33,Emily,Fixed,,2025-07-16-MB-01,1132,2695f14c-efde-4e96-9820-696207898d5b,35.81507833,-6.135541566
+Mwiza,7/16/2025 12:56,Nzuguni,Kwa mlay,Underground Leak,High,HDPE,1.5,7/16/2025 12:57,Emily,Fixed,connector ilikazwa vizuri,2025-07-16-MB-02,1133,79d2478b-5dba-4bf0-a75d-85e0d0bc858d,35.82116325,-6.137731233
+Erica,7/17/2025 7:29,Nzuguni,shule ya msingi/Salome street,Underground Leak,High,HDPE,4-Mar,7/28/2025 8:08,Sadiki,Temporal Fix,,2025/07/17_EG_1,1134,1a655cee-5344-472a-9347-b76089611a69,35.83842025,-6.130758607
+Mwiza,7/17/2025 8:39,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,3,7/24/2025 10:51,Emily,Fixed,,2025-07-17-MB-01,1135,bf8c49b5-3b9b-414a-b656-4a1683b663d2,35.8236598,-6.125338984
+Irene,7/17/2025 9:20,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,4-Mar,8/29/2025 9:22,Edwin,Fixed,,2025/07/17-IL-01 ,1136,171a6e05-6907-4298-8b81-b18c04805c52,35.84253771,-6.132578238
+Mwiza,7/17/2025 9:27,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,2,,Emily,Fixed,,2025-07-17-MB-02,1137,cd5383f8-0199-4e41-ba12-1b04a693cdcb,35.82422997,-6.126546483
+Erica,7/17/2025 9:33,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,1.5,7/22/2025 13:45,Sadiki,Fixed,,2025/07/17-EG-02,1138,16801eef-3292-43cf-aaa0-8f9260595459,35.84463437,-6.133448076
+Irene,7/17/2025 10:14,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,2,,Sadiki,Temporal Fix,,2025/07/17-IL-02,1139,65e201bd-0424-458f-8a14-2e03ff44a352,35.841063,-6.129093
+Erica,10/8/2025 10:34,Nzuguni,shule ya secondary ,Surface LEak,High,HDPE,4-Mar,10/8/2025 10:41,Edwin,Fixed,,2025/10/08_EG_2,1141,cadcf2fe-68da-4ded-bca7-c401b43d34de,35.83944646,-6.130972472
+Irene,7/18/2025 9:39,Nzuguni,secondary nzunguni A ,Underground Leak,Low,HDPE,1,7/28/2025 10:31,Sadiki,Fixed,,2025/07/18-IL-01,1142,bd3f7d5b-e445-4a7d-b75b-ad693c6eeda0,35.83939335,-6.130897621
+Erica,7/18/2025 9:43,Nzuguni,shule ya secondary ,Underground Leak,High,HDPE,4-Mar,7/28/2025 10:04,Edwin,Fixed,,2025/07/18_EG_2,1143,58ea6357-1919-446f-a09c-a913b3346718,35.83953786,-6.130521713
+Mwiza,7/18/2025 10:30,Nzuguni,kileo timber,Underground Leak,High,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-18-MB-01,1144,4f9b18ba-ec5e-4b9a-844f-92b1395a5f6e,35.82289412,-6.139735567
+Mwiza,7/18/2025 12:17,Nzuguni,Nzuguni   lwambo,Underground Leak,,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-18-MB-02,1145,d9bef79a-863e-423e-a7d3-6eaa93532cf4,35.82840198,-6.120686617
+Irene,7/18/2025 13:34,Nzuguni,kwa Yusufu ,Underground Leak,Critical,uPVC,6,8/6/2025 12:45,Edwin,Fixed,,2025/07/18-IL-02,1146,6a0cb418-85a3-4ab5-8825-c78f0d001210,35.84854505,-6.113818716
+Erica,7/21/2025 7:29,Nzuguni,nane nane,Underground Leak,High,HDPE,1.5,7/21/2025 7:30,Emily,Fixed,,2025/07/21/-EG-01,1147,7e7d6541-802b-485d-a627-3545ce11fac3,35.81339683,-6.145464593
+Irene,7/21/2025 7:48,Nzuguni,barabara ya CBE,Underground Leak,High,uPVC,3,,Emily,Temporal Fix,Bomba inatakiwa kuhamishwa imepita katikati ya barabara  kwa sababu mgandamizo wa magari upelekea kuvuja,2025/07/21-IL-01,1148,92cc4bd1-0df4-4969-bd2b-99db30d9d8b6,35.81704708,-6.140004684
+Erica,7/21/2025 7:54,Nzuguni,barabara ya CBE,Underground Leak,Low,HDPE,1.5,7/21/2025 7:55,Emily,Fixed,,2025/07/21-EG-02,1149,b27a4b59-73c0-4267-85ea-1a069646e6a3,35.8180519,-6.140447617
+Mwiza,7/21/2025 8:05,Nzuguni,Nzuguni vegas,Underground Leak,High,HDPE,1,7/29/2025 10:28,Emily,Fixed,,2025-07-21MB-01,1150,eea5499d-d48a-4cc2-a236-7de76bf295d3,35.82543992,-6.126341917
+Irene,7/21/2025 8:33,Nzuguni,uwanja wa CBE,Underground Leak,High,uPVC,6,7/21/2025 8:34,Emily,Fixed,,2025/07/21-IL-02,1151,55856f14-71c4-4dbf-8ded-ac58adbe8422,35.81547133,-6.137384359
+Erica,7/21/2025 8:58,Nzuguni,Kwa mlai,Underground Leak,High,HDPE,2,7/21/2025 8:58,Emily,Fixed,,2025/07/21_EG_3,1152,25e6efa2-5ae6-4270-8e7b-d3ee89c1bb94,35.82119417,-6.137699682
+Irene,7/21/2025 9:06,Nzuguni,kwa mlai,Underground Leak,Low,HDPE,4-Mar,,Emily,Fixed,,2025/07/21-IL-3,1153,922af4c2-3846-4ba0-8b05-19df1a1874a3,35.82152032,-6.137694652
+Mwiza,7/21/2025 9:59,Nzuguni,darajani,Underground Leak,High,HDPE,4-Mar,7/30/2025 13:02,Emily,Fixed,,2025-07-21-MB-02,1154,5589021f-d4eb-4f8f-9c99-944b8bf8d8fc,35.81776258,-6.135120183
+Erica,7/22/2025 7:37,Nzuguni,Kwa Gody Makuku ,Underground Leak,High,HDPE,4-Mar,7/22/2025 7:50,Edwin,Temporal Fix,,2025/07/22_EG_1,1155,33459461-be23-450a-8b9d-a855c639c42b,35.84810274,-6.111074317
+Irene,7/22/2025 8:25,Nzuguni,Kwa Tesha kitimoto,Underground Leak,High,HDPE,1.5,7/22/2025 8:34,Edwin,Temporal Fix,,2025/07/22-IL-1,1156,b3ff66a9-7aa1-49d2-8c0e-e862a470a284,35.83933831,-6.120936008
+Erica,7/22/2025 8:28,Nzuguni,Kwa Tesha kitimoto ,Underground Leak,Low,HDPE,1.5,7/22/2025 9:01,Edwin,Temporal Fix,Bomba inatakiwa ibadilishwe,2025/07/22_EG_2,1157,00d9a705-7d0d-423b-95a5-58b06d4277c4,35.83932138,-6.120897783
+Irene,7/22/2025 9:28,Nzuguni,Kwa Tesha makitimoto,Underground Leak,High,HDPE,1.5,7/28/2025 8:35,Edwin,Fixed,Bomba inabidi ibadilishwe imepita mda ya nyumba yamtu,2025/0/07/22-IL-02,1158,c2faa3a8-f7e7-4906-ac58-0632cb89930d,35.83944822,-6.121173858
+Erica,7/22/2025 10:03,Nzuguni,kanisa Jekundu ,Meter point,High,HDPE,1.5,7/22/2025 10:29,Edwin,Fixed,,2025/07/22-EG-03,1159,f6225d14-f45c-4e3a-ae34-51c0a2608057,35.84538429,-6.118364718
+Irene,7/22/2025 10:32,Nzuguni,kanisa Jekundu ,Underground Leak,Low,HDPE,1.5,7/22/2025 10:50,Edwin,Fixed,,2025/07/22-IL-3,1160,c2212cef-2e85-4e34-a785-ba11ca60b737,35.84534747,-6.118340702
+Mwiza,7/23/2025 7:02,Nzuguni,gym,Underground Leak,High,HDPE,4-Mar,,Emily,Fixed,,2025-07-23-MB-01,1161,7723794d-348a-4069-844c-5497ce6abf7d,35.82657273,-6.119832384
+Mwiza,7/23/2025 7:07,Nzuguni,nzuguni b,Meter point,High,HDPE,4-Mar,7/23/2025 7:07,Emily,Fixed,,2025-07-23-MB-02,1162,8754b5b0-b611-4b83-8ee2-83bd9dfabb38,35.82760592,-6.120599134
+Mwiza,7/23/2025 7:18,Nzuguni,Nzuguni B,Underground Leak,Low,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-23-MB-03,1163,3cca411a-b2b0-4a27-8c1f-89d6f679abf3,35.82649028,-6.122649417
+Erica,7/23/2025 9:00,Kisasa,Monica de Jacob ,Underground Leak,High,HDPE,1.5,7/23/2025 10:08,Edwin,Fixed,,2025/07/23_EG_1,1164,bc32383a-c65b-458b-87b9-e1b1984870cc,35.85051158,-6.110159177
+Mwiza,7/23/2025 12:29,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1.5,8/16/2025 13:02,Emily,Fixed,kuzuia uvujaji kwa kufunga na .mpira,2025-07-23-MB-04,1165,09c2eef0-eeaa-4b68-aa4b-fef0c2fd26f0,35.8257073,-6.135929267
+Irene,7/24/2025 8:21,Nzuguni,masister ,Underground Leak,Low,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/07/24-IL-01,1166,39149ee2-9df8-4814-a382-0cba49f9c456,35.83863088,-6.121354922
+Erica,7/24/2025 9:56,Nzuguni,kanisa la Wasabato ,Underground Leak,Critical,HDPE,1.5,7/24/2025 10:37,Edwin,Fixed,,2025/07/24-EG-01,1167,7db3774a-2ad6-44ca-8652-13d802e11061,35.84175851,-6.119262571
+Irene,7/24/2025 11:31,Nzuguni,Kwa Yusuf ,Underground Leak,Low,HDPE,1,7/24/2025 11:33,Edwin,Fixed,,2025/07/24_IL_2,1169,c269bd8c-11c3-4d99-8602-10575fed84f1,35.84825687,-6.11410515
+Mwiza,7/24/2025 12:14,Nzuguni,Nzuguni B msikiti wa ilakoze,Underground Leak,High,HDPE,1,7/24/2025 12:42,Emily,Fixed,,2025-07-24-MB-02,1170,630c3a1a-ef8d-4e6b-b84b-8203e272014b,35.82723897,-6.118283067
+Mwiza,7/24/2025 12:46,Nzuguni,Nzuguni B ilazo,Surface LEak,,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-24-MB-03,1171,9e5cf259-b0e4-4149-959c-70b9fc5a60fd,35.82703327,-6.119044916
+Erica,7/25/2025 8:12,Kisasa,Nzuguni C uwanja wa CBE,Underground Leak,Low,HDPE,1.5,,Emily,Temporal Fix,,2025/07/25_EG_1,1172,849b9fea-632b-4c17-9156-022f4b5ced44,35.81712019,-6.134965185
+Erica,7/25/2025 8:18,Nzuguni,Nzuguni C Kwa Mlayi,Underground Leak,High,HDPE,4-Mar,7/25/2025 8:53,Emily,Fixed,,2025/07/25_EG_2,1173,45204e1c-b038-496a-b1da-8a009f02657a,35.81934402,-6.137096202
+Erica,7/25/2025 9:15,Nzuguni,uwanja wa CBE ,Underground Leak,Low,HDPE,4-Mar,7/25/2025 9:19,Emily,Temporal Fix,Bomba inatakiwa ibadilishwe imepita chini ya nyumba ,2025/07/25_EG_3,1174,ac52e301-df30-44cf-bd5e-5d0ee444074f,35.81511636,-6.135791363
+Erica,7/25/2025 11:05,Nzuguni,Kwa mwenyekiti,Underground Leak,Low,HDPE,4-Mar,10/10/2025 12:27,Edwin,Fixed,,2025/07/25_EG_4,1175,df523c06-d10a-438e-b7ee-dcdf8ddfec2c,35.84124807,-6.120873967
+Erica,7/25/2025 12:29,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,High,HDPE,4-Mar,7/25/2025 12:32,Edwin,Fixed,,2025/07/25_EG_5,1176,2f6b89b2-615c-4559-9229-819faa8065f1,35.85175753,-6.11800735
+Irene,7/28/2025 7:44,Nzuguni,stop over,Underground Leak,Low,HDPE,1,,Edwin,Temporal Fix,,2025/07/28_IL_1,1177,8c4710ee-c9fb-4cc3-9fad-344ab8465563,35.84677563,-6.121125898
+Erica,7/28/2025 7:58,Nzuguni,kanisa jekundu,Underground Leak,Low,HDPE,1,8/1/2025 11:16,Edwin,Fixed,,2025/07/28-EG-01,1178,d053e56f-c0f3-4078-80ec-077e889ee405,35.84267935,-6.121249183
+Irene,7/28/2025 10:24,Nzuguni,makitimoto ,Underground Leak,,HDPE,1.5,7/28/2025 10:24,Edwin,Fixed,,2025/07/28-IL-02,1179,0bee3b70-66a4-4907-b312-c2b4852b0d75,35.8393932,-6.1210217
+Mwiza,7/28/2025 11:04,Nzuguni,Nzuguni B,Underground Leak,Critical,HDPE,4-Mar,,Emily,Temporal Fix,,2025-07-28-MB-01,1180,31b4dddf-5bb4-4499-b178-76c7240fca17,35.82837868,-6.12071105
+Mwiza,7/28/2025 11:14,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Emily,Nothing Done,,2025-07-28-MB-02,1181,d0db41b1-3e33-4c8c-aef5-bd28cb3ad570,35.82744508,-6.124288984
+Mwiza,7/28/2025 11:25,Nzuguni,Nzuguni B duka la dawa,Underground Leak,High,HDPE,1,7/29/2025 11:25,Emily,Fixed,,2025-07-28-MB-03,1182,67838d99-b1e2-47a2-8337-a7bb0ca6245f,35.82673617,-6.128600583
+Erica,7/28/2025 11:33,Nzuguni,jagwani ,Underground Leak,High,HDPE,1,7/28/2025 11:34,Eliya,Fixed,,2025/07/28_EG_2,1183,9b6f2d27-afc3-4031-b3dd-a713cbef6bbb,35.83582476,-6.114021075
+Irene,7/28/2025 13:54,Nzuguni,shule ya msingi ,Surface LEak,High,HDPE,4-Mar,8/28/2025 7:33,Edwin,Fixed,,2025/07/28-IL-03,1184,a82b7482-5e92-4e66-a7d5-8c5ce410a82b,35.84900014,-6.119507401
+Mwiza,7/29/2025 8:46,Nzuguni,Nzuguni B,Underground Leak,High,uPVC,3,,Emily,Temporal Fix,,2025-07-29-MB-01,1185,e77e814d-f718-4994-b624-d6e96fa8b96c,35.82668423,-6.131713667
+Erica,7/29/2025 11:57,Nzuguni,Kwa mnyakatali ,Underground Leak,High,HDPE,2,9/30/2025 8:51,Edwin,Fixed,,2025/07/29_EG_1,1186,7742cefe-cf21-4b46-87ee-0ff86978d20f,35.84177123,-6.122439053
+Irene,7/30/2025 7:43,Nzuguni,kanisa Jekundu ,Underground Leak,High,HDPE,1.5,8/21/2025 7:51,Edwin,Fixed,,2025/07/30-IL-01,1187,0cb5f89c-da0f-4dac-b39f-f96e46dee78f,35.84548529,-6.120628669
+Erica,7/31/2025 9:07,Nzuguni,nanenane ,Underground Leak,Critical,uPVC,4,7/31/2025 9:08,Sadiki,Fixed,,2025/07/31_EG_1,1189,e3a57f3c-ee1c-48ec-911a-17a152eb3dcc,35.82625903,-6.143766845
+Irene,7/31/2025 13:14,Nzuguni,nanenane,Underground Leak,High,uPVC,4,7/31/2025 13:15,Sadiki,Fixed,,2025/07/31-IL-1,1190,42ed3850-1494-43ff-8ee3-8f4e6cea750a,35.83514629,-6.144280241
+Irene,8/1/2025 6:23,Nzuguni,labelar,Underground Leak,Low,HDPE,1,8/4/2025 10:29,Edwin,Temporal Fix,,2025/08/01-IL-01,1191,753a2c39-3fd7-4a83-a67f-55d1718c118f,35.83986411,-6.126762633
+Erica,8/1/2025 6:27,Nzuguni,labelar ,Underground Leak,Low,HDPE,1.5,8/6/2025 10:17,Edwin,Fixed,,2025/08/01-IL-01,1192,aaf420a5-fcde-4ead-ac01-73631279617e,35.83954388,-6.125945067
+Erica,8/1/2025 6:33,Nzuguni,kwa masister ,Underground Leak,High,HDPE,4-Mar,8/6/2025 9:32,Edwin,Fixed,,8/1/2025,1193,55758c9a-c064-4ec1-bb4b-dce0ad601d8a,35.83801683,-6.125422766
+Irene,8/1/2025 6:36,Nzuguni,masister ,Underground Leak,Low,HDPE,1.5,8/12/2025 11:50,Edwin,Fixed,,2025/08/01-IL-02,1194,3e0ea4ec-6c36-4815-8ac3-68dbf770cdb6,35.83772435,-6.125572467
+Mwiza,9/23/2025 8:42,Nzuguni,ilakoze pre and primary school,Underground Leak,Low,HDPE,4-Mar,10/2/2025 10:30,Emily,Fixed,,2025-09-23-MB-02,1195,e05d6cba-e7d3-4298-b2e7-c076bf4b3b26,35.82959698,-6.118982833
+Irene,,Nzuguni,masister ,Underground Leak,High,HDPE,4-Mar,8/7/2025 12:42,Edwin,Fixed,,2025/08/01-IL-03,1196,bdab5cec-10a5-44d1-b89d-d0beb3f0a3c6,35.83670862,-6.124094502
+Erica,8/1/2025 8:47,Nzuguni,kwa msabato,Underground Leak,High,HDPE,1.5,8/1/2025 9:00,Edwin,Fixed,,2025/08/01_EG_3,1197,83d6e0d9-09b3-4994-9d35-959944e643f6,35.84229582,-6.12032595
+Irene,8/1/2025 9:14,Kisasa,kanisa la sabato,Underground Leak,,HDPE,1.5,8/1/2025 9:25,Edwin,Fixed,,2025/08/01_IL_4,1198,65777cf5-d980-4d02-8444-c6dfb709aefe,35.84201077,-6.118462584
+Erica,8/1/2025 9:35,Nzuguni,Kwa sabato ,Underground Leak,Low,HDPE,1.5,8/1/2025 9:37,Edwin,Fixed,,2025/08/01_EG_4,1199,76d7ab91-0708-4740-a127-3ecc8b86b6e8,35.84210615,-6.118713848
+Irene,8/1/2025 10:27,Nzuguni,hope day care ,Underground Leak,Low,HDPE,4-Mar,8/1/2025 10:37,Edwin,Fixed,,2025/08/01-IL-05,1200,82f07abe-688f-481d-aee7-edaf02dcd150,35.84459026,-6.123817091
+Erica,8/1/2025 10:29,Nzuguni,hope daycare,Underground Leak,High,HDPE,4-Mar,8/1/2025 10:33,Edwin,Fixed,,2025/08/01_EG_5,1201,21dc2c3f-1ea0-46c7-b20b-8825615a37aa,35.84424763,-6.123916384
+Mwiza,8/1/2025 11:52,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,8/6/2025 8:55,Emily,Fixed,,2025-08-01-MB-02,1202,fb3467e2-b1ec-4dcf-a568-1bf8922b1a4e,35.8185335,-6.1364263
+Erica,8/1/2025 13:13,Nzuguni,seshas school ,Underground Leak,High,HDPE,1.5,8/1/2025 13:46,Edwin,Fixed,,2025/08/01_EG_ 6,1203,1b864dad-f94a-4b83-9af2-42d27fa7b4e0,35.85163732,-6.109244471
+Irene,,Nzuguni,mwisho wa rami,Underground Leak,Critical,HDPE,1.5,8/4/2025 10:44,Edwin,Fixed,,2025/08/04_IL_1,1204,396872e1-c358-4937-9f5a-1306e6000db8,35.85400165,-6.107492742
+Erica,8/4/2025 7:11,Nzuguni,Mwisho wa lami ,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/08/04-EG-1,1205,5c76eb08-b83c-4300-ad0c-7ffdaa61171e,35.85403517,-6.107763777
+Mwiza,8/4/2025 7:19,Nzuguni,Nzuguni B Chuo,Underground Leak,High,HDPE,2,,Sadiki,Fixed,,2025-08-04-MB-01,1206,cb6a6439-3113-43cb-b5bb-7e5d37695f31,35.81718993,-6.11277795
+Irene,8/4/2025 7:25,Nzuguni,mwisho wa lami,Underground Leak,Low,HDPE,1.5,8/4/2025 12:44,Edwin,Temporal Fix,,2025/08/4-IL-2,1207,a4f9a4fa-cc4d-4307-9b45-ab4a601197c4,35.85321692,-6.107901044
+Erica,8/4/2025 7:39,Nzuguni,Monica de Jacob ,Meter point,Critical,HDPE,1.5,8/4/2025 13:30,Edwin,Fixed,,2025/08/04-EG-2,1208,14fa0575-a344-46a4-9ab8-38e7335c9a6f,35.85066368,-6.110276718
+Irene,8/4/2025 7:46,Nzuguni,Kwa Yusuf ,Underground Leak,Low,HDPE,1.5,,Edwin,Nothing Done,,2025/08/04-IL-3,1209,16e65254-ad6c-4799-aaf6-7880f1205152,35.84962032,-6.110858957
+Erica,8/4/2025 9:14,Nzuguni,Kwa Makelemo,Underground Leak,High,HDPE,2,8/4/2025 9:34,Eliya,Temporal Fix,,2025/08/04-EG-3,1211,dffeb214-14a1-47ac-8b23-196b1f37a6c1,35.83062513,-6.133536493
+Mwiza,8/4/2025 9:19,Nzuguni,Nzuguni B Makuti,Underground Leak,High,HDPE,4-Mar,,Emily,Temporal Fix,,2025-08-04-MB-03,1212,893f4543-0abd-4224-ad93-80238772513f,35.82521438,-6.1351768
+Irene,8/4/2025 9:39,Nzuguni,Kwa Manka,Underground Leak,High,HDPE,2,8/4/2025 12:56,Eliya,Fixed,,2025/08/04_IL_4,1213,099081d8-6d77-43bd-bd66-651421839529,35.83003816,-6.133707204
+Erica,8/4/2025 11:05,Kisasa,mvagamale ,Underground Leak,High,HDPE,2,8/4/2025 11:17,Sadiki,Fixed,,2025/08/04-EG-4,1214,fb4bb345-b200-4d8d-95b9-c01d11e168c7,35.85943638,-6.102331808
+Irene,8/4/2025 11:34,Nzuguni,Sunshine school ,Underground Leak,,HDPE,4-Mar,8/6/2025 12:49,Edwin,Temporal Fix,,2025/08/04-IL-03,1215,540b7b5f-b1b3-4484-b618-413d46fa2707,35.85429757,-6.109464333
+Irene,,Nzuguni,mwisho wa rami,Underground Leak,Critical,HDPE,1.5,8/4/2025 10:44,Edwin,Fixed,,,1216,bd104ac8-0a54-4d2b-924a-2f4484c121bd,35.85401333,-6.107516667
+Erica,8/5/2025 9:29,Nzuguni,kanisa la roma,Underground Leak,High,HDPE,1.5,8/5/2025 10:51,Edwin,Fixed,,2025/08/05_EG_1,1217,2b6fee3e-d9d1-4d3c-9aa0-ee45a813d562,35.84177224,-6.117754148
+Irene,8/5/2025 11:12,Nzuguni,Kwa mjeshi ,Underground Leak,Critical,HDPE,2,8/5/2025 11:40,Edwin,Fixed,,2025/08/05_IL_1,1218,43506b18-a4ca-4321-9110-c8e9f0d65b3d,35.84576058,-6.124769854
+Erica,8/5/2025 12:16,Nzuguni,maliasili,Underground Leak,High,HDPE,4-Mar,8/5/2025 12:44,Edwin,Fixed,,2025/08/05_EG_2,1219,b64240d7-1b12-40d1-b907-2bddfefd6031,35.83495198,-6.14073475
+Erica,8/6/2025 11:10,Nzuguni,mnyakatali ,Underground Leak,High,HDPE,4-Mar,8/6/2025 11:31,Edwin,Fixed,,2025/08/06_EG_1,1220,64a5dfd5-9c8b-4c25-9a7d-ad33d455c863,35.84228027,-6.122144103
+Erica,8/6/2025 12:12,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,High,HDPE,1.5,8/6/2025 12:36,Edwin,Fixed,2025/08/06_EG_2,,1221,1bed86e1-4f43-4257-9920-5fd576c38e35,35.84800847,-6.119712767
+Erica,8/6/2025 13:13,Nzuguni,mvagamale ,Underground Leak,Critical,HDPE,1.5,8/6/2025 13:35,Edwin,Fixed,,2025/08/06_EG_3,1222,b49026d7-a151-48f9-9854-88274843a9cb,35.85724873,-6.107334732
+Erica,8/7/2025 8:53,Nzuguni,Kanisa la Roma,Burst Leak,High,HDPE,4-Mar,8/7/2025 8:56,Edwin,Temporal Fix,,2025/08/07_EG_1,1223,814f315c-a61c-4744-9ec2-ccab62531517,35.83996756,-6.120555421
+Irene,8/7/2025 9:54,Nzuguni,kilimahewa,Surface LEak,High,HDPE,1,8/7/2025 10:00,Edwin,Fixed,,2025/8/7/-IL-01,1224,0c7a63ee-368f-4b56-853e-c3bed53b8801,35.85044822,-6.126432623
+Erica,8/7/2025 11:17,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,4-Mar,8/7/2025 11:18,Edwin,Temporal Fix,,2025/08/07_EG_2,1225,60a3c891-4329-40f4-b98b-65590371b978,35.83728702,-6.125171525
+Erica,8/11/2025 7:38,Nzuguni,Kwa mkumbaru,Underground Leak,High,HDPE,1.5,8/20/2025 8:03,Edwin,Fixed,,2025/08/11_EG_1,1226,861a0edc-1028-48e9-a796-f46465459b2e,35.83980155,-6.122084921
+Irene,8/11/2025 7:40,Nzuguni,Kwa mkumbaru ,Underground Leak,High,HDPE,4-Mar,8/11/2025 7:56,Edwin,Fixed,,2025/08/11-IL-1,1227,57295352-ce4a-4ddb-bbb9-e1034319aeae,35.83960615,-6.122089533
+Mwiza,8/11/2025 7:50,Nzuguni,Masumbuko butcher,,Critical,uPVC,4,8/11/2025 10:52,Emily,Fixed,,2025-08-11-MB-01,1228,0929fcf7-fedb-46e2-ba30-cba6a9adcdf9,35.81334575,-6.125353384
+Erica,8/11/2025 7:58,Nzuguni,Kwa mkumbaru ,Underground Leak,Low,HDPE,1.5,8/18/2025 11:58,Edwin,Fixed,,2025/08/11_EG_2,1229,92dbdd37-9c6e-4614-9b36-4d195b089cd4,35.83977312,-6.12194516
+Irene,8/11/2025 10:07,Nzuguni,jagwani ,Underground Leak,High,HDPE,1.5,8/19/2025 8:27,Edwin,Temporal Fix,,2025/08/11-IL-2,1230,49b9c28e-0d43-4c0a-894a-fcf86069a87c,35.83801484,-6.114996422
+Erica,8/11/2025 10:17,Nzuguni,jagwani ,Underground Leak,High,HDPE,1,8/19/2025 8:13,Edwin,Temporal Fix,,2025/08/11_EG_3,1231,0b40a60a-8f2b-467c-adf0-8937bcfeb390,35.83881236,-6.117484115
+Irene,8/11/2025 10:54,Nzuguni,Kwa masister ,Surface LEak,High,HDPE,1,8/11/2025 10:55,Edwin,Temporal Fix,,2025/08/11-IL-03,1232,4d9ad23e-b68f-4d59-b1a6-5963313f2678,35.83838679,-6.121285082
+Mwiza,8/11/2025 11:46,Nzuguni,T.A.G,Underground Leak,High,HDPE,4-Mar,8/19/2025 12:06,Emily,Fixed,,2025-08-11-MB-02,1233,d315d29e-0243-41b4-a122-473a0b410d0e,35.81474768,-6.130682983
+Erica,8/12/2025 9:43,Nzuguni,jagwani ,Underground Leak,High,HDPE,1,8/12/2025 9:53,Edwin,Fixed,,2025/08/12_EG_1,1234,0ead6ddc-4770-4e94-bebc-37abf80cbdd0,35.83574314,-6.114978588
+Irene,8/12/2025 10:18,Nzuguni,jagwani ,Underground Leak,High,HDPE,4-Mar,8/12/2025 10:20,Edwin,Fixed,,2025/08/12-IL-1,1235,b25c684f-391e-45cc-a31b-c87f746f70dc,35.83585869,-6.113994955
+Irene,8/12/2025 12:33,Nzuguni,masister ,Underground Leak,High,HDPE,2,8/12/2025 12:59,Edwin,Fixed,,2025/08/12-IL-02,1236,8e604078-fd4a-4476-a770-2ffd77e3f8fe,35.83732074,-6.123844548
+Irene,8/13/2025 7:19,Nzuguni,labellar,Underground Leak,High,HDPE,1,8/13/2025 7:22,Edwin,Fixed,,2025/08/13-IL-01,1237,ac7f2e59-828d-4570-80aa-e6a0d42d0633,35.83978932,-6.126760267
+Erica,8/13/2025 7:34,Nzuguni,labellar ,Underground Leak,Low,HDPE,1,8/27/2025 9:38,Edwin,Temporal Fix,,2025/08/13-IL-01,1238,5a2c7300-0cc1-41a9-be4d-a01033725b98,35.83948013,-6.12555664
+Irene,8/13/2025 8:20,Nzuguni,masister ,Underground Leak,High,HDPE,4-Mar,8/19/2025 9:13,Sadiki,Temporal Fix,,2025/08/13-IL-02,1239,60f36dcb-2521-44ae-bbdc-eddfcd667da5,35.83624942,-6.121475138
+Erica,8/13/2025 8:26,Nzuguni,Kwa masister/jagwani ,Underground Leak,High,HDPE,1.5,8/27/2025 9:11,Edwin,Fixed,,2025/08/13_EG_2,1240,f992cd19-fadb-407a-a4fe-8947a2154b44,35.83560913,-6.119428654
+Irene,8/13/2025 8:44,Nzuguni,masister ,Underground Leak,,HDPE,1,8/28/2025 6:40,Edwin,Fixed,,2025/08/13-IL-03,1241,dc838671-17d8-4cc0-b2f2-cf8322c7f84a,35.8323419,-6.121597899
+Erica,8/13/2025 8:47,Nzuguni,masister ,Underground Leak,High,HDPE,1,,Edwin,Fixed,,2025/08/13-IL-03,1242,cae1c844-bade-48f2-ae9c-0b866c81dd56,35.83180172,-6.121731416
+Irene,8/13/2025 8:49,Nzuguni,masister ,Underground Leak,Low,HDPE,2,8/28/2025 6:43,Edwin,Fixed,,2025/08/13-IL-04,1243,72f71981-80db-435f-b201-b8a448b5f00c,35.83190692,-6.122277107
+Erica,8/13/2025 8:52,Nzuguni,Kwa masister mnarani,Underground Leak,High,HDPE,2,,Edwin,Nothing Done,,2025/08/13_EG_4,1244,12372034-7697-4070-8de1-2e3d2f5dc13a,35.831972,-6.122914
+Irene,8/13/2025 9:37,Nzuguni,mjeshi kona,Underground Leak,High,uPVC,6,8/19/2025 10:18,Edwin,Fixed,,2025/08/13-IL-05,1245,be0f2029-ad14-4a2d-9c29-c64d3f0fe6fa,35.8435186,-6.123987666
+Erica,8/14/2025 6:46,Nzuguni, karbu na shule ya Natma ,Underground Leak,High,HDPE,1.5,8/14/2025 8:05,Edwin,Fixed,,2025/08/14_EG_1,1246,b2d8c326-cd63-4c38-8031-234da7b05d88,35.83467292,-6.120789397
+Irene,8/14/2025 8:39,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,High,HDPE,1.5,8/14/2025 8:41,Edwin,Fixed,,2025/08/14-IL-1,1247,07da7aaa-47bc-4861-8b64-b38de986466f,35.84753209,-6.117908239
+Erica,8/14/2025 8:49,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,High,HDPE,4-Mar,8/14/2025 8:49,Edwin,Fixed,,2025/08/14_EG_2,1248,7e9f569c-2304-4c09-9671-2fa28ab1743f,35.84693736,-6.117931468
+Irene,8/14/2025 9:13,Nzuguni,kanisa Jekundu ,Underground Leak,High,HDPE,1.5,8/14/2025 10:08,Edwin,Fixed,,2025/08/14-IL-2,1249,68bbe0c6-9e96-4454-b122-402cce6f2f8a,35.84626104,-6.118171915
+Erica,8/14/2025 9:16,Nzuguni,kanisa Jekundu ,Underground Leak,Low,HDPE,4-Mar,8/14/2025 10:08,Edwin,Fixed,,2025/08/14_EG_3,1250,8819404d-198e-438c-a616-e2768c5c0916,35.84625701,-6.118163817
+Irene,8/14/2025 9:52,Nzuguni,kanisa jekundu ,Underground Leak,High,HDPE,1.5,8/14/2025 9:54,Sadiki,Fixed,,2025/08/14-IL-04,1251,653bb587-b5ce-4f19-8374-fb31af4a931e,35.84455383,-6.118444294
+Irene,8/14/2025 9:55,Nzuguni,kanisa Jekundu ,Underground Leak,Low,HDPE,4-Mar,8/14/2025 10:09,Edwin,Fixed,,2025/08/14-IL-3,1252,9e94f630-ceb6-42bd-963d-caefde0cb2de,35.84623845,-6.118105383
+Erica,8/14/2025 11:15,Nzuguni,kanisa Jekundu ,Underground Leak,High,HDPE,1.5,8/14/2025 11:21,Edwin,Temporal Fix,,2025/08/14_EG_4,1253,e8634448-b178-4749-9bdd-b2836f8abe4b,35.84525871,-6.118291271
+Erica,8/14/2025 11:40,Nzuguni,kanisa la Roma ,Underground Leak,Low,HDPE,4-Mar,8/14/2025 11:42,Edwin,Temporal Fix,,2025/08/14_EG_5,1254,85536d7f-9567-4a02-ba4a-e22add0b4431,35.84265278,-6.118042567
+Irene,8/14/2025 13:40,Nzuguni,Kwa Yusufu,Underground Leak,High,HDPE,2,8/14/2025 14:04,Edwin,Fixed,,2025/08/14-IL-05,1255,dd477e9a-f98b-4ed4-b6dc-1b0cdf7247d2,35.85079903,-6.114036033
+Erica,8/14/2025 14:21,Nzuguni,Kwa Yusufu ,Underground Leak,Critical,HDPE,2,8/14/2025 14:37,Edwin,Fixed,,2025/08/14_EG_6,1256,39379776-4e00-43b4-81b7-8b87742791c4,35.85345872,-6.115758272
+Irene,8/15/2025 8:25,Nzuguni,Fire ,Underground Leak,High,HDPE,1.5,,Edwin,Temporal Fix,,2025-08-15/08/15-IL-01 ,1257,ec0c1c3a-fe95-4c88-a4a2-3b284da926ad,35.84450655,-6.12856299
+Erica,8/15/2025 9:43,Nzuguni,Manyama Road,Surface LEak,High,uPVC,4-Mar,8/15/2025 10:27,Sadiki,Temporal Fix,,2025/08/15_EG_1,1258,9b26e2d9-b0da-4997-8b80-c2a17225fa5c,35.8392709,-6.1339129
+Irene,8/15/2025 10:34,Nzuguni,mnyakatali,Underground Leak,High,HDPE,4-Mar,8/15/2025 10:35, ,Fixed,,2025/08/15-IL-02,1259,b1ebec30-12c4-44de-ab74-14692887a261,35.84423627,-6.121557373
+Erica,8/18/2025 10:11,Nzuguni,kwa mjeshi ,Underground Leak,High,uPVC,7,8/21/2025 7:23,Edwin,Fixed,,2025/08/18-EG-01,1260,6848ec8f-5cd1-466b-b372-caac874ce66d,35.84542427,-6.123306432
+Mwiza,8/18/2025 12:54,Nzuguni,Nzuguni Mnarani,Underground Leak,High,HDPE,4-Mar,8/18/2025 12:57,Sadiki,Fixed,,2025-08-18-MB-01,1261,6d2aab4c-7df7-4e95-8406-b5ad21f6c5e1,35.82407873,-6.139520517
+Irene,8/19/2025 8:37,Nzuguni,jagwani ,Underground Leak,,HDPE,4-Mar,8/19/2025 8:45,Sadiki,Temporal Fix,,2025/08/19-IL-01,1262,598b38b9-cff5-48d5-b468-f90224f49c98,35.83645978,-6.117707192
+Mwiza,8/19/2025 8:46,Nzuguni,Nzuguni B Darajani,Underground Leak,High,HDPE,1.5,8/22/2025 7:35,Eliya,Fixed,,2025-08-19-MB-01,1263,321aa3b7-636d-42fe-98e5-5f5ed0cb00a8,35.82033223,-6.134801967
+Mwiza,8/19/2025 9:37,Nzuguni,NZUGUNI B DUKA LA DAWA,Underground Leak,High,uPVC,4,8/19/2025 11:50,Emily,Fixed,,2025-08-19-MB-02,1264,0c74498f-8511-4078-818a-f1afe1be0abb,35.81333107,-6.125715567
+Erica,8/19/2025 9:39,Nzuguni,nane nane,Surface LEak,High,HDPE,4-Mar,8/19/2025 9:40,Sadiki,Fixed,,2025/08/19_EG_1,1265,68d36b18-018f-4f62-8abf-b0c9ff6d3b3e,35.82381335,-6.140577593
+Erica,8/20/2025 8:21,Nzuguni,kanisa la sabato ,Underground Leak,High,HDPE,1.5,8/20/2025 8:53,Edwin,Fixed,,2025/08/20_EG_1,1266,eee99161-5158-4a57-b097-c0aed9530520,35.8421004,-6.118777342
+Irene,8/20/2025 9:45,Nzuguni,kilimahewa,Underground Leak,High,HDPE,1,,Edwin,Temporal Fix,,2025/08/20/-IL-01,1267,b65b3fda-179a-4d8d-b03b-d36219b6d4a8,35.84999157,-6.12667995
+Erica,8/20/2025 10:06,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,1,8/21/2025 9:07,Edwin,Fixed,,2025/08/20-EG-02,1269,8115d4d4-9c99-41ee-92c2-b00255458bd4,35.85094167,-6.126380733
+Irene,8/20/2025 10:08,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,2,,Edwin,Nothing Done,,2025/08/20-IL-03,1270,cceb2719-f05b-4abd-974d-bdefef3b73b8,35.84846578,-6.124522157
+Erica,8/20/2025 10:11,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,2,,Edwin,Nothing Done,,2025/08/20-EG-03,1271,2513bb0b-d420-48d7-9137-1202ed4c1f49,35.84778592,-6.123791508
+Irene,8/20/2025 10:21,Nzuguni,kanisa la Roma ,Underground Leak,High,HDPE,1,8/20/2025 10:31,Edwin,Temporal Fix,,2025/08/20-IL-04,1272,6d9aaf49-c21f-4434-a5f2-18ba26fd837c,35.84117427,-6.117856933
+Erica,8/20/2025 10:40,Nzuguni,jagwani ,Underground Leak,High,HDPE,4-Mar,8/20/2025 10:41,Edwin,Fixed,,2025/08/20_EG_4,1273,ac73c859-b190-4452-8fcb-b5ab7ef4f7ad,35.83778736,-6.11752882
+Erica,8/21/2025 9:01,Nzuguni,kilima hewa ,Underground Leak,Low,HDPE,1.5,8/21/2025 10:48,Sadiki,Fixed,,2025/08/21-EG-01,1275,50d52ebe-b726-4254-97ac-379ded3e4159,35.84708276,-6.128346694
+Irene,8/20/2025 9:42,Nzuguni,kilima hewa ,,,HDPE,4-Mar,8/21/2025 9:41,Edwin,Fixed,,2025/08/21-IL-02,1276,68dadf06-8773-4f5c-b494-79cca8bece9c,35.8474069,-6.128095367
+Irene,8/21/2025 10:57,Nzuguni,kilima hewa ,Underground Leak,Low,HDPE,4-Mar,8/21/2025 10:57,Sadiki,Fixed,,2025/08/21-IL-01,1277,7a2b9270-e4ef-4ae7-880c-542fadfc61e2,35.84747793,-6.127412417
+Erica,8/22/2025 7:46,Nzuguni,Kwa msatabato,Underground Leak,High,HDPE,2,8/22/2025 8:36,Edwin,Fixed,,2025/08/22_EG_1,1278,5ff7ddc7-a721-4d5f-be3e-bcf3cc25216a,35.84242498,-6.120114422
+Irene,8/22/2025 9:22,Nzuguni,Kwa Yusufu ,Underground Leak,High,HDPE,4-Mar,8/22/2025 10:24,Sadiki,Fixed,,2025/08/22-IL-01,1279,f790dce4-0cd4-45e7-ad04-170239b1e5d1,35.84859435,-6.115095183
+Erica,8/22/2025 9:58,Nzuguni,shule ya msingi nzuguni A/darajani,Underground Leak,High,HDPE,4-Mar,8/22/2025 10:21,Edwin,Fixed,,2025/08/22_EG_2,1280,606e0a2a-5c0b-4709-bc19-e573583fec16,35.84773115,-6.114834891
+Irene,8/22/2025 12:12,Nzuguni,nane nane ,Underground Leak,High,HDPE,2,8/22/2025 12:16,Edwin,Fixed,,2025/08/22-IL-02,1281,48f5cd03-e2ae-4a5d-bd82-e27ded798167,35.83283142,-6.144397102
+Erica,8/26/2025 10:18,Nzuguni,Booster ,Surface LEak,Critical,Steel,7,8/26/2025 10:19,Edwin,Fixed,,2025/08/26_EG_1,1282,185ec47d-5055-4e09-875b-deaabc9a66ad,35.86613202,-6.105410819
+Irene,8/27/2025 8:58,Nzuguni,masister ,Underground Leak,High,HDPE,4-Mar,8/27/2025 8:59,Edwin,Temporal Fix,,2025/08/27-IL-01,1283,cda8ffe0-f0c5-4e1f-ac87-0542b94e8baf,35.83688212,-6.123283441
+Mwiza,8/27/2025 9:12,Nzuguni,CBE,Underground Leak,,HDPE,4-Mar,,Emily,Temporal Fix,,2025-08-27-MB-01,1284,83335f54-3ac0-4d1d-b6a4-a66a51fab81c,35.81580365,-6.137862567
+Erica,8/27/2025 10:13,Nzuguni,mnarani,Underground Leak,Low,HDPE,1,8/27/2025 10:21,Sadiki,Fixed,,2025/08/27-IL-01,1285,8c60e7c0-761a-4672-aa94-b11d7a13545f,35.83235395,-6.123695967
+Irene,8/27/2025 10:43,Nzuguni,mnarani ,Underground Leak,,HDPE,1,,Edwin,Nothing Done,,2025/08/27-IL-02,1286,6a942d8b-fd01-47f3-91b5-109990490881,35.83268095,-6.123797633
+Irene,8/28/2025 7:09,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,Low,HDPE,1.5,9/25/2025 9:56,Edwin,Fixed,,2025/08/23-IL-1,1287,825166d4-fcd9-4e95-abef-15b6f999e757,35.84701215,-6.118031801
+Erica,8/28/2025 7:20,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,Low,HDPE,4-Mar,,Edwin,Nothing Done,,2025/08/23_EG_1,1288,062623e2-d409-4817-9071-4354daf9ca4f,35.84791355,-6.119140252
+Mwiza,8/28/2025 8:14,Nzuguni,NZUGUNI B. ,Underground Leak,Critical,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-08-28-MB-01,1290,f1429cb8-6214-4efe-9562-8db664ce3d15,35.82303867,-6.126581433
+Erica,8/28/2025 8:27,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,2,8/28/2025 12:13,Edwin,Fixed,,2025/08/28_EG_2,1291,1ea0aba0-e779-445d-8fb7-8f28d11280be,35.85287851,-6.122241386
+Erica,8/28/2025 9:41,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,4-Mar,8/28/2025 13:01,Sadiki,Temporal Fix,,2025/08/28_EG_2,1292,58d368ac-c9b0-4a8b-b850-78cc892dfd84,35.85442356,-6.123974744
+Irene,8/29/2025 8:22,Nzuguni,Fire,Underground Leak,High,HDPE,1.5,10/1/2025 9:12,Sadiki,Fixed,,2025/08/29-IL-01,1293,12ecf1b9-edc2-4bfe-a20c-19752eae69ea,35.84324355,-6.12814544
+Erica,8/29/2025 8:31,Nzuguni,Fire,Underground Leak,Low,HDPE,1.5,8/29/2025 8:33,Edwin,Nothing Done,,,1294,608f42b1-f754-48b1-8ffe-491170632065,35.84376627,-6.127758566
+Irene,8/29/2025 9:17,Nzuguni,kilima hewa ,Underground Leak,Low,HDPE,1.5,,Edwin,Nothing Done,,2025/08/29-IL-02,1295,12d6c08e-3be4-4606-9cd8-d4cd6b71a71e,35.84398115,-6.133951817
+Mwiza,8/29/2025 10:34,Nzuguni,Mbuyuni,Underground Leak,High,HDPE,1.5,,Emily,Temporal Fix,,2025-08-29-MB-01,1296,bbf7829e-cff6-4755-8b19-047bcfa313a4,35.8257561,-6.135821817
+Mwiza,9/2/2025 8:37,Nzuguni,Mnarani ,Surface LEak,High,uPVC,4,,Edwin,Nothing Done,,,1297,3fc1f492-c387-42f9-93de-9267ad2bd74d,35.83218664,-6.125286397
+Mwiza,9/2/2025 8:42,Nzuguni,Mnarani ,Surface LEak,High,uPVC,4,,Edwin,Nothing Done,,,1298,cce3301e-03d3-4550-b94d-1f515dde4cd4,35.83274544,-6.131256161
+Mwiza,,Nzuguni,nzuguni a,Underground Leak,High,HDPE,4-Mar,,Edwin,Nothing Done,,2025-09-03-MB-01,1299,9b620fa7-caf7-424b-8692-ab8394b91aa1,35.83678338,-6.127939017
+Erica,9/4/2025 8:56,Nzuguni,Kwa masister kueleka natma,Underground Leak,Critical,HDPE,4-Mar,9/5/2025 8:50,Edwin,Fixed,,2025/09/04_EG_1,1300,cb80bb17-2835-4328-8300-86e1616779cf,35.8346737,-6.121687433
+Erica,9/4/2025 9:45,Nzuguni,Kwa masista,Surface LEak,High,HDPE,4-Mar,, ,Nothing Done,,,1301,b4e02c6a-37fb-4133-ba1e-75ce9831d514,35.83381112,-6.127417067
+Irene,9/5/2025 9:33,Nzuguni,nane nane ,Underground Leak,,HDPE,4-Mar,12/8/2025 8:58,Sadiki,Fixed,,2025/09/05-IL-01,1302,73e50bbf-61ee-4d2f-bc17-5a62569eac2b,35.82296135,-6.142296833
+Irene,9/5/2025 10:17,Nzuguni,nane nane,Underground Leak,High,HDPE,1,12/8/2025 8:59,Edwin,Fixed,,2025/08/5/-IL-02,1303,d94dbd7f-a52a-4432-bd0b-509255608b56,35.82362958,-6.140860228
+Irene,,Nzuguni,nane nane,Underground Leak,High,HDPE,4-Mar,12/8/2025 9:00,Sadiki,Fixed,,,1304,dcfc42fc-4ea9-4782-8752-fcea65f22184,35.82336877,-6.14027535
+Mwiza,9/8/2025 8:10,Nzuguni,nzuguni b,Underground Leak,High,HDPE,4-Mar,,Edwin,Nothing Done,,2025-09-08-MB-01,1305,aebe4d54-9a9a-4810-9621-f0fcaab1c1cc,35.84044528,-6.12010915
+Mwiza,9/8/2025 12:12,Nzuguni,jangwanj,Underground Leak,Critical,HDPE,4-Mar,10/8/2025 11:19,Edwin,Fixed,,2025-09-08-MB-02,1306,a683733a-aa61-4bb2-9ffb-04032859e4af,35.83780378,-6.117548767
+Mwiza,9/8/2025 13:12,Nzuguni,Jangwani,Underground Leak,Critical,HDPE,4-Mar,10/2/2025 10:21,Edwin,Fixed,,2025-09-08-MB-03,1307,118a256c-9628-4ff4-ad36-704d6a09e95c,35.83587313,-6.114012666
+Irene,9/9/2025 7:29,Nzuguni,Nzuguni A shule ya Msingi ,Surface LEak,High,HDPE,4-Mar,9/9/2025 7:30, ,Nothing Done,,,1308,227af0ed-acff-4ef1-acf9-8fce241747c1,35.8440623,-6.1222451
+Mwiza,9/9/2025 13:09,Nzuguni,Nzuguni A,Underground Leak,Critical,HDPE,3,,Emily,Nothing Done,,2025-09-09-MB-01,1309,cb3eba48-2cb8-46f3-8414-ed68fe15ed69,35.84196148,-6.119059066
+Mwiza,9/11/2025 6:39,Nzuguni,Nzuguni A,Underground Leak,High,HDPE,4-Mar,,Edwin,Nothing Done,,2025-09-11-MB-01,1310,31a43075-9e5c-4ea5-9003-a2151e0c3b9b,35.84606827,-6.119874917
+Mwiza,9/18/2025 7:33,Nzuguni,njia ya kuelekea Helen white,Underground Leak,High,HDPE,4-Mar,9/25/2025 11:21,Eliya,Fixed,,2025/09/12-MB-1,1311,225fea17-79b9-46f7-991a-847a64b57810,35.81984419,-6.125333702
+Mwiza,9/12/2025 7:17,Nzuguni,MWISHO WA LAMI,Underground Leak,Critical,HDPE,1,,Edwin,Nothing Done,,2025-09-12-MB-01,1312,adaa470b-2375-459b-8eb3-c5f07bf38ab4,35.84794243,-6.11103045
+Mwiza,9/12/2025 9:03,Nzuguni,Mwisho wa lami,Meter point,Critical,HDPE,2,,Edwin,Temporal Fix,need attention ,,1313,192dc295-6891-4217-95b0-88695d64741e,35.85395152,-6.107323988
+Irene,9/16/2025 6:53,Nzuguni,nanae nane,,High,uPVC,3,12/8/2025 9:03,Sadiki,Fixed,,2025-09-16/IL/01,1314,711b55f2-abd4-43ff-9ccf-c415db39e8e6,35.834435,-6.144116238
+Irene,,Nzuguni,kilima hewa,,Low,HDPE,1,9/24/2025 7:17,Edwin,Temporal Fix,,2025-09-16/IL/02,1315,adff5fba-db80-4421-bc82-e4b4eb1a074e,35.84203145,-6.134761443
+Irene,9/16/2025 9:49,Nzuguni,kilima hewa ,Underground Leak,High,HDPE,1,9/24/2025 7:17, ,Temporal Fix,,2025-09-16/IL/03,1316,db6b75a5-ad0a-483d-859d-0e0d290a9adb,35.84211192,-6.134974977
+Irene,9/18/2025 6:34,Nzuguni,kwa YUSUFU,Meter point,Critical,uPVC,6,9/18/2025 9:45,Edwin,Fixed,,2025-09-18/IL-01,1317,7b2b62db-0664-4db5-8546-0a47f3d80826,35.8494944,-6.111122917
+Mwiza,9/18/2025 7:05,Nzuguni,darajani,Meter point,High,uPVC,3,9/29/2025 6:25,Sadiki,Fixed,,2025-09-18-MB-01,1318,530fc202-50c0-4ccd-bd70-bce87b6c6466,35.82018548,-6.1342601
+Mwiza,9/18/2025 7:20,Nzuguni,vegas,Underground Leak,Critical,HDPE,1,9/22/2025 9:29,Eliya,Temporal Fix,,2025-09-18-MB-02,1319,52c57517-c043-4546-b476-84dbe3d04589,35.82539273,-6.126329167
+Mwiza,9/18/2025 7:28,Nzuguni,KONA YA ELLEN WHITE,Underground Leak,High,HDPE,2,9/25/2025 10:50,Eliya,Fixed,,2025-09-18-MB-03,1320,6f6fa9e9-0611-4b96-8820-148b7528c829,35.81982663,-6.124694467
+Mwiza,9/18/2025 7:34,Nzuguni,BARABARA YA SHULE YA NZUNGUNI B MSINGI,Underground Leak,High,HDPE,2,9/25/2025 9:48,Eliya,Fixed,,2025-09-18-MB-04,1321,56b44a63-dfc4-403c-b4e8-7489e95a1fa5,35.81980778,-6.125601087
+Mwiza,9/18/2025 7:37,Nzuguni,mama j. mapikipiki,Underground Leak,High,HDPE,2,,Eliya,Nothing Done,,2025-09-18-MB-05,1322,634f4f44-211f-405b-b426-378d818958a2,35.81952137,-6.127677633
+Erica,9/18/2025 10:22,Nzuguni,kwa mjeshi,Underground Leak,High,HDPE,2,,Edwin,Temporal Fix,2025/09/18_EG_1+,,1323,eda400af-d8ba-4394-83b2-34bf00e3c3aa,35.84556747,-6.126290675
+Erica,9/18/2025 10:52,Nzuguni,Kona ya kwa mjeshi,Underground Leak,Low,HDPE,2,9/18/2025 11:01,Edwin,Temporal Fix,,2025/09/18_EG_2,1324,a19feecb-b664-494b-b7d0-9fde65c709e5,35.84582,-6.124933
+Erica,9/18/2025 13:04,Nzuguni,mwisho wa lami,Underground Leak,High,HDPE,1.5,,Sadiki,Fixed,,2025/09/18_EG_3,1325,a0f2dfd7-75d1-4f97-80c9-10c1ca526d31,35.853859,-6.105441
+Mwiza,9/19/2025 7:18,Nzuguni,njia ya chuo,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-09-19-MB-01,1326,dd213c01-a47a-468e-96ec-34f42f9f2104,35.81977009,-6.119504903
+Erica,9/19/2025 7:24,Nzuguni,ilamba lodge,Underground Leak,High,HDPE,4-Mar,9/19/2025 7:26,Sadiki,Temporal Fix,,2025/09/19_EG_1,1327,3a866daa-1b17-4398-81a0-4d8dba76094f,35.83517938,-6.135138367
+Erica,9/19/2025 7:36,Nzuguni,karbu na ilamba lodge ,Underground Leak,High,HDPE,4-Mar,9/19/2025 7:37,Sadiki,Temporal Fix,,2025/09/19_EG_2,1328,064d80a6-aed4-4fea-8e7a-ed72d197b6c9,35.8351966,-6.134964
+Mwiza,9/19/2025 7:42,Nzuguni,Njia ya ellen white,Underground Leak,High,uPVC,4,,Eliya,Nothing Done,,2025-09-19-MB-02,1329,b76a034c-8cee-413c-9e94-49d495e24972,35.81315246,-6.124838221
+Mwiza,9/19/2025 7:50,Nzuguni,Njia yaellen white,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-09-19-MB-03,1330,9a1615ef-b228-4505-8286-385522dc9c43,35.81331102,-6.126417756
+Mwiza,9/29/2025 7:15,Nzuguni,Mnarani,Underground Leak,Critical,HDPE,4-Mar,10/7/2025 8:49,Eliya,Fixed,,2025-09-22-MB-01,1331,a44e7c06-465d-4991-a0a3-e73ce575b45a,35.83077327,-6.124588567
+Erica,9/22/2025 11:51,Nzuguni,Nane nane,Underground Leak,High,HDPE,1.5,9/22/2025 12:27,Eliya,Fixed,,2025/09/22_EG_1,1332,1783ccce-d6d7-44e3-9823-b95ba2e609a0,35.83739256,-6.133631356
+Mwiza,9/23/2025 8:34,Nzuguni,Nzuguni kwa Mtendaji,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-09-23-MB-01,1333,d4f6090d-c32a-416e-b08f-35f5a66d5131,35.82663794,-6.125678474
+Irene,9/23/2025 8:46,Nzuguni,nyumba za Yusufu ,Surface LEak,Critical,HDPE,1.5,9/23/2025 10:27,Edwin,Fixed,,2025-09-23/IL/01,1334,db133347-15fe-4563-be8b-88496e889b45,35.8548754,-6.115663878
+Mwiza,9/23/2025 8:52,Nzuguni,Kanisa la bonde la baraka,Underground Leak,High,HDPE,4-Mar,10/4/2025 10:59,Eliya,Fixed,,2025-09-23-MB-03,1335,6fcf8953-84b9-431b-9f83-cd3a38a16fc9,35.82660955,-6.131497467
+Erica,9/23/2025 10:34,Nzuguni,Kwa Yusuph ,Underground Leak,High,HDPE,4-Mar,9/23/2025 10:34,Sadiki,Fixed,,2025-09-23/EG/01,1336,c186a96f-f75f-408f-97c3-d4ef07576c28,35.85061279,-6.11414536
+Erica,9/24/2025 7:05,Nzuguni,secondary Nzuguni A ,Underground Leak,High,HDPE,1.5,11/26/2025 7:23,Sadiki,Fixed,,2025/09/24_EG_1,1337,a98996d9-fe28-4440-b5c0-b8859adcd0c6,35.8399841,-6.131430232
+Irene,9/24/2025 7:24,Nzuguni,secondary Nzuguni A ,Underground Leak,High,HDPE,1,9/25/2025 10:00,Sadiki,Fixed,,2025/09/24_IL_1,1338,6be04a80-5429-4386-bf6b-d25c7bf53009,35.83908547,-6.130044334
+Irene,9/24/2025 7:47,Nzuguni,kilima hewa ,Underground Leak,,HDPE,1.5,,Edwin,Nothing Done,,2025/09/24/-IL-02,1339,1b3a6733-7ed2-4ae7-b230-94a180bbbef0,35.84455729,-6.133472256
+Mwiza,9/25/2025 7:54,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-09-25-MB-01,1340,7a958108-3e63-402d-a2c7-3d4c82aaeb7d,35.82327738,-6.13624255
+Mwiza,9/25/2025 8:08,Nzuguni,kanisa la roma,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-09-25-MB-02,1341,f1d79ca5-4236-4dd4-87d0-be0b31232690,35.82965781,-6.128011807
+Irene,9/25/2025 7:59,Nzuguni,masister ,Underground Leak,High,uPVC,3,10/1/2025 10:12,Edwin,Fixed,,2025/09/25-IL-01,1342,c749cf00-25ce-4a84-a260-d394aaaad1a5,35.83740351,-6.125213602
+Erica,9/25/2025 8:44,Nzuguni,darajani,Underground Leak,,HDPE,4-Mar,,Sadiki,Temporal Fix,,2025/09/24-EG-01,1343,4d8b4e41-c8b6-401f-8461-048734eb4902,35.82962259,-6.132028529
+Erica,9/25/2025 9:54,Nzuguni,shule ya msingi nzuguni A,Underground Leak,Critical,HDPE,1.5,9/25/2025 9:55,Sadiki,Temporal Fix,,2025/09/25_EG_1,1344,df018232-9d15-434c-a078-22f9a492d555,35.84686747,-6.118041988
+Erica,9/25/2025 10:21,Nzuguni,kibao Cha kanisa ,Underground Leak,High,HDPE,1.5,9/25/2025 11:03,Edwin,Fixed,,2025/09/25_EG_2,1345,8c6962d0-fcd3-4b2b-bc69-15506814b173,35.84608453,-6.121740259
+Erica,9/25/2025 11:28,Nzuguni,Monica de Jacob ,Underground Leak,High,HDPE,6,10/15/2025 9:55,Edwin,Fixed,,2025/09/25_EG_3,1346,ff426405-5564-4a95-8b76-5e711f115a4d,35.85149176,-6.109088747
+Erica,9/25/2025 11:38,Nzuguni,mwisho wa lami,Underground Leak,High,HDPE,6,,Edwin,Nothing Done,,2025/09/25_EG_4,1347,df048a40-f8ae-4683-878b-e676e50c5c0f,35.85199515,-6.108536832
+Erica,9/26/2025 8:07,Nzuguni,kwa masister,Underground Leak,High,HDPE,4-Mar,9/26/2025 8:24,Eliya,Fixed,,2025/09/26_EG_1,1348,47d07b54-f0a3-48ec-8679-1cddb100ef18,35.83212454,-6.122375544
+Erica,9/26/2025 8:41,Nzuguni,kwa masista/mnarani ,Underground Leak,High,HDPE,1,,Eliya,Nothing Done,,2025/09/26_EG_2,1349,6dbe3540-cbe7-4a32-805b-01ad80390f9e,35.83123528,-6.122670273
+Mwiza,9/29/2025 7:21,Nzuguni,Ilakoze primary,Underground Leak,High,uPVC,3,10/2/2025 8:52,Eliya,Temporal Fix,,2025-09-29-MB-01,1350,ff8d548b-cead-4af7-b971-410861f1b4c2,35.8295165,-6.119277834
+Mwiza,9/29/2025 7:29,Nzuguni,Nzuguni B,Underground Leak,Low,HDPE,4-Mar,,Eliya,Nothing Done,,2025-09-29-MB-02,1351,acbfc592-3988-4994-b346-d819cb2b8530,35.82838408,-6.115455667
+Mwiza,9/29/2025 8:00,Nzuguni,NZUGUNI B,Underground Leak,High,HDPE,4-Mar,10/15/2025 7:15,Eliya,Fixed,,2025-09-29-MB-03,1352,64760753-1f16-4341-b46c-61d081dd7c1f,35.82105398,-6.128534433
+Mwiza,9/29/2025 8:20,Nzuguni,chamelo,Underground Leak,High,HDPE,2,10/8/2025 11:22,Eliya,Fixed,,2025-09-29-MB-04,1353,bf1eacda-d18a-49d9-8729-d9ef764af25e,35.80766048,-6.124023433
+Mwiza,9/29/2025 8:31,Nzuguni,vincon centre,Underground Leak,High,HDPE,4-Mar,,Eliya,Fixed,,2025-09-29-MB-05,1354,65798596-16bd-4dcb-aa65-e60ac53201ce,35.81334003,-6.126568467
+Mwiza,9/29/2025 10:57,Nzuguni,masai shop,Underground Leak,High,HDPE,2,10/8/2025 11:18,Eliya,Fixed,,2025-09-29-MB-06,1355,8ebd100d-af95-431c-937e-683c5fede78a,35.81717163,-6.121866566
+Mwiza,9/30/2025 7:46,Nzuguni,mnarani,Underground Leak,Critical,HDPE,4-Mar,10/1/2025 6:45,Eliya,Fixed,,2025-09-30-MB-01,1356,d138d2db-9338-4675-85cd-64c63ed69130,35.82406883,-6.138412183
+Irene,9/30/2025 8:24,Nzuguni,kanisa la anglikana,Underground Leak,,HDPE,1,9/30/2025 8:48,Sadiki,Fixed,,2025/09/30-IL-01,1357,3394b39b-e536-41e0-8bbf-65a69389c1c2,35.84173435,-6.122958133
+Mwiza,9/30/2025 9:05,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,4-Mar,10/17/2025 8:43,Eliya,Fixed,,2025-09-30-MB-02,1358,b3afadd8-ecb8-47b8-ab24-14ae58fb0b91,35.81580313,-6.129268416
+Irene,9/30/2025 9:12,Nzuguni,Kona ya mjeshi ,Underground Leak,Critical,HDPE,2,9/30/2025 9:23,Sadiki,Fixed,,2025/9/30-IL-02,1359,d5fba32f-a673-461e-b8e6-65e5a0d790d1,35.84555558,-6.123913057
+Irene,9/30/2025 12:22,Nzuguni,stop over ,Underground Leak,High,HDPE,1.5,10/1/2025 9:05,Edwin,Fixed,,2025/9/30-IL-03,1360,94a26b9e-43ae-4d15-be6e-afacb86f2617,35.84702335,-6.120537826
+Mwiza,10/1/2025 6:56,Nzuguni,NZUGUNI ,Underground Leak,High,HDPE,4-Mar,10/17/2025 8:32,Eliya,Fixed,,2025-10-01-MB-01,1361,c3f486af-64d0-495d-91cb-a6f4238a5fe3,35.81616418,-6.1384857
+Mwiza,10/1/2025 8:59,Nzuguni,NJIA YA SHULE YA MSINGI,Underground Leak,High,HDPE,2,,Eliya,Fixed,,2025-10-01-MB-02,1362,4779c52e-da98-4914-86f3-341ff2da5adb,35.81951873,-6.126533917
+Erica,10/1/2025 9:37,Nzuguni,Kwa mjeshi,Underground Leak,High,HDPE,2,10/1/2025 9:38,Sadiki,Temporal Fix,,2025/10/1_EG_1,1363,b5db5be3-798f-459d-914e-532eee234ac6,35.84623933,-6.1232931
+Irene,10/1/2025 9:46,Kisasa,Kwa mjeshi ,Underground Leak,High,HDPE,2,10/1/2025 9:59,Sadiki,Temporal Fix,,2025/10/01-IL-1,1364,afc62ef4-e23d-4ad5-b455-d6d237dce764,35.84872462,-6.124785334
+Erica,10/1/2025 10:05,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,1,,Sadiki,Fixed,,2025/10/01_EG_2,1365,6d603e6a-85bb-48ca-ba9d-6c139c8660d3,35.84851026,-6.126535523
+Erica,10/1/2025 10:16,Nzuguni,Kwa mzee ng'ombe ,Underground Leak,High,HDPE,1,,Sadiki,Nothing Done,,2025/10/01_EG_1,1366,04f763c2-1b6b-4350-b798-ae77a490608f,35.83588373,-6.127105033
+Mwiza,10/2/2025 7:43,Nzuguni,NZUGUNI B,Underground Leak,High,HDPE,4-Mar,,Eliya,Nothing Done,,2025-10-02-MB-01,1367,7b2d8dd1-025d-482b-af30-81c86e230d8a,35.82689382,-6.119526834
+Erica,10/2/2025 8:11,Nzuguni,Kwa sabato ,Underground Leak,High,HDPE,1,10/2/2025 9:21,Edwin,Fixed,,2025/10/02_EG_1,1368,7dc50fd2-e744-4708-be3c-8d6e46a0c9ac,35.84237847,-6.119858467
+Irene,10/2/2025 8:12,Nzuguni,Kwa sabato ,Underground Leak,High,HDPE,2,10/2/2025 9:20,Edwin,Fixed,,2025/10/02-IL-1,1369,dac67ce5-a090-4973-8320-1621253c36b3,35.84238206,-6.119876823
+Irene,10/2/2025 9:30,Nzuguni,kwamsabato,Underground Leak,,HDPE,4-Mar,,Edwin,Temporal Fix,,2/10/2025-IL-02,1370,eddbadbf-c3e7-4799-a547-d813c179165b,35.84218755,-6.120420669
+Erica,10/2/2025 9:31,Nzuguni,jagwani ,Underground Leak,High,HDPE,1,10/2/2025 9:32,Eliya,Fixed,,2025/10/02-EG-2,1371,f48b68e2-4cc0-4dd1-a9e9-954c53c3070c,35.83585756,-6.114038029
+Mwiza,10/2/2025 9:57,Nzuguni,korongoni,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-10-02-MB-02,1372,5a77f292-e7d0-41d3-9e8d-c6a2ea65ce72,35.82376427,-6.135806389
+Irene,10/2/2025 10:03,Nzuguni,kanisa jekundu ,Underground Leak,High,HDPE,1.5,,Edwin,Nothing Done,,2025/9/10-IL-03,1373,59bf3031-00c8-46af-a9eb-472460c6b257,35.84502976,-6.118327973
+Irene,10/2/2025 10:42,Nzuguni,sunshine school ,Underground Leak,High,HDPE,4-Mar,10/2/2025 10:57,Edwin,Fixed,,2025/10/02/-IL-04,1374,5438bb89-0836-4f55-acf8-145c1e88fa9d,35.85225633,-6.109293948
+Irene,10/2/2025 11:03,Nzuguni,Monica D Jacob ,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/10/02-IL-05,1375,0ddbcc50-1ccf-4d0e-83fa-37dc9c16ffed,35.85068438,-6.110539446
+Erica,10/2/2025 11:01,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,1,12/18/2025 10:55,Edwin,Fixed,,2025/10/02-EG-3,1376,9c190340-1c9d-41da-b84d-aea764cf437c,35.83558771,-6.119437033
+Irene,10/2/2025 11:21,Nzuguni,kwa Yusufu ,Underground Leak,High,HDPE,1.5,10/2/2025 11:30,Edwin,Fixed,,2025/10/02-IL-06,1377,2c93823e-f32c-4ae1-8f12-0071e78a6e3a,35.84958282,-6.110861725
+Erica,10/2/2025 11:56,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,4-Mar,10/2/2025 12:13,Eliya,Fixed,,2025/10/02-EG-4,1378,fb6b0eb2-ae52-4e96-9661-defa511efab3,35.83741583,-6.123801667
+Irene,10/2/2025 13:36,Nzuguni,kilima hewa ,Surface LEak,High,HDPE,1.5,,Edwin,Nothing Done,,2025/10/02-IL-07,1379,a2e62504-6a53-49f9-8c47-e37a65b80a66,35.85299451,-6.121278318
+Erica,10/3/2025 8:39,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,4-Mar,10/3/2025 9:31,Edwin,Temporal Fix,,2025/10/03-EG-1,1380,9bfe829c-1e17-4a04-86c9-2721a332fb09,35.83445539,-6.121562179
+Irene,10/3/2025 8:42,Nzuguni,Kwa masister ,Underground Leak,High,HDPE,4-Mar,10/3/2025 9:39,Edwin,Temporal Fix,,2025/10/03-IL-1,1381,5731f64f-134a-4f88-b3b7-05a95723ae21,35.83468539,-6.121644139
+Mwiza,10/3/2025 12:25,Nzuguni,nzuguni B,Meter point,,HDPE,1,,Eliya,Temporal Fix,,2025-10-03-MB-01,1382,4d349b78-5ad6-4d66-9183-157ea8e8c3c2,35.82419975,-6.131935867
+Mwiza,10/3/2025 12:37,Nzuguni,Nzuguni B,Burst Leak,Critical,HDPE,1,10/4/2025 14:00,Eliya,Fixed,,2025-10-01-MB-02,1383,931f0320-0a0d-4b4b-8d71-00d00768f7a6,35.82703577,-6.133354433
+Mwiza,10/6/2025 10:00,Nzuguni,Kibao cha kanisa la TAG,Underground Leak,High,HDPE,1.5,,Eliya,Temporal Fix,,2025-10-06-MB-01,1384,57fec402-91cf-46e4-a208-5fc998d8cba3,35.8248642,-6.114350834
+Mwiza,10/6/2025 10:06,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-10-06-MB-02,1385,ce5aeb1a-0f0c-4e4d-9b91-948c1f6faa16,35.82287527,-6.112779967
+Erica,10/7/2025 7:07,Nzuguni,kanisa Jekundu ,Underground Leak,High,HDPE,1,,Edwin,Nothing Done,,2025/10/07_EG_1,1386,c4fac8cc-2128-4796-ba26-da01b1865d6c,35.84541346,-6.120571483
+Erica,10/7/2025 10:33,Nzuguni,Kwa mkumbaru ,Underground Leak,High,HDPE,1.5,10/7/2025 13:14,Edwin,Fixed,,2025/10/07_EG_2,1387,7da3d61e-b568-45ec-8389-947900868cb4,35.83982007,-6.122004746
+Erica,10/8/2025 9:21,Nzuguni,Dr Mujemula,Underground Leak,High,HDPE,1.5,10/8/2025 9:30,Edwin,Temporal Fix,,2025/10/08_EG_1,1388,188af9a0-0ea9-4dc2-b5fd-3cd7e5513731,35.84099998,-6.134775923
+Mwiza,10/8/2025 9:24,Nzuguni,Ishinwe medics,Underground Leak,High,HDPE,4-Mar,10/8/2025 9:42,Eliya,Fixed,,2025-10-08-MB-01,1389,125259c3-3cf7-4dc8-823e-47994dd3c8f7,35.81950753,-6.127623133
+Mwiza,10/8/2025 9:58,Nzuguni,Chamelo,Underground Leak,High,HDPE,4-Mar,10/8/2025 11:20,Eliya,Fixed,,2025-10-08-MB-02,1390,819736d5-812f-4a46-bf5f-7a1f5864a716,35.81394128,-6.125606367
+Erica,10/8/2025 11:13,Nzuguni,jagwani ,Underground Leak,High,HDPE,4-Mar,10/8/2025 11:19,Edwin,Fixed,,2025/10/08_EG_3,1391,b590081a-7f64-49fa-9d71-5a93cb78c864,35.83781219,-6.117520998
+Erica,10/9/2025 8:23,Nzuguni,Kwa mnyambaru,Underground Leak,Low,HDPE,1.5,,Edwin,Nothing Done,,2025/10/09_EG_1,1392,03211d99-e103-4091-94e8-222b9ddb6c57,35.83983325,-6.122000491
+Erica,10/9/2025 9:44,Nzuguni,shule ya msingi ,Underground Leak,High,HDPE,1.5,10/9/2025 9:46,Edwin,Fixed,,2025/10/09_EG_2,1393,6363afb1-17e7-4bc0-a0b8-dc710a2436af,35.84844065,-6.117743925
+Erica,10/9/2025 10:55,Nzuguni,mbugani,Household,High,HDPE,4-Mar,10/9/2025 10:57,Edwin,Fixed,,2025/10/08_EG_3,1394,cf3c6fcc-892a-4782-bb26-672a9465cf84,35.85515,-6.102715
+Erica,10/9/2025 11:23,Nzuguni,jangwani hardware,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/10/09_EG_3,1395,6f64484b-86a9-487c-b10b-7b7bbe6f092b,35.83676,-6.118115
+Erica,10/10/2025 7:30,Nzuguni,mashine ya alizeti,Underground Leak,High,HDPE,1.5,10/10/2025 7:33,Edwin,Fixed,,2025/10/10_EG_1,1396,63383eb9-0dae-45b8-8904-6ca9a200e35f,35.85362585,-6.117614831
+Erica,10/10/2025 8:01,Nzuguni,mwisho wa lami ,Underground Leak,High,uPVC,6,10/13/2025 8:05,Edwin,Fixed,,2025/10/10-EG-2,1397,de69bccc-f0e8-49ce-9595-58ba1e84e954,35.85453847,-6.107034348
+Erica,10/10/2025 9:54,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,1.5,10/10/2025 9:55,Edwin,Fixed,,2025/10/10-EG-3,1398,4d3f2a30-e6a5-4eaf-be2d-8c52b885a9d7,35.85475334,-6.115397364
+Erica,10/10/2025 10:36,Nzuguni,nyumba arobain za Yusuph,Underground Leak,High,HDPE,1.5,11/19/2025 10:43,Edwin,Fixed,,2025/10/10-EG-4,1399,d32f7af9-48be-42d7-9fc1-c880a0364496,35.85437045,-6.114656317
+Erica,10/10/2025 10:40,Nzuguni,nyumba arobain za Yusuph ,Underground Leak,Critical,HDPE,1,10/10/2025 10:43,Edwin,Temporal Fix,,2025/10/10-EG-5,1400,58a5c8bd-c20a-4e50-8ac4-01ac490b57fa,35.85505182,-6.1136872
+Erica,10/10/2025 11:13,Nzuguni,kanisa Jekundu ,Household,Low,HDPE,4-Mar,10/10/2025 11:35,Edwin,Fixed,,2025/10/10-EG-6,1401,be9fc20d-b82e-4026-88de-72aeaac300bd,35.8446364,-6.118585155
+Mwiza,10/13/2025 8:40,Nzuguni,Nzuguni C,Underground Leak,High,HDPE,1,,Eliya,Fixed,,2025-10-13-MB-01,1402,f5b3f710-b1fc-4a31-8590-961a00537423,35.81675418,-6.137241812
+Mwiza,10/13/2025 9:13,Nzuguni,nzuguni B,Underground Leak,High,HDPE,4-Mar,10/21/2025 7:40,Eliya,Fixed,,2025-10-13-MB-02,1403,16c0dccd-80d8-4b7c-a3ea-b2a12c994555,35.82336832,-6.123434783
+Mwiza,10/13/2025 9:21,Nzuguni,Kwa madeje,Meter point,High,HDPE,4-Mar,,Eliya,Fixed,,2025-10-13-MB-03,1404,b5a07a69-45fc-466a-9965-2ebca0abc5ee,35.82341903,-6.122278483
+Erica,10/13/2025 9:59,Nzuguni,Kwa mjeshi ,Underground Leak,High,HDPE,7,10/13/2025 12:49,Edwin,Fixed,,2025/10/13_EG_1,1405,a430febc-f56f-445f-9987-44303a7bcd4e,35.84587563,-6.122434065
+Mwiza,10/13/2025 10:40,Nzuguni,Kwa madeje,Underground Leak,High,HDPE,4-Mar,10/22/2025 8:11,Eliya,Fixed,,2025-10-13-MB-03,1406,6201a4b1-cfa6-4e82-9254-5ed8a02cd901,35.82541992,-6.125274483
+Erica,10/13/2025 13:43,Nzuguni,kanisa la Roma ,Underground Leak,High,HDPE,1,10/13/2025 13:45,Sadiki,Temporal Fix,,2025/10/13_EG_2,1407,19e39f3e-ec98-42f0-aa84-d74355d1fd94,35.84114577,-6.117849063
+Erica,10/13/2025 14:12,Nzuguni,Kwa Mafia ,Underground Leak,High,HDPE,4-Mar,10/13/2025 14:13,Edwin,Temporal Fix,,2025/10/13_EG_3,1408,8ead1187-748f-44ea-9454-d3e4b85ca985,35.8524377,-6.118767717
+Erica,10/15/2025 8:38,Nzuguni,kilimahewa ,Surface LEak,High,HDPE,1,10/15/2025 8:39,Edwin,Fixed,,2025/10/15_EG_1,1409,d3753565-cd3c-41e4-8d93-aa809291a0cf,35.84851204,-6.126541946
+Erica,10/15/2025 10:26,Nzuguni,kanisa la sabato,Underground Leak,Critical,HDPE,1.5,10/15/2025 10:27,Edwin,Fixed,,2025/10/15_EG_2,1410,802d80d0-522a-4ee0-9b4a-1d2429b08b5d,35.84244,-6.120213
+Erica,10/16/2025 8:53,Nzuguni,kibao Cha kanisa ,Underground Leak,High,HDPE,4-Mar,10/16/2025 8:57,Edwin,Temporal Fix,,2025/10/16_EG_1,1411,94477615-0bfc-47e7-bbe0-9957dd83c9b0,35.84599017,-6.121777131
+Erica,10/16/2025 9:50,Nzuguni,fire ,Surface LEak,Low,HDPE,4-Mar,10/16/2025 9:50,Edwin,Temporal Fix,,2025/10/16_EG_2,1412,60367b81-3747-45b7-8c84-b065833faf0e,35.84339075,-6.126689517
+Erica,10/16/2025 9:57,Nzuguni,Kwa mjeshi ,Underground Leak,High,HDPE,4-Mar,10/16/2025 9:57,Edwin,Temporal Fix,,2025/10/16_EG_3,1413,ff005ae7-0e27-48dc-b8c2-1cb74a799711,35.84673334,-6.127253546
+Erica,10/16/2025 13:07,Nzuguni,Eden ,Underground Leak,High,HDPE,4-Mar,10/16/2025 13:08,Edwin,Temporal Fix,,2025/10/16_EG_4,1414,cb50e516-f200-4e29-bdaf-3c1a52b949b3,35.837054,-6.124838685
+Mwiza,10/17/2025 8:01,Nzuguni,Nzuguni b,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-10-17-MB-01,1415,a93eb97e-e138-4024-9d65-d6a9f8d24228,35.82658177,-6.133308117
+Mwiza,10/17/2025 8:06,Nzuguni,Mbuyuni,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-10-17-MB-02,1416,c3b5fe33-9445-47c0-b016-e77520115d01,35.82422182,-6.137800283
+Mwiza,10/16/2025 8:14,Nzuguni,Kwa mlay,Underground Leak,High,HDPE,1,10/17/2025 8:14,Eliya,Fixed,,2025-10-17-MB-01,1417,ab6825cf-af32-45c6-8cca-4362a83e72a2,35.81838422,-6.137325334
+Mwiza,10/17/2025 8:21,Nzuguni,Nzuguni B,Meter point,High,HDPE,1,10/17/2025 8:22,Eliya,Fixed,,2025-10-17-MB-03,1418,4c3bbe10-0e84-41cd-ada8-3813aeba33c6,35.81673933,-6.137225217
+Mwiza,10/17/2025 8:34,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,10/22/2025 7:18,Eliya,Fixed,,2025-10-17-MB-04,1419,ee464f16-6d9b-4965-a676-a630481c53eb,35.81577868,-6.139211888
+Erica,10/17/2025 8:53,Nzuguni,shule ya msingi nzuguni A ,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/10/17_EG_1,1420,20df7dbd-9bdb-4fa5-8389-f94fd63fe4d6,35.84920766,-6.117803249
+Mwiza,10/17/2025 8:56,Nzuguni,Red stone,Burst Leak,High,HDPE,4-Mar,10/17/2025 8:57,Eliya,Fixed,,2025-10-17-MB-04,1421,7632a112-7f77-4501-8f39-51909953e4aa,35.82674418,-6.137986663
+Erica,10/17/2025 11:17,Nzuguni,Kwa masister ,Underground Leak,High,uPVC,4,11/17/2025 7:35,Edwin,Fixed,,2025/10/17_EG_2,1422,e4567a59-b628-4b41-88d1-5e4d5b33510c,35.84110413,-6.12179174
+Irene,10/21/2025 9:49,Nzuguni,Kanisa la Roma,Underground Leak,High,HDPE,2,10/21/2025 9:50,Sadiki,Fixed,,2025/10/21-IL-01,1423,ef50163c-9413-4d3e-a5a3-29f2f6478a62,35.84250897,-6.116931098
+Irene,10/21/2025 10:01,Nzuguni,Kanisa la Roma ,Underground Leak,Low,HDPE,1.5,10/21/2025 10:31,Edwin,Fixed,,2025/10/21-IL-02,1424,f8277f0e-2d90-4f76-a8d3-a4163a2dc52d,35.84248994,-6.117351676
+Irene,10/21/2025 10:57,Nzuguni,Shule ya msingi,Underground Leak,High,HDPE,4-Mar,10/21/2025 11:05,Sadiki,Fixed,,2025/10/21-IL-03,1425,7871a55a-1ac3-478b-bd1a-9aaac2d1ede1,35.84661945,-6.115683562
+Erica,10/21/2025 11:05,Nzuguni,mwisho wa lami,Underground Leak,High,HDPE,2,10/21/2025 11:20,Edwin,Fixed,,2025/10/21_EG_1,1426,159baf57-4bc8-4a09-a365-cbed82382fdf,35.85844569,-6.103552495
+Irene,10/21/2025 11:20,Nzuguni,Shule ya msingi ,Meter point,High,HDPE,1,10/21/2025 11:28,Sadiki,Fixed,,2025/10/21-IL-04,1427,191518a0-9102-42a2-bdcf-dbbe10d347b7,35.8466033,-6.116949073
+Mwiza,10/22/2025 7:30,Nzuguni,Kwa madeje,Meter point,High,HDPE,1,10/22/2025 7:30,Eliya,Fixed,,2025-10-22-MB-01,1428,4bc7d392-3cd8-4237-b37f-fcef43a93ee8,35.82260838,-6.1241496
+Mwiza,10/22/2025 7:45,Nzuguni,Gym,Underground Leak,Critical,HDPE,1.5,,Eliya,Temporal Fix,,2025-10-22-MB-02,1429,6b15b486-5df1-4c10-82d6-37b51eee2487,35.82666112,-6.120266817
+Erica,10/22/2025 8:38,Nzuguni,booster,Surface LEak,High,Steel,9,,Edwin,Nothing Done,,2025/10/22_EG_1,1430,4fa99750-1253-4cb8-980b-152e0697e974,35.86602449,-6.105455656
+Mwiza,10/23/2025 11:47,Nzuguni,Kwa mtendaji,Underground Leak,High,HDPE,2,,Eliya,Nothing Done,,2025-10-23-MB-01,1431,d699d7e6-0917-4ebe-8b66-a9ed3503b13e,35.82628418,-6.126906667
+Mwiza,10/27/2025 7:39,Nzuguni,Imani mashineni,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-10-27-MB-01,1432,e622e66e-de22-4d87-8244-dd9d1bb4c602,35.8189979,-6.137845833
+Mwiza,10/27/2025 8:05,Nzuguni,Mnarani,Underground Leak,Critical,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-10-27-MB-02,1433,460f5a23-159d-4cb0-8973-8738bd65b6ef,35.82405137,-6.1392615
+Mwiza,10/27/2025 8:22,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-10-27-MB-03,1434,5cbba969-eb87-45fa-b1d2-61cb7edad058,35.82704025,-6.133310433
+Mwiza,10/27/2025 9:06,Nzuguni,Shule ya msingi,Underground Leak,High,HDPE,4-Mar,10/28/2025 7:46,Eliya,Fixed,,2025-10-27-MB-04,1435,c4e79f8c-58de-4ade-bf25-6e785e1c818a,35.82034928,-6.130185584
+Mwiza,10/28/2025 8:48,Nzuguni,Kwa mtendaji,Meter point,High,HDPE,1,10/28/2025 10:08,Eliya,Fixed,,2025-10-28-MB-01,1436,45eb88e6-7e71-4e94-a90a-256a31e1c1ad,35.82605722,-6.126622733
+Erica,11/17/2025 7:32,Nzuguni,kanisa la sabato,Underground Leak,High,HDPE,2,,Edwin,Nothing Done,,2025/11/17_EG_1,1437,23e734c0-4b82-476c-9ba6-a51fda94111e,35.84198071,-6.120700209
+Erica,11/19/2025 6:41,Nzuguni,barabara ya God makuku  ,Underground Leak,High,HDPE,4-Mar,11/19/2025 7:56,Edwin,Fixed,,2025/11/25_EG_1,1438,a874a57c-829b-4103-ae09-c462a38b29d3,35.84722909,-6.119608934
+Erica,11/20/2025 6:57,Nzuguni,shule ya Msingi Nzuguni A,Underground Leak,Critical,HDPE,7,11/20/2025 10:49,Edwin,Fixed,,2025/11/2025_EG_1,1439,5e36b27e-e04e-4905-ac15-84b5036d14c0,35.84811306,-6.117747378
+Irene,11/21/2025 9:44,Nzuguni,nane nane,Underground Leak,High,HDPE,4-Mar,12/8/2025 9:02,Eliya,Fixed,,2025/11/21-IL-01,1440,f718f995-7155-497b-987d-7436397419bc,35.83019866,-6.14422585
+Erica,11/24/2025 9:11,Nzuguni,maweni,Underground Leak,High,HDPE,4-Mar,11/24/2025 9:19,Eliya,Temporal Fix,,2025/11/24_EG_1,1441,d0ae4206-3b0b-4a7b-b0c9-43e254fedcae,35.82638333,-6.132161667
+Erica,11/24/2025 9:33,Nzuguni,shule ya msingi Nzuguni B ,Burst Leak,Critical,uPVC,3,11/24/2025 9:41,Eliya,Fixed,,2025/11/24_EG_2,1442,bb6dd694-70e7-4564-ae5b-8f2ce2b89873,35.81926438,-6.129639702
+Irene,11/24/2025 10:42,Nzuguni,Kibao Cha Zima moto,Underground Leak,Critical,uPVC,7,11/24/2025 12:40,Edwin,Temporal Fix,,2025-24-11/IL/01,1443,4292b991-f2eb-4b1d-a85a-dbb81de52eef,35.84151965,-6.125530747
+Mwiza,11/25/2025 9:10,Nzuguni,Mbuyuni,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-11-25-MB-01,1444,c89dd62e-8759-41a0-af5b-59c423f2eeaf,35.82418637,-6.137742517
+Erica,11/26/2025 7:17,Nzuguni,secondary Nzuguni A,Underground Leak,High,HDPE,1,11/26/2025 8:00,Edwin,Fixed,,2025/11/26-EG-1,1445,13170533-7b7a-4d4b-935e-d8b6d1b09a77,35.83915917,-6.130034048
+Irene,11/26/2025 7:21,Nzuguni,secondary Nzuguni A,Underground Leak,High,HDPE,4-Mar,11/26/2025 7:57,Edwin,Fixed,,2025/11/26-IL-1,1446,1864fc15-ffb6-47e2-960b-09bd81ed6500,35.83948833,-6.130371667
+Mwiza,11/26/2025 8:04,Nzuguni,Nzuguni c,Underground Leak,High,HDPE,1.5,,Eliya,Nothing Done,,2025-11-26-MB-01,1447,8fe95d74-352e-4d89-8b3b-4bd4079a37f7,35.81360472,-6.142653467
+Mwiza,11/26/2025 8:16,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,4-Mar,11/26/2025 8:19,Eliya,Fixed,,2025-11-26-MB-02,1448,b6b7c6c4-f023-4795-9f5d-9ba4b04d2164,35.81661682,-6.129438517
+Irene,11/26/2025 10:58,Nzuguni,Nyumba Za yusufu,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025-26-IL-01,1449,29a9af65-3dc2-4d3f-b99f-a6c1bd053e91,35.85156172,-6.113672237
+Irene,11/26/2025 11:21,Nzuguni,Kilima hewa,Underground Leak,Low,HDPE,4-Mar,11/26/2025 11:41,Edwin,Fixed,,2025-26-11/IL/02,1450,21fad0ed-0388-4f9a-a4a5-1ea09cf2b679,35.84722692,-6.1276235
+Irene,11/26/2025 11:44,Nzuguni,Kilima hewa ,Underground Leak,Low,HDPE,4-Mar,,Edwin,Temporal Fix,,2025-26-11/IL/03,1451,03b192d0-be9b-4b65-b8cb-3e0332a99ec9,35.84843203,-6.127181882
+Erica,11/27/2025 12:21,Nzuguni,mwisho wa lami,Underground Leak,High,HDPE,1,11/27/2025 12:27,Edwin,Temporal Fix,,2025/11/27-EG-1,1452,389d18e3-fe32-4b74-a68c-0eddc7464ed4,35.86018833,-6.102395
+Erica,12/2/2025 9:26,Nzuguni,mwisho wa lami,Underground Leak,High,HDPE,1.5,12/2/2025 9:54,Edwin,Fixed,,2025/12/02-EG-1,1453,ee50fbc5-e306-416f-932a-85b3750f8a2e,35.85534086,-6.106866569
+Irene,12/2/2025 10:10,Nzuguni,sunshine ,Underground Leak,High,HDPE,1.5,12/2/2025 10:43,Edwin,Fixed,,2025/12/02-IL-1,1454,5f5d3232-dd3a-420c-b4ef-3496a7364217,35.85176483,-6.109035214
+Mwiza,12/2/2025 10:23,Nzuguni,Njia ya chuo,Underground Leak,High,HDPE,3,2/2/2026 10:42,Eliya,Fixed,,2025-12-02-MB-01,1455,2f2b3428-df48-4da3-90d4-93dee298953f,35.82060522,-6.122537717
+Erica,12/2/2025 11:00,Nzuguni,kilimahewa,Underground Leak,High,HDPE,1,12/2/2025 11:05,Edwin,Fixed,,2025/12/02-EG-2,1456,e826ec44-fd36-45be-ac4e-acaa3ffa5239,35.85085904,-6.123660672
+Irene,12/2/2025 11:08,Nzuguni,kilimahewa,Underground Leak,High,HDPE,1,12/2/2025 11:08,Edwin,Temporal Fix,,2025/12/02-IL-2,1457,22a71e92-ac4a-4eb0-992d-46e10499c9dd,35.85064053,-6.12350244
+Erica,12/2/2025 11:33,Nzuguni,kilimahewa ,Underground Leak,Low,HDPE,4-Mar,12/2/2025 11:34,Edwin,Fixed,,2025/12/02-EG-3,1458,a6e3544c-8c21-47fa-b90a-5a5ce3946511,35.84787901,-6.123058029
+Irene,12/2/2025 11:36,Nzuguni,kilimahewa ,Underground Leak,Low,HDPE,4-Mar,12/2/2025 11:36,Edwin,Fixed,,2025/12/02-IL-3,1459,9a46cada-d24c-4df0-bfae-25cf30c5fb41,35.84790216,-6.123282285
+Mwiza,12/3/2025 7:22,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Eliya,Fixed,,2025-12-03-MB-01,1460,07ba5175-bafe-4b76-a61d-d52182bd626c,35.82531987,-6.124561833
+Mwiza,12/3/2025 7:30,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-12-03-MB-02,1461,ba0e734a-6b25-42f5-a2f3-73daad923b3a,35.8220786,-6.127007683
+Mwiza,12/3/2025 7:34,Nzuguni,Njia ya shule,Underground Leak,High,HDPE,3,,Eliya,Fixed,,2025-12-03-MB-03,1462,c2e0561f-b901-4d71-9d43-01cbbe487ff0,35.81950332,-6.12665876
+Mwiza,12/3/2025 7:43,Nzuguni,Nzuguni B,Underground Leak,Critical,HDPE,4-Mar,,Eliya,Fixed,,2025-12-03-MB-04,1463,2b8652dc-1574-424f-8c04-53d9f8784e4b,35.81791067,-6.118484517
+Mwiza,12/3/2025 7:48,Nzuguni,Chui,Underground Leak,High,HDPE,4-Mar,12/15/2025 7:22,Eliya,Fixed,,2025-12-03-MB-05,1464,93d1fa04-966e-4abe-9c61-05b6e3df39c8,35.8184234,-6.116967816
+Erica,12/4/2025 6:36,Nzuguni,kwa masister,Underground Leak,High,HDPE,4-Mar,12/4/2025 6:38,Edwin,Fixed,,2025/12/04-EG-1,1465,46dbb854-616a-477d-8d0e-264540d91820,35.83784985,-6.121184291
+Irene,12/4/2025 7:08,Nzuguni,sunshine ,Underground Leak,High,HDPE,1.5,12/4/2025 7:09,Edwin,Temporal Fix,,2025/12/04-IL-1,1466,7ffa8541-5807-4431-a587-230a9d309b12,35.85693667,-6.110661666
+Mwiza,12/4/2025 8:07,Nzuguni,Nzuguni ilakoze,Underground Leak,High,HDPE,1,,Eliya,Nothing Done,,2025-12-04-MB-01,1467,c4aa5ffb-e805-4427-acb2-81c47bdb7479,35.8290805,-6.115746817
+Irene,12/4/2025 8:16,Nzuguni,Shule ya msingi ,Underground Leak,High,HDPE,1,12/4/2025 8:17, ,Temporal Fix,,2025/04/12/-IL-02,1468,052c633a-087f-4e80-bef7-38c4ca6aa21a,35.84890913,-6.119698736
+Mwiza,12/4/2025 8:23,Nzuguni,Nzuguni gym,Underground Leak,High,HDPE,4-Mar,,Eliya,Nothing Done,,2025-12-04-MB-02,1469,bc600fc8-3d72-4ab2-89d7-e818b0834f7d,35.82716032,-6.120317133
+Erica,12/4/2025 11:00,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,4-Mar,12/4/2025 11:14,Eliya,Temporal Fix,,2025/12/04-EG-2,1470,979314d1-6bc9-491f-bac0-93313698859b,35.83071399,-6.132899929
+Erica,12/5/2025 7:42,Nzuguni,kwa masister ,Underground Leak,High,HDPE,3,12/5/2025 8:23,Edwin,Fixed,,2025/12/05-EG-1,1471,2a1017f2-5c86-4425-8611-2d8b0ca4d316,35.83492908,-6.126580475
+Erica,12/8/2025 8:01,Nzuguni,shule ya msingi,Underground Leak,Low,HDPE,1.5,12/8/2025 8:06,Edwin,Temporal Fix,,2025/12/08-EG-1,1472,a5026814-8223-4353-b5e0-59a6d30d59e6,35.84842217,-6.117739721
+Mwiza,12/8/2025 8:15,Nzuguni,Nzuguni C,Underground Leak,High,HDPE,4-Mar,12/16/2025 7:50,Eliya,Fixed,,2025-12-08-MB-01,1473,51bd9ad8-c9d0-4fc8-9364-69e54089dc66,35.81637388,-6.138886033
+Mwiza,12/8/2025 8:18,Nzuguni,Nzuguni c,Underground Leak,High,HDPE,1,,Eliya,Temporal Fix,,2025-12-08-MB-02,1474,0408b598-8daf-4584-9429-e5f36aedf1c8,35.81640537,-6.1374829
+Erica,12/8/2025 9:39,Nzuguni,rahma,Underground Leak,High,HDPE,4-Mar,12/8/2025 9:45,Edwin,Temporal Fix,,2025/12/08-EG-2,1475,3c29a119-978f-4530-add8-005ba989d5df,35.83466833,-6.121746667
+Irene,12/8/2025 10:51,Nzuguni,kilimahewa ,Underground Leak,High,HDPE,4-Mar,12/8/2025 11:08,Edwin,Fixed,,2025/12/08-IL-01,1476,97b8fae4-e5ed-411e-a75c-235a6defb61a,35.85338,-6.119725
+Erica,12/8/2025 11:18,Nzuguni,kwa Mafia,Underground Leak,Critical,HDPE,1,12/8/2025 11:18,Edwin,Temporal Fix,,2025/12/08-EG-1,1477,2f718730-3cf9-46ef-b92c-8780f6f137e0,35.85217333,-6.118404426
+Erica,12/10/2025 7:46,Nzuguni,kanisa la ahlican,Underground Leak,High,HDPE,4-Mar,12/10/2025 8:51,Edwin,Fixed,,2025/12/10-EG-1,1478,2b7ff3e9-e84e-4555-86f2-0b6703c48525,35.84104135,-6.123371617
+Irene,12/10/2025 9:48,Nzuguni,kwa mjeshi,Underground Leak,High,HDPE,3,,Edwin,Nothing Done,,2025/12/10-IL-1,1479,5426d05d-8429-4ff7-9eef-a2cfd4404d52,35.84538667,-6.123651667
+Erica,12/12/2025 9:46,Nzuguni,kwa mjeshi,Underground Leak,High,HDPE,1.5,12/12/2025 10:25,Edwin,Fixed,,2025/12/12-EG-1,1480,40c06b31-7810-447c-a4ec-c29b3d0b988d,35.84828247,-6.124277742
+Irene,12/12/2025 9:49,Nzuguni,kwa mjeshi,Underground Leak,High,HDPE,4-Mar,12/12/2025 10:03,Edwin,Fixed,,2025/12/12-IL-1,1481,769e91ad-e6af-41b3-aa51-44711ce90f3d,35.84835887,-6.124203777
+Mwiza,12/15/2025 7:23,Nzuguni,Nane nane,Underground Leak,High,HDPE,1,12/15/2025 7:24,Sadiki,Fixed,,2025-12-15-MB-01,1482,0b3eea24-6df7-4ca8-a26f-214cabe366d6,35.83525252,-6.136442233
+Mwiza,12/15/2025 7:29,Nzuguni,Nane nane,Underground Leak,Critical,HDPE,2,,Sadiki,Temporal Fix,,2025-12-15-MB-02,1483,a2a92ac1-c915-41e6-b950-2882aef4043a,35.82717202,-6.141851567
+Mwiza,12/15/2025 7:39,Nzuguni,Nzuguni c,Underground Leak,High,HDPE,1,12/16/2025 7:49,Sadiki,Fixed,,2025-12-15-MB-03,1484,c1e58b87-27e6-42d3-bd2e-ee689cd22e84,35.81578932,-6.139126067
+Mwiza,12/16/2025 8:37,Nzuguni,Njia panda,Underground Leak,High,HDPE,4-Mar,12/16/2025 9:03,Eliya,Fixed,,2025-12-16-MB-01,1485,a591b13d-8ddf-459b-98bd-4a56f0acfc0f,35.82021827,-6.122284733
+Mwiza,12/16/2025 9:11,Nzuguni,Chamelo,Underground Leak,High,HDPE,1,12/23/2025 8:32,Sadiki,Fixed,,2025-12-16-MB-03,1486,eea235ee-4d3f-4af1-b99c-4f06d390fd62,35.80892572,-6.12781198
+Irene,12/17/2025 7:31,Nzuguni,Stop over ,Underground Leak,High,HDPE,4-Mar,12/17/2025 7:32,Edwin,Temporal Fix,,,1487,26e2f1a6-4b38-424d-9fe3-b187bfa5e6aa,35.84640996,-6.119916791
+Irene,12/17/2025 7:40,Nzuguni,Shule ya msingi,Underground Leak,High,HDPE,4-Mar,12/17/2025 7:40,Edwin,Temporal Fix,,2025/17/12- IL - 01,1488,e17f04ba-6535-4c6c-a3eb-b63e6a3a76e5,35.84769705,-6.118663263
+Irene,12/18/2025 8:42,Nzuguni,Kwa mjeshi ,Underground Leak,Critical,HDPE,2,12/18/2025 8:44,Edwin,Fixed,,2025/18/12-IL-01,1489,475b9722-5855-4687-bc05-65dbdaebf14c,35.84553066,-6.123829241
+Mwiza,12/18/2025 8:57,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,1,12/18/2025 9:10,Eliya,Fixed,,2025-12-18-MB-01,1490,81538007-4436-4e2b-a1cf-f1748e21dfba,35.824794,-6.132471333
+Mwiza,12/18/2025 9:18,Nzuguni,Nzuguni B,Underground Leak,High,HDPE,4-Mar,12/18/2025 9:44,Eliya,Fixed,,2025-12-18-MB-02,1491,c577b3a6-5706-4db4-af3a-bb5da612a37d,35.82763595,-6.130537717
+Erica,12/18/2025 10:57,Nzuguni,kwa masister/jagwani,Underground Leak,High,HDPE,1,12/18/2025 11:35,Edwin,Fixed,,2025/12/18-EG-1 ,1492,2b6dd86f-15ec-4f42-8a61-f7f7544eee68,35.83556553,-6.119414392
+Irene,12/18/2025 11:25,Nzuguni,kwa masister ,Underground Leak,High,HDPE,1,12/18/2025 11:39,Edwin,Temporal Fix,,2025/12/18-IL-1,1493,9304dd0e-33df-4427-a6e6-84964b4b9707,35.83554251,-6.11936706
+Erica,12/22/2025 9:23,Nzuguni,kwa mjeshi/kwa mbunge ,Underground Leak,High,HDPE,2,12/22/2025 10:43,Edwin,Fixed,,2025/12/22-EG-1,1494,9b2d6a27-29a9-476e-a93b-c6553200394c,35.8497422,-6.125467906
+Mwiza,12/23/2025 7:47,Nzuguni,Kwa madeje,Surface LEak,High,HDPE,1,12/23/2025 8:22,Eliya,Fixed,,2025-12-23-MB-01,1495,7bf0584c-947b-4a91-9817-94147bad7672,35.82536248,-6.124525583
+Mwiza,12/23/2025 8:24,Nzuguni,Chamelo,Underground Leak,High,HDPE,1.5,,Emily,Nothing Done,,2025-12-23-MB-02,1496,1604bca7-3519-43fa-b1bc-66892c44229e,35.81210085,-6.12764555
+Mwiza,12/24/2025 7:03,Nzuguni,Serena,Underground Leak,High,HDPE,1.5,,Emily,Nothing Done,,2025-12-24-MB-01,1497,e2015a4a-95ce-4f78-994f-070e82795791,35.81858659,-6.140204832
+Mwiza,12/24/2025 8:09,Nzuguni,Chamelo ,Burst Leak,High,HDPE,4-Mar,,Emily,Nothing Done,,2025-12-24-MB-02,1498,be30e64a-c7e8-4f06-a02c-2d395752d92a,35.80711712,-6.123844017
+Mwiza,12/24/2025 8:11,Nzuguni,Chamelo,,High,HDPE,2,,Emily,Temporal Fix,,2025-12-24-MB-03,1499,8d2b9976-adc9-4546-90e7-22d459a89cfd,35.8081041,-6.123933717
+Mwiza,12/24/2025 8:14,Nzuguni,Chamelo,Other,High,HDPE,2,,Emily,Temporal Fix,,2025-12-24-MB-04,1500,3576dd9f-8819-4eab-84ca-9224d6d18159,35.81285832,-6.123996547
+Mwiza,12/29/2025 8:21,Nzuguni,Mnarani,Burst Leak,Critical,HDPE,4-Mar,,Emily,Temporal Fix,,2025-12-29-MB-01,1501,bea7a38a-ff79-4da9-a150-e9ebdfb6e40a,35.82350623,-6.139197434
+Mwiza,12/29/2025 8:24,Nzuguni,Maabara mbuyuni,Underground Leak,High,HDPE,4-Mar,,Eliya,Temporal Fix,,2025-12-29-MB-02,1502,d8b65270-4f2d-4918-b649-394ed756e010,35.82419578,-6.137705183
+Erica,12/29/2025 11:29,Nzuguni,Kanisa la Roma,Underground Leak,High,HDPE,2,12/29/2025 11:30,Edwin,Temporal Fix,,2025/12/29-EG-1,1503,8ddf9b41-ca14-473e-a74d-882acf8428bb,35.84243323,-6.117849333
+Erica,12/29/2025 11:32,Nzuguni,Kanisa la Roma ,Underground Leak,High,HDPE,2,12/29/2025 11:32,Edwin,Temporal Fix,,2025/12/29-EG-2,1504,04e02f4b-1ec7-4f74-8ec2-a913260e6b3b,35.8422773,-6.117126552
+Erica,1/16/2026 10:02,Nzuguni,Kwa balozi Michael ,Underground Leak,High,HDPE,4-Mar,1/16/2026 10:03,Edwin,Temporal Fix,,2026/01/16-EG-1,1505,af088dc7-4863-4695-87dc-17e95857a1f7,35.84169557,-6.119302424
+Erica,1/19/2026 8:11,Nzuguni,Kwa msukuma,Underground Leak,High,HDPE,4-Mar,,Edwin,Temporal Fix,,2025/01/19-EG-1,1506,08fc06cb-a652-43d7-b6bc-dc027585d849,35.83876975,-6.117454114
+Erica,1/19/2026 8:46,Nzuguni,Kwa msukuma,Underground Leak,High,HDPE,1,1/19/2026 8:46,Edwin,Temporal Fix,,2026/01/19-EG-2,1507,9f8f9099-2c11-4745-813f-2b7332664790,35.83920905,-6.117422437
+Irene,1/22/2026 10:49,Nzuguni,Bwawani,Underground Leak,High,HDPE,4-Mar,1/22/2026 10:50,Sadiki,Fixed,,1/21/2026,1508,8127610b-00ba-4275-a556-cc741f9c8958,35.8263585,-6.123646227
+Irene,1/22/2026 11:12,Nzuguni,Kwa madeje ,Surface LEak,High,HDPE,1,1/22/2026 11:13,Sadiki,Fixed,,2026-01-21/IL/02,1509,a899f132-f3a2-470e-8b1f-2a76e2a1ed31,35.82455048,-6.123935367
+Erica,1/23/2026 9:17,Nzuguni,Njia ya kuelekea chuo,Underground Leak,High,HDPE,2,1/23/2026 9:18,Sadiki,Fixed,,1/23/2025,1510,9d7f8ce5-475e-426d-be0f-1abcb04c626a,35.82108223,-6.122784226
+Irene,1/23/2026 9:45,Nzuguni,Kwa madeje,Underground Leak,High,HDPE,2,1/23/2026 9:46,Sadiki,Fixed,,2025/01/23-IL-1,1511,9197f467-13d9-43ae-b846-60ca350e2927,35.82331084,-6.123357447
+Erica,1/23/2026 10:10,Nzuguni,Kwa madeje,Underground Leak,High,HDPE,4-Mar,1/23/2026 10:12,Sadiki,Temporal Fix,,2026/01/23-EG-2,1512,b1b1030b-6d97-44f1-9adb-e6af67e822b0,35.82475,-6.122741666
+Irene,1/23/2026 10:20,Nzuguni,Kwa madeje,Underground Leak,High,HDPE,4-Mar,1/23/2026 10:20,Sadiki,Fixed,,2026/01/23-IL-2,1513,1803d925-a70e-4f4f-b9c3-67e60c79da08,35.82301317,-6.122231751
+Erica,1/23/2026 11:23,Nzuguni,Kwa madeje ,Underground Leak,High,HDPE,4-Mar,1/23/2026 11:24,Sadiki,Fixed,,2026/01/23-EG-3,1514,a1d0ee10-eff8-4634-b238-ccb0c5951421,35.82541333,-6.122705
+Irene,1/26/2026 10:41,Nzuguni,,Underground Leak,Critical,uPVC,3,,Edwin,Temporal Fix,,2026/01/26/-IL-01,1515,667fd923-b21c-4ef7-bceb-30fcc037ee56,35.83962276,-6.120718716
+Mwiza,1/30/2026 7:32,Kisasa,Nzuguni c,Burst Leak,High,HDPE,1,,Emily,Temporal Fix,,2026-01-30-MB-01,1516,b66390d0-bb28-4341-8895-ed61fa971cbd,35.82590778,-6.137509913
+Irene,1/30/2026 9:10,Nzuguni,Kanisan la anglikana,Underground Leak,High,HDPE,4-Mar,1/30/2026 9:11,Edwin,Fixed,,2026-30-01/IL/01,1517,f20697d3-b667-4551-b6c1-03a0df5550c9,35.84107669,-6.122517576
+Mwiza,2/4/2026 10:06,Nzuguni,Kwa amos mleche,Underground Leak,High,HDPE,4-Mar,,Emily,Nothing Done,,2026-02-04-MB-01,1518,b876a6b1-9639-4e0d-9079-f71fa521fea6,35.82432284,-6.130930349
+Mwiza,2/4/2026 11:17,Nzuguni,Msikitini,Burst Leak,Critical,HDPE,4-Mar,,Emily,Nothing Done,,2026-02-04-MB-02,1519,a5dd2e36-3f0d-4d9a-80e8-568658e4031a,35.82886763,-6.13361735
+Mwiza,2/4/2026 11:33,Nzuguni,Msikitini,Burst Leak,High,HDPE,4-Mar,,Emily,Nothing Done,,2026-02-04-MB-03,1520,3217592d-22d9-43bc-a12d-102c12121941,35.82908356,-6.133416877
+Mwiza,2/4/2026 11:43,Nzuguni,Redstone lodge,Underground Leak,High,HDPE,4-Mar,,Emily,Fixed,,2026-02-04-MB-04,1521,c7d63279-1a0d-4328-9c9d-9c7e6469296e,35.82681618,-6.137646216
+Irene,2/6/2026 8:15,Nzuguni,Kilima hewa,Underground Leak,Critical,uPVC,4,2/6/2026 8:16,Edwin,Fixed,,2026/06/02-IL-01,1522,2f2a564f-a454-40cf-9e1e-7b28e1da0485,35.86036579,-6.111635615
+Irene,2/6/2026 9:49,Nzuguni,Kilima hewa ,Underground Leak,High,HDPE,1.5,,Edwin,Nothing Done,,2026/06/02-IL-02,1523,c6c0eba1-3d1c-479a-919e-5a67293ae934,35.85699754,-6.110526039
