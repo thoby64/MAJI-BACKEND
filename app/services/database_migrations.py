@@ -23,8 +23,8 @@ def _run_postgres_ddl_without_timeout(
     *,
     required: bool = False,
 ) -> bool:
-    connection.exec_driver_sql("SET LOCAL statement_timeout = '90s'")
-    connection.exec_driver_sql("SET LOCAL lock_timeout = '60s'")
+    connection.exec_driver_sql("SET LOCAL statement_timeout = '30s'")
+    connection.exec_driver_sql("SET LOCAL lock_timeout = '5s'")
     try:
         connection.exec_driver_sql(statement)
     except OperationalError as exc:
@@ -651,7 +651,6 @@ def _migrate_utility_contact_columns(engine: Engine) -> None:
                 if not _run_postgres_ddl_without_timeout(
                     connection,
                     statement,
-                    required=True,
                 ):
                     return
             else:
@@ -713,7 +712,6 @@ def _migrate_utility_service_area_table(engine: Engine) -> None:
                 if not _run_postgres_ddl_without_timeout(
                     connection,
                     statement,
-                    required=True,
                 ):
                     return
 
