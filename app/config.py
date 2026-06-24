@@ -136,11 +136,14 @@ class Settings(BaseSettings):
         self.public_backend_url = self.public_backend_url.rstrip("/")
         if self.environment == "production" and "frontend_url" not in self.__pydantic_fields_set__:
             self.frontend_url = ""
+        if self.environment == "production":
+            self.run_startup_migrations = False
+            self.run_startup_schema_sync = False
         if "debug" not in self.__pydantic_fields_set__:
             self.debug = self.environment == "development"
-        if "run_startup_migrations" not in self.__pydantic_fields_set__:
+        if self.environment != "production" and "run_startup_migrations" not in self.__pydantic_fields_set__:
             self.run_startup_migrations = self.environment != "production"
-        if "run_startup_schema_sync" not in self.__pydantic_fields_set__:
+        if self.environment != "production" and "run_startup_schema_sync" not in self.__pydantic_fields_set__:
             self.run_startup_schema_sync = self.environment != "production"
         return self
 
