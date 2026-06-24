@@ -17,14 +17,25 @@ from sqlalchemy.engine import Engine
 from sqlalchemy.exc import OperationalError
 
 
-def _run_postgres_ddl_without_timeout(connection, statement: str) -> bool:
-    connection.exec_driver_sql("SET LOCAL statement_timeout = '30s'")
-    connection.exec_driver_sql("SET LOCAL lock_timeout = '5s'")
+def _run_postgres_ddl_without_timeout(
+    connection,
+    statement: str,
+    *,
+    required: bool = False,
+) -> bool:
+    connection.exec_driver_sql("SET LOCAL statement_timeout = '90s'")
+    connection.exec_driver_sql("SET LOCAL lock_timeout = '60s'")
     try:
         connection.exec_driver_sql(statement)
     except OperationalError as exc:
         if _is_lock_or_statement_timeout(exc):
             compact_statement = " ".join(statement.split())
+            if required:
+                print(
+                    "[startup-migrations] Required PostgreSQL DDL could not get a "
+                    f"database lock in time: {compact_statement}"
+                )
+                raise
             print(
                 "[startup-migrations] Skipping PostgreSQL DDL because the database "
                 f"did not grant the lock quickly enough: {compact_statement}"
@@ -637,7 +648,11 @@ def _migrate_utility_contact_columns(engine: Engine) -> None:
     with engine.begin() as connection:
         for statement in statements:
             if is_postgres:
-                if not _run_postgres_ddl_without_timeout(connection, statement):
+                if not _run_postgres_ddl_without_timeout(
+                    connection,
+                    statement,
+                    required=True,
+                ):
                     return
             else:
                 connection.exec_driver_sql(statement)
@@ -695,7 +710,11 @@ def _migrate_utility_service_area_table(engine: Engine) -> None:
                 "CREATE INDEX IF NOT EXISTS ix_utility_service_area_admin_area_id ON utility_service_area (admin_area_id)",
             ]
             for statement in ddl_statements:
-                if not _run_postgres_ddl_without_timeout(connection, statement):
+                if not _run_postgres_ddl_without_timeout(
+                    connection,
+                    statement,
+                    required=True,
+                ):
                     return
 
 
