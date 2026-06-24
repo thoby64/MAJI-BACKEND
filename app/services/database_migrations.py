@@ -109,10 +109,11 @@ def _migrate_dma_boundary_columns(engine: Engine) -> None:
 
     with engine.begin() as connection:
         if engine.dialect.name.startswith("postgresql"):
-            _run_postgres_ddl_without_timeout(
+            if not _run_postgres_ddl_without_timeout(
                 connection,
                 'ALTER TABLE dma ADD COLUMN IF NOT EXISTS boundary_geojson TEXT',
-            )
+            ):
+                return
         else:
             connection.exec_driver_sql("ALTER TABLE dma ADD COLUMN boundary_geojson TEXT")
 
@@ -126,7 +127,7 @@ def _migrate_utility_infrastructure_layer_table(engine: Engine) -> None:
 
     with engine.begin() as connection:
         if engine.dialect.name.startswith("postgresql"):
-            _run_postgres_ddl_without_timeout(
+            created_table = _run_postgres_ddl_without_timeout(
                 connection,
                 '''
                 CREATE TABLE IF NOT EXISTS utility_infrastructure_layer (
@@ -145,9 +146,15 @@ def _migrate_utility_infrastructure_layer_table(engine: Engine) -> None:
                 )
                 '''
             )
-            connection.exec_driver_sql("CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_utility_id ON utility_infrastructure_layer (utility_id)")
-            connection.exec_driver_sql("CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_asset_type ON utility_infrastructure_layer (asset_type)")
-            connection.exec_driver_sql("CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_uploaded_by_manager_id ON utility_infrastructure_layer (uploaded_by_manager_id)")
+            if not created_table:
+                return
+            for statement in [
+                "CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_utility_id ON utility_infrastructure_layer (utility_id)",
+                "CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_asset_type ON utility_infrastructure_layer (asset_type)",
+                "CREATE INDEX IF NOT EXISTS ix_utility_infrastructure_layer_uploaded_by_manager_id ON utility_infrastructure_layer (uploaded_by_manager_id)",
+            ]:
+                if not _run_postgres_ddl_without_timeout(connection, statement):
+                    return
         else:
             connection.exec_driver_sql(
                 '''
@@ -181,10 +188,11 @@ def _drop_legacy_utility_pipe_network_table(engine: Engine) -> None:
 
     with engine.begin() as connection:
         if engine.dialect.name.startswith("postgresql"):
-            _run_postgres_ddl_without_timeout(
+            if not _run_postgres_ddl_without_timeout(
                 connection,
                 'DROP TABLE IF EXISTS utility_pipe_network CASCADE',
-            )
+            ):
+                return
         else:
             connection.exec_driver_sql("DROP TABLE IF EXISTS utility_pipe_network")
 
@@ -198,16 +206,21 @@ def _migrate_report_leakage_type_column(engine: Engine) -> None:
     if "leakage_type" not in columns:
         with engine.begin() as connection:
             if engine.dialect.name.startswith("postgresql"):
-                _run_postgres_ddl_without_timeout(
+                if not _run_postgres_ddl_without_timeout(
                     connection,
                     "ALTER TABLE report ADD COLUMN IF NOT EXISTS leakage_type VARCHAR(50) NOT NULL DEFAULT 'unknown'",
-                )
+                ):
+                    return
             else:
                 connection.exec_driver_sql("ALTER TABLE report ADD COLUMN leakage_type VARCHAR(50) NOT NULL DEFAULT 'unknown'")
 
     with engine.begin() as connection:
         if engine.dialect.name.startswith("postgresql"):
-            connection.exec_driver_sql("CREATE INDEX IF NOT EXISTS ix_report_leakage_type ON report (leakage_type)")
+            if not _run_postgres_ddl_without_timeout(
+                connection,
+                "CREATE INDEX IF NOT EXISTS ix_report_leakage_type ON report (leakage_type)",
+            ):
+                return
         else:
             connection.exec_driver_sql("CREATE INDEX IF NOT EXISTS ix_report_leakage_type ON report (leakage_type)")
 
@@ -624,7 +637,8 @@ def _migrate_utility_contact_columns(engine: Engine) -> None:
     with engine.begin() as connection:
         for statement in statements:
             if is_postgres:
-                _run_postgres_ddl_without_timeout(connection, statement)
+                if not _run_postgres_ddl_without_timeout(connection, statement):
+                    return
             else:
                 connection.exec_driver_sql(statement)
 
